@@ -12,7 +12,7 @@ jobs:
       -
         name: Do stuff
         run: |
-          python3 -m pip install -r requirements.lock
+          python3 -m pip install -r requirements.txt
           python main.py
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
