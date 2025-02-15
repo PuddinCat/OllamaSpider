@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "38 * * * *"
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -10,9 +12,12 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
       -
-        name: Do stuff
+        name: Install Packages
         run: |
           python3 -m pip install -r requirements.txt
+      -
+        name: Do stuff
+        run: |
           python main.py
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
