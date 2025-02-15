@@ -37,13 +37,16 @@ async def shodan_query(query: str):
 async def list_models(client: httpx.AsyncClient, url: str) -> list[ModelInfo] | None:
     try:
         resp = await client.get(url + "/api/tags")
-        return list(
+        result: list[ModelInfo] = list(
             {
                 "name": info.get("name", "Unknown"),
                 "size": info.get("details", {}).get("parameter_size", None),
             }
             for info in resp.json().get("models", [])
         )
+        result.sort(key = (lambda info: size_to_int(info["size"]) if info["size"] else 0), reverse=True)
+        result.sort(key = lambda info: info["name"][:3])
+        return result
     except Exception:
         return None
 
@@ -77,6 +80,16 @@ async def main():
         )
         url_models = dict(url_models_list)
 
+    readme = Path("./README_template.md").read_text(encoding="utf-8")
+    models_text = ""
+    for url, models in url_models.items():
+        if not models:
+            continue
+        models_text += f"- {url}\n"
+        models_text += "".join(f"  - {model_info['name']}\n" for model_info in models)
+
+    Path("./README.md").write_text(readme.format(models_text=models_text))
+    
     time_now = int(time.time())
 
     for url in url_models.keys():
