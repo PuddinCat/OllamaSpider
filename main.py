@@ -1,6 +1,7 @@
 from pathlib import Path
 from typing import TypedDict
 import asyncio
+import base64
 import json
 import random
 import time
@@ -9,7 +10,7 @@ import httpx
 from tqdm import tqdm
 
 MAX_ALIVE_INTERVAL = 86400  # a day
-scan_semaphore = asyncio.Semaphore(128)
+scan_semaphore = asyncio.Semaphore(32)
 
 
 class ModelInfo(TypedDict):
@@ -33,6 +34,25 @@ async def shodan_query(query: str):
         )
         return [
             f"http://{item['ip_str']}:{item['port']}"
+            for item in resp.json().get("matches", [])
+        ]
+
+
+async def zoomeye_query(query: str):
+    async with httpx.AsyncClient() as client:
+        resp = await client.get(
+            "https://www.zoomeye.ai/api/search",
+            params={
+                "q": base64.b64encode(query.encode()).decode(),
+                "page": 1,
+                "t": "v4 v6 web",
+            },
+            headers={
+                "User-Agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0",
+            },
+        )
+        return [
+            f"http://{item['ip']}:{item['portinfo']['port']}"
             for item in resp.json().get("matches", [])
         ]
 
@@ -68,7 +88,15 @@ async def list_models(
 async def main():
 
     urls_path = Path("urls.json")
-    urls = await shodan_query("Ollama is running")
+    urls = [
+        url
+        for urls in (await asyncio.gather(
+            shodan_query("Ollama is running"),
+            zoomeye_query('"Ollama is running" && port=11434'),
+        ))
+        for url in urls
+    ]
+
     if urls_path.exists():
         urls += json.loads(urls_path.read_text(encoding="utf-8"))
         urls = list(set(urls))
