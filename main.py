@@ -1,17 +1,20 @@
-from typing import TypedDict
 from pathlib import Path
+from typing import TypedDict
 import asyncio
 import json
+import random
 import time
 
 import httpx
+from tqdm import tqdm
 
 MAX_ALIVE_INTERVAL = 86400  # a day
+scan_semaphore = asyncio.Semaphore(128)
 
 
 class ModelInfo(TypedDict):
     name: str
-    size: str | None
+    size: int
 
 
 def size_to_int(size: str):
@@ -34,21 +37,32 @@ async def shodan_query(query: str):
         ]
 
 
-async def list_models(client: httpx.AsyncClient, url: str) -> list[ModelInfo] | None:
+async def list_models(
+    client: httpx.AsyncClient, url: str, pbar: tqdm | None
+) -> list[ModelInfo] | None:
     try:
-        resp = await client.get(url + "/api/tags")
+        resp = None
+        async with scan_semaphore:
+            resp = await client.get(url + "/api/tags")
+
         result: list[ModelInfo] = list(
             {
                 "name": info.get("name", "Unknown"),
-                "size": info.get("details", {}).get("parameter_size", None),
+                "size": info.get("size", 0),
             }
             for info in resp.json().get("models", [])
         )
-        result.sort(key = (lambda info: size_to_int(info["size"]) if info["size"] else 0), reverse=True)
-        result.sort(key = lambda info: info["name"][:3])
+        result.sort(
+            key=(lambda info: info["size"]),
+            reverse=True,
+        )
+        result.sort(key=lambda info: info["name"][:3])
         return result
     except Exception:
         return None
+    finally:
+        if pbar:
+            pbar.update(1)
 
 
 async def main():
@@ -59,6 +73,8 @@ async def main():
         urls += json.loads(urls_path.read_text(encoding="utf-8"))
         urls = list(set(urls))
 
+    random.shuffle(urls)
+
     request_success_time: dict[str, int] = {}
     request_success_time_path = Path("request_success_time.json")
     if request_success_time_path.exists():
@@ -67,15 +83,12 @@ async def main():
         )
 
     url_models = None
+    pbar = tqdm(total=len(urls))
     async with httpx.AsyncClient(timeout=10) as client:
-        models = await asyncio.gather(*[list_models(client, url) for url in urls])
+        models = await asyncio.gather(*[list_models(client, url, pbar) for url in urls])
         url_models_list = [(url, models) for url, models in zip(urls, models) if models]
         url_models_list.sort(
-            key=lambda info: max(
-                size_to_int(model_info["size"])
-                for model_info in info[1]
-                if model_info["size"]
-            ),
+            key=lambda info: max(model_info["size"] for model_info in info[1]),
             reverse=True,
         )
         url_models = dict(url_models_list)
@@ -88,8 +101,10 @@ async def main():
         models_text += f"- {url}\n"
         models_text += "".join(f"  - {model_info['name']}\n" for model_info in models)
 
-    Path("./README.md").write_text(readme.format(models_text=models_text))
-    
+    Path("./README.md").write_text(
+        readme.format(models_text=models_text), encoding="utf-8"
+    )
+
     time_now = int(time.time())
 
     for url in url_models.keys():
