@@ -25,10 +25,6 @@
   - qwen2.5-coder:7b
   - qwen2.5-coder:3b
   - qwen:0.5b
-- http://36.112.150.185:9002
-  - deepseek-r1:70b
-  - deepseek-r1-70b:latest
-  - deepseek-r1:32b
 - http://113.128.247.246:9002
   - deepseek-r1:70b
   - deepseek-r1:14b
@@ -36,10 +32,6 @@
   - deepseek-coder:6.7b
   - deepseek-r1:1.5b
   - huihui_ai/deepseek-r1-abliterated:32b
-- http://112.47.3.184:3001
-  - deepseek-r1:70b
-  - deepseek-r1:14b
-  - deepseek-r1:8b
 - http://81.214.136.96:4444
   - deepseek-coder-v2:16b
   - gemma2:27b
@@ -54,6 +46,10 @@
   - qwen2.5-coder:32b
   - snowflake-arctic-embed:latest
   - starcoder2:15b
+- http://112.47.3.184:3001
+  - deepseek-r1:70b
+  - deepseek-r1:14b
+  - deepseek-r1:8b
 - http://13.89.246.247:8081
   - KC46_14llm:latest
   - deepseek-r1:70b-llama-distill-q4_K_M
@@ -61,21 +57,10 @@
   - huihui_ai/deepseek-r1-abliterated:latest
   - llama3.1:8b-instruct-fp16
   - llama3.2:latest
-- http://88.14.165.202:7434
-  - bge-m3:latest
+- http://36.112.150.185:9002
   - deepseek-r1:70b
-  - deepseek-r1_14b_128k:latest
-  - deepseek-r1_14b_64k:latest
-  - deepseek-r1:14b
-  - deepseek-r1_14b_32k:latest
-  - deepseek-r1_14b_90k:latest
-  - deepseek-r1:8b
-  - llama33_70B:latest
-  - llama33_70B16k:latest
-  - llama33_70B4k:latest
-  - llama33_70B8k:latest
-  - qwen2.5-coder:32b
-  - qwen2.5:7b-1M
+  - deepseek-r1-70b:latest
+  - deepseek-r1:32b
 - http://148.251.44.175:9091
   - deepseek-r1:14b
   - gemma:latest
@@ -89,7 +74,53 @@
   - qwen2.5:1.5b
   - qwen2.5:0.5b
   - tinyllama:latest
+- http://88.14.165.202:7434
+  - bge-m3:latest
+  - deepseek-r1:70b
+  - deepseek-r1_14b_90k:latest
+  - deepseek-r1_14b_128k:latest
+  - deepseek-r1_14b_32k:latest
+  - deepseek-r1:14b
+  - deepseek-r1_14b_64k:latest
+  - deepseek-r1:8b
+  - llama33_70B16k:latest
+  - llama33_70B4k:latest
+  - llama33_70B:latest
+  - llama33_70B8k:latest
+  - qwen2.5-coder:32b
+  - qwen2.5:7b-1M
+- http://150.230.141.10:5001
+  - deepseek-r1:32b
+  - gemma2:27b
+  - llama3.1:8b-instruct-q4_K_M
+  - llama2:latest
+  - llama3.2:latest
+  - qwen2.5-coder:32b
+  - tinyllama:latest
 - http://174.138.79.146:3001
+  - qwen2.5-coder:32b
+- http://34.135.140.160:8081
+  - ALIENTELLIGENCE/doctorai:latest
+  - deepseek-r1:latest
+  - huihui_ai/deepseek-r1-abliterated:14b
+  - jimscard/dolphin:latest
+  - llama3.1:8b-instruct-q4_K_M
+  - llama3.2:latest
+  - qwen2.5-coder:32b
+  - qwen2.5-coder:0.5b
+- http://39.98.113.97:3306
+  - qwen2.5-coder:32b
+  - qwen2.5:1.5b
+- http://87.121.72.15:8089
+  - ALIENTELLIGENCE/whiterabbitv2:latest
+  - deepseek-r1:latest
+  - gemma2:27b
+  - llama3.1:latest
+  - llama2-uncensored:latest
+  - llava:latest
+  - llama3.2:latest
+  - mistral:instruct
+  - phi3:14b
   - qwen2.5-coder:32b
 - http://36.138.209.244:8834
   - deepseek-r1:32b
@@ -100,8 +131,6 @@
   - qwen2:7b
   - qwen2.5:1.5b
   - shaw/dmeta-embedding-zh:latest
-- http://222.221.183.170:5555
-  - deepseek-r1:32b
 - http://8.219.63.82:7434
   - bge-m3:latest
   - codellama:13b
@@ -123,37 +152,8 @@
   - qwq:latest
   - shaw/dmeta-embedding-zh:latest
   - starcoder2:15b
-- http://34.135.140.160:8081
-  - ALIENTELLIGENCE/doctorai:latest
-  - deepseek-r1:latest
-  - huihui_ai/deepseek-r1-abliterated:14b
-  - jimscard/dolphin:latest
-  - llama3.1:8b-instruct-q4_K_M
-  - llama3.2:latest
-  - qwen2.5-coder:32b
-  - qwen2.5-coder:0.5b
-- http://150.230.141.10:5001
+- http://222.221.183.170:5555
   - deepseek-r1:32b
-  - gemma2:27b
-  - llama3.1:8b-instruct-q4_K_M
-  - llama2:latest
-  - llama3.2:latest
-  - qwen2.5-coder:32b
-  - tinyllama:latest
-- http://87.121.72.15:8089
-  - ALIENTELLIGENCE/whiterabbitv2:latest
-  - deepseek-r1:latest
-  - gemma2:27b
-  - llama3.1:latest
-  - llama2-uncensored:latest
-  - llava:latest
-  - llama3.2:latest
-  - mistral:instruct
-  - phi3:14b
-  - qwen2.5-coder:32b
-- http://39.98.113.97:3306
-  - qwen2.5-coder:32b
-  - qwen2.5:1.5b
 - http://140.245.245.179:9091
   - deepseek-r1:1.5b
   - gemma2:27b
@@ -163,6 +163,10 @@
   - gemma2:27b
   - gemma2:9b
   - gemma2:2b
+- http://61.152.96.242:50000
+  - deepseek-r1:14b
+  - deepseek-r1:8b
+  - deepseek-r1:1.5b
 - http://8.134.167.177:7001
   - deepseek-r1:14b
   - erwan2/DeepSeek-Janus-Pro-7B:latest
@@ -171,14 +175,6 @@
   - nomic-embed-text:latest
   - qwen2.5:14b
   - snowflake-arctic-embed2:latest
-- http://219.94.235.119:9002
-  - deepseek-r1-jp-code:latest
-  - hf.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf:Q5_K_M
-  - nomic-embed-text:latest
-- http://61.152.96.242:50000
-  - deepseek-r1:14b
-  - deepseek-r1:8b
-  - deepseek-r1:1.5b
 - http://103.39.132.243:5001
   - phi4:latest
 - http://47.109.148.231:8083
@@ -193,11 +189,11 @@
   - granite3.1-dense:8b
 - http://1.192.147.177:7434
   - deepseek-r1:8b
-- http://47.121.31.141:5001
-  - deepseek-r1:8b
 - http://35.205.104.177:50000
   - deepseek-r1:latest
   - llama3.1:latest
+- http://47.121.31.141:5001
+  - deepseek-r1:8b
 - http://116.202.11.22:8085
   - deepseek-r1:7b
   - deepseek-r1:1.5b
