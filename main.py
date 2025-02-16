@@ -90,10 +90,12 @@ async def main():
     urls_path = Path("urls.json")
     urls = [
         url
-        for urls in (await asyncio.gather(
-            shodan_query("Ollama is running"),
-            zoomeye_query('"Ollama is running" && port=11434'),
-        ))
+        for urls in (
+            await asyncio.gather(
+                shodan_query("Ollama is running"),
+                zoomeye_query('app="Ollama"'),
+            )
+        )
         for url in urls
     ]
 
@@ -126,8 +128,11 @@ async def main():
     for url, models in url_models.items():
         if not models:
             continue
-        models_text += f"- {url}\n"
-        models_text += "".join(f"  - {model_info['name']}\n" for model_info in models)
+        models_text += (
+            f"- [{url}]({url}): "
+            + " | ".join(model_info["name"] for model_info in models)
+            + "\n"
+        )
 
     Path("./README.md").write_text(
         readme.format(models_text=models_text), encoding="utf-8"
