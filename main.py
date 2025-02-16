@@ -123,6 +123,17 @@ async def main():
         )
         url_models = dict(url_models_list)
 
+    Path("url_models.json").write_text(
+        json.dumps([
+            {
+                "url": url,
+                "models": models
+            }
+            for url, models in url_models.items() 
+        ]),
+        encoding="utf-8"
+    )
+
     readme = Path("./README_template.md").read_text(encoding="utf-8")
     models_text = ""
     for url, models in url_models.items():
