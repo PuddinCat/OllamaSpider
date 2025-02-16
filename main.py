@@ -10,7 +10,7 @@ import httpx
 from tqdm import tqdm
 
 MAX_ALIVE_INTERVAL = 86400  # a day
-scan_semaphore = asyncio.Semaphore(32)
+scan_semaphore = asyncio.Semaphore(128)
 
 
 class ModelInfo(TypedDict):
