@@ -9,7 +9,7 @@ import time
 import httpx
 from tqdm import tqdm
 
-MAX_ALIVE_INTERVAL = 86400  # a day
+MAX_ALIVE_INTERVAL = 86400 * 3  # 3 days
 scan_semaphore = asyncio.Semaphore(128)
 
 
