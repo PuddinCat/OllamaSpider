@@ -136,10 +136,10 @@ async def main():
     Path("speeds.json").write_text(json.dumps(speeds))
 
     url_speeds = ""
-    for url, lst in speeds:
-        url_speeds += f"- [{url}]({url}): "
-        for speed in lst:
-            url_speeds += f"  - {speed['speed']:.4f} token/s {speed['model']}"
+    for url_info in speeds:
+        url_speeds += f"- [{url_info['url']}]({url_info['url']}): \n"
+        for speed in url_info["speeds"]:
+            url_speeds += f"  - {speed['speed']:.4f} token/s {speed['model']}\n"
 
     readme = Path("./README_template.md").read_text(encoding="utf-8")
     models_text = ""
