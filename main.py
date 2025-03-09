@@ -9,6 +9,8 @@ import time
 import httpx
 from tqdm import tqdm
 
+from speedtest import test_speed
+
 MAX_ALIVE_INTERVAL = 86400 * 3  # 3 days
 scan_semaphore = asyncio.Semaphore(128)
 
@@ -124,15 +126,14 @@ async def main():
         url_models = dict(url_models_list)
 
     Path("url_models.json").write_text(
-        json.dumps([
-            {
-                "url": url,
-                "models": models
-            }
-            for url, models in url_models.items() 
-        ]),
-        encoding="utf-8"
+        json.dumps(
+            [{"url": url, "models": models} for url, models in url_models.items()]
+        ),
+        encoding="utf-8",
     )
+
+    speeds = await test_speed(list(url_models.keys()))
+    Path("speeds.json").write_text(json.dumps(speeds))
 
     readme = Path("./README_template.md").read_text(encoding="utf-8")
     models_text = ""
