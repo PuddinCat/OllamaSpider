@@ -135,6 +135,12 @@ async def main():
     speeds = await test_speed(list(url_models.keys()))
     Path("speeds.json").write_text(json.dumps(speeds))
 
+    url_speeds = ""
+    for url, lst in speeds:
+        url_speeds += f"- [{url}]({url}): "
+        for speed in lst:
+            url_speeds += f"  - {speed['speed']:.4f} token/s {speed['model']}"
+
     readme = Path("./README_template.md").read_text(encoding="utf-8")
     models_text = ""
     for url, models in url_models.items():
@@ -147,7 +153,7 @@ async def main():
         )
 
     Path("./README.md").write_text(
-        readme.format(models_text=models_text), encoding="utf-8"
+        readme.format(models_text=models_text, url_speeds=url_speeds), encoding="utf-8"
     )
 
     time_now = int(time.time())
