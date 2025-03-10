@@ -136,7 +136,7 @@ async def main():
     Path("speeds.json").write_text(json.dumps(speeds))
 
     url_speeds = ""
-    for url_info in speeds[:20]:
+    for url_info in speeds[:50]:
         url_speeds += f"- [{url_info['url']}]({url_info['url']}): \n"
         for speed in url_info["speeds"]:
             url_speeds += f"  - {speed['speed']:.4f} token/s {speed['model']}\n"

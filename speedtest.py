@@ -12,7 +12,7 @@ url = "https://raw.githubusercontent.com/PuddinCat/OllamaSpider/refs/heads/main/
 
 url_models = httpx.get(url).json()
 locks = defaultdict(asyncio.Lock)
-sema = asyncio.Semaphore(128)
+sema = asyncio.Semaphore(32)
 
 
 URLS = set(item["url"] for item in url_models)
@@ -26,7 +26,7 @@ async def get_models(client: httpx.AsyncClient, url: str, pbar: tqdm | None = No
         return [
             info["model"]
             for info in resp.json()["models"]
-            if 6 * 1000**3 < info["size"]
+            if 10 * 1000**3 < info["size"]
         ]
 
     except Exception:
@@ -47,21 +47,21 @@ async def test_url(
                 url=url + "/api/generate",
                 json={
                     "model": model,
-                    "prompt": "Introduce yourself with 50 words",
+                    "prompt": "Introduce yourself with about 50 words",
                 },
             ) as resp:
                 async for data in resp.aiter_lines():
                     if "response" not in json.loads(data):
                         print(url, data)
                     times.append(time.time())
-                    if times[-1] - times[0] > 10:
+                    if times[-1] - times[0] > 30:
                         return None
         except Exception:
             return None
         finally:
             if pbar is not None:
                 pbar.update(1)
-        if len(times) < 2:
+        if len(times) < 10:
             return None
         speed = len(times) / (times[-1] - times[0])
         return speed
