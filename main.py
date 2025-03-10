@@ -132,7 +132,7 @@ async def main():
         encoding="utf-8",
     )
 
-    speeds = await test_speed(list(url_models.keys()))
+    speeds = await test_speed(set(url_models.keys()))
     Path("speeds.json").write_text(json.dumps(speeds))
 
     url_speeds = ""

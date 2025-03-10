@@ -96,7 +96,7 @@ async def test_speed(urls: Sequence[str]):
                     if url2 == url and speed is not None
                 ],
             }
-            for url, _ in running_models_url
+            for url in set(url for url, _ in running_models_url)
         ]
         speeds.sort(
             key=lambda item: (
