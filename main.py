@@ -136,7 +136,14 @@ async def main():
     Path("speeds.json").write_text(json.dumps(speeds))
 
     url_speeds = ""
-    for url_info in speeds[:50]:
+    speed_visited = set()
+    for url_info in speeds:
+        if len(speed_visited) > 50:
+            break
+        ip_or_domain = url_info['url'].partition("://")[2].partition(":")[0]
+        if ip_or_domain in speed_visited:
+            continue
+        speed_visited.add(ip_or_domain)
         url_speeds += f"- [{url_info['url']}]({url_info['url']}): \n"
         for speed in url_info["speeds"]:
             url_speeds += f"  - {speed['speed']:.4f} token/s {speed['model']}\n"
