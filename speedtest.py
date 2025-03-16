@@ -17,11 +17,13 @@ sema = asyncio.Semaphore(32)
 
 URLS = set(item["url"] for item in url_models)
 
+def get_ip(url):
+    return url.partition("://")[2].partition(":")[0]
 
 async def get_models(client: httpx.AsyncClient, url: str, pbar: tqdm | None = None):
     try:
         resp = None
-        async with locks[url], sema:
+        async with locks[get_ip(url)], sema:
             resp = await client.get(url + "/api/ps")
         return [
             info["model"]
@@ -39,7 +41,7 @@ async def get_models(client: httpx.AsyncClient, url: str, pbar: tqdm | None = No
 async def test_url(
     client: httpx.AsyncClient, url: str, model: str, pbar: tqdm | None = None
 ) -> float | None:
-    async with locks[url], sema:
+    async with locks[get_ip(url)], sema:
         times = []
         try:
             async with client.stream(
