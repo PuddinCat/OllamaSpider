@@ -28,7 +28,7 @@ async def get_models(client: httpx.AsyncClient, url: str, pbar: tqdm | None = No
         return [
             info["model"]
             for info in resp.json()["models"]
-            if 10 * 1000**3 < info["size"]
+            if 20 * 1000**3 < info["size"]
         ]
 
     except Exception:
