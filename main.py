@@ -12,7 +12,7 @@ from tqdm import tqdm
 from speedtest import test_speed
 
 MAX_ALIVE_INTERVAL = 86400 * 3  # 3 days
-scan_semaphore = asyncio.Semaphore(128)
+scan_semaphore = asyncio.Semaphore(256)
 
 
 class ModelInfo(TypedDict):
