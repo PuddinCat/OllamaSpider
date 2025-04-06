@@ -49,7 +49,7 @@ async def test_url(
                 url=url + "/api/generate",
                 json={
                     "model": model,
-                    "prompt": "Introduce yourself with about 50 words",
+                    "prompt": "Introduce yourself with about 100 words",
                 },
             ) as resp:
                 async for data in resp.aiter_lines():
