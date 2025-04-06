@@ -12,7 +12,7 @@ url = "https://raw.githubusercontent.com/PuddinCat/OllamaSpider/refs/heads/main/
 
 url_models = httpx.get(url).json()
 locks = defaultdict(lambda: asyncio.Semaphore(4))
-sema = asyncio.Semaphore(32)
+sema = asyncio.Semaphore(128)
 
 
 URLS = set(item["url"] for item in url_models)
