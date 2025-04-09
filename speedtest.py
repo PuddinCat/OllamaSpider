@@ -70,7 +70,7 @@ async def test_url(
 
 
 async def test_speed(urls: Sequence[str]):
-    async with httpx.AsyncClient(timeout=5) as client:
+    async with httpx.AsyncClient(timeout=5, verify=False) as client:
         with tqdm(urls) as pbar:
             running_models = await asyncio.gather(
                 *[get_models(client, url, pbar=pbar) for url in urls]

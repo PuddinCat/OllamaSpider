@@ -116,7 +116,7 @@ async def main():
 
     url_models = None
     pbar = tqdm(total=len(urls))
-    async with httpx.AsyncClient(timeout=10) as client:
+    async with httpx.AsyncClient(timeout=10, verify=False) as client:
         models = await asyncio.gather(*[list_models(client, url, pbar) for url in urls])
         url_models_list = [(url, models) for url, models in zip(urls, models) if models]
         url_models_list.sort(
