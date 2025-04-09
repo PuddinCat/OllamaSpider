@@ -12,7 +12,7 @@ url = "https://raw.githubusercontent.com/PuddinCat/OllamaSpider/refs/heads/main/
 
 url_models = httpx.get(url).json()
 locks = defaultdict(lambda: asyncio.Semaphore(4))
-sema = asyncio.Semaphore(128)
+sema = asyncio.Semaphore(32)
 
 
 URLS = set(item["url"] for item in url_models)
@@ -49,7 +49,7 @@ async def test_url(
                 url=url + "/api/generate",
                 json={
                     "model": model,
-                    "prompt": "Introduce yourself with about 100 words",
+                    "prompt": "Introduce yourself with about 50 words",
                 },
             ) as resp:
                 async for data in resp.aiter_lines():
