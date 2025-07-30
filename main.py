@@ -90,16 +90,19 @@ async def list_models(
 async def main():
 
     urls_path = Path("urls.json")
-    urls = [
-        url
-        for urls in (
-            await asyncio.gather(
-                shodan_query("Ollama is running"),
-                zoomeye_query('app="Ollama"'),
+    try:
+        urls = [
+            url
+            for urls in (
+                await asyncio.gather(
+                    shodan_query("Ollama is running"),
+                    zoomeye_query('app="Ollama"'),
+                )
             )
-        )
-        for url in urls
-    ]
+            for url in urls
+        ]
+    except Exception:
+        urls = []
 
     if urls_path.exists():
         urls += json.loads(urls_path.read_text(encoding="utf-8"))
