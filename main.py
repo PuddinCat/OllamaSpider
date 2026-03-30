@@ -65,7 +65,7 @@ async def list_models(
     try:
         resp = None
         async with scan_semaphore:
-            resp = await client.get(url + "/api/tags")
+            resp = await client.get(url + "/api/ps")
 
         result: list[ModelInfo] = list(
             {
