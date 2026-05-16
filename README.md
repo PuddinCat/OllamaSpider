@@ -5,81 +5,74 @@
 # 最快的几个
 
 - [http://101.69.96.55:11434](http://101.69.96.55:11434): 
-  - 82.6537 token/s qwen3.6:35b
-  - 280.7235 token/s llama3.2:3b
+  - 82.9619 token/s qwen3.6:35b
+  - 274.9914 token/s llama3.2:3b
 - [https://103.152.36.214](https://103.152.36.214): 
-  - 224.6254 token/s qwen3:4b-instruct-2507-q4_K_M
-- [http://183.232.248.88:8083](http://183.232.248.88:8083): 
-  - 102.4423 token/s glm-4.7-flash:latest
-- [http://183.88.235.236:11434](http://183.88.235.236:11434): 
-  - 93.5812 token/s qwen3:30b
-- [http://114.66.13.167:51434](http://114.66.13.167:51434): 
-  - 56.2117 token/s qwen3.6:35b
+  - 232.8514 token/s qwen3:4b-instruct
 - [http://222.189.211.155:48001](http://222.189.211.155:48001): 
-  - 49.5930 token/s qwen3-coder-next:q4_K_M
+  - 54.3914 token/s qwen3-coder-next:q4_K_M
 - [http://211.72.136.45:8083](http://211.72.136.45:8083): 
-  - 48.4720 token/s gemma3:27b
-- [http://113.201.2.45:11434](http://113.201.2.45:11434): 
-  - 36.2824 token/s qwen3:32b-q4_K_M
+  - 48.6019 token/s gemma3:27b
 - [http://116.211.238.59:18035](http://116.211.238.59:18035): 
-  - 33.8129 token/s qwen2.5-coder:32b
-- [http://71.115.230.225:11434](http://71.115.230.225:11434): 
-  - 29.8487 token/s qwen3-vl:8b-instruct-q8_0
+  - 33.6933 token/s qwen2.5-coder:32b
 - [http://112.8.226.163:8808](http://112.8.226.163:8808): 
-  - 15.3074 token/s deepseek-r1:70b
-  - 28.7868 token/s deepseek-r1:32b
+  - 29.9418 token/s deepseek-r1:32b
+  - 15.5319 token/s deepseek-r1:70b
+- [http://71.115.230.225:11434](http://71.115.230.225:11434): 
+  - 29.9326 token/s qwen3-vl:8b-instruct-q8_0
 - [http://129.88.204.160:11434](http://129.88.204.160:11434): 
-  - 28.7024 token/s translategemma:27b
-- [https://94.236.202.141](https://94.236.202.141): 
-  - 19.0305 token/s llama3.3:latest
-- [http://58.16.71.123:11434](http://58.16.71.123:11434): 
-  - 10.6832 token/s qwen3:32b-q4_K_M
-- [http://80.64.208.147:11434](http://80.64.208.147:11434): 
-  - 2.6870 token/s huihui_ai/mistral-small-abliterated:24b-instruct-2501-q4_K_M
-- [http://140.238.68.235:11434](http://140.238.68.235:11434): 
-- [http://5.9.86.204](http://5.9.86.204): 
-- [http://172.218.39.28](http://172.218.39.28): 
-- [http://5.9.30.116:11434](http://5.9.30.116:11434): 
-- [http://133.125.44.91:2624](http://133.125.44.91:2624): 
-- [http://130.229.130.69:11434](http://130.229.130.69:11434): 
+  - 28.8811 token/s translategemma:27b
 - [http://59.125.207.26](http://59.125.207.26): 
-- [http://1.238.159.68:11434](http://1.238.159.68:11434): 
-- [http://52.116.195.75:11434](http://52.116.195.75:11434): 
+  - 2.3920 token/s qwen2.5:72b-instruct
+  - 23.7652 token/s qwen3.6:35b
+- [https://94.236.202.141](https://94.236.202.141): 
+  - 19.0318 token/s llama3.3:latest
+- [http://58.16.71.123:11434](http://58.16.71.123:11434): 
+  - 11.0766 token/s qwen2.5vl:32b
+- [http://5.9.86.204](http://5.9.86.204): 
+  - 7.6069 token/s qwen3:32b-q4_K_M
+- [http://159.75.109.42:8305](http://159.75.109.42:8305): 
+- [http://133.125.44.91:2624](http://133.125.44.91:2624): 
+- [https://211.23.20.37](https://211.23.20.37): 
 - [http://139.210.101.38:16006](http://139.210.101.38:16006): 
+- [http://130.229.130.69:11434](http://130.229.130.69:11434): 
+- [http://52.116.195.75:11434](http://52.116.195.75:11434): 
+- [http://183.88.235.236:11434](http://183.88.235.236:11434): 
 - [http://106.51.87.49:11434](http://106.51.87.49:11434): 
+- [http://80.64.208.147:11434](http://80.64.208.147:11434): 
 - [http://139.9.116.226:18082](http://139.9.116.226:18082): 
+- [http://140.238.68.235:11434](http://140.238.68.235:11434): 
+- [http://1.238.159.68:11434](http://1.238.159.68:11434): 
 
 
 # 所有URL
 
-- [http://183.88.235.236:11434](http://183.88.235.236:11434): qwen3-vl:235b | qwen3:30b
 - [http://133.125.44.91:2624](http://133.125.44.91:2624): zuehue8/qwen-uncensored-aggressive:latest
-- [http://59.125.207.26](http://59.125.207.26): qwen3.5:122b
 - [https://211.23.20.37](https://211.23.20.37): deepseek-ocr:latest | gpt-oss:120b
+- [http://58.16.71.123:11434](http://58.16.71.123:11434): qwen2.5vl:32b
 - [http://112.8.226.163:8808](http://112.8.226.163:8808): deepseek-r1:70b | deepseek-r1:32b
 - [http://222.189.211.155:48001](http://222.189.211.155:48001): qwen3-coder-next:q4_K_M
-- [http://58.16.71.123:11434](http://58.16.71.123:11434): qwen3:32b-q4_K_M
+- [http://59.125.207.26](http://59.125.207.26): qwen2.5:72b-instruct | qwen3.6:35b
 - [http://71.115.230.225:11434](http://71.115.230.225:11434): qwen3-vl:8b-instruct-q8_0
 - [http://52.116.195.75:11434](http://52.116.195.75:11434): deepseek-r1:70b | llama3.2-vision:11b | llama3.1:8b | llama3.2:latest | llama3.2:1b
 - [https://94.236.202.141](https://94.236.202.141): llama3.3:latest
-- [http://172.218.39.28](http://172.218.39.28): llama3.1:70b-instruct-q4_K_M
-- [https://103.152.36.214](https://103.152.36.214): qwen3:4b-instruct-2507-q4_K_M
+- [http://183.88.235.236:11434](http://183.88.235.236:11434): qwen3:30b
+- [https://103.152.36.214](https://103.152.36.214): qwen3:4b-instruct
 - [http://139.210.101.38:16006](http://139.210.101.38:16006): bge-m3:latest | qwen3.5:27b
 - [http://101.69.96.55:11434](http://101.69.96.55:11434): gemma3:4b | gemma3:1b | llama3.2:3b | qwen3.6:35b
-- [http://114.66.13.167:51434](http://114.66.13.167:51434): qwen3.6:35b
+- [http://159.75.109.42:8305](http://159.75.109.42:8305): qwen3.6:35b
 - [http://211.72.136.45:8083](http://211.72.136.45:8083): gemma3:27b
 - [http://80.64.208.147:11434](http://80.64.208.147:11434): huihui_ai/mistral-small-abliterated:24b-instruct-2501-q4_K_M
+- [http://100.52.123.107](http://100.52.123.107): qwen3.5:35b
 - [http://130.229.130.69:11434](http://130.229.130.69:11434): gemma4:31b
 - [http://1.238.159.68:11434](http://1.238.159.68:11434): mdq100/qwen3.5-coder:35b
 - [http://139.9.116.226:18082](http://139.9.116.226:18082): qwen3.5:27b
 - [http://5.9.30.116:11434](http://5.9.30.116:11434): qwen3:32b-q4_K_M
+- [http://126.224.161.14:11434](http://126.224.161.14:11434): gemma3:27b | phi4:latest
 - [http://5.9.86.204:11434](http://5.9.86.204:11434): qwen3:32b-q4_K_M
-- [http://5.9.102.226](http://5.9.102.226): qwen3:32b-q4_K_M
 - [https://5.9.86.204](https://5.9.86.204): qwen3:32b-q4_K_M
-- [http://113.201.2.45:11434](http://113.201.2.45:11434): llama3.2:3b | qwen3:32b-q4_K_M | tinyllama:1.1b-chat-v1-q4_K_M
 - [http://5.9.86.204](http://5.9.86.204): qwen3:32b-q4_K_M
 - [http://106.51.87.49:11434](http://106.51.87.49:11434): qwen3:4b | qwen2.5:3b
-- [http://183.232.248.88:8083](http://183.232.248.88:8083): glm-4.7-flash:latest
 - [http://140.238.68.235:11434](http://140.238.68.235:11434): professor-32k:latest
 - [http://116.211.238.59:18035](http://116.211.238.59:18035): qwen2.5-coder:32b
 - [http://129.88.204.160:11434](http://129.88.204.160:11434): llama3.2:3b | smollm2:135m | translategemma:27b
@@ -87,734 +80,690 @@
 - [http://65.21.33.121](http://65.21.33.121): gpt-oss:latest | mistral-small3.1:latest | nomic-embed-text:latest
 - [http://212.15.79.20:11434](http://212.15.79.20:11434): qwen2.5vl:7b
 - [http://111.20.161.138:11434](http://111.20.161.138:11434): bge-m3:latest | llama3:latest | llama3.2:3b | smollm2:135m
-- [http://183.134.45.57:8081](http://183.134.45.57:8081): deepseek-r1:1.5b | qwen:14b-chat-q4_K_M
-- [http://123.155.251.62:8081](http://123.155.251.62:8081): deepseek-r1:1.5b | qwen:14b-chat-q4_K_M
 - [https://50.213.251.124](https://50.213.251.124): gpt-oss:20b
 - [http://40.73.34.35:8000](http://40.73.34.35:8000): qwen2.5vl:7b
 - [http://133.3.249.225:11434](http://133.3.249.225:11434): gemma4:e4b
+- [http://5.9.102.226](http://5.9.102.226): qwen3:14b
 - [https://91.218.245.69](https://91.218.245.69): gemma4:latest
-- [https://64.191.166.202](https://64.191.166.202): Llama3:latest | gemma3:12b-it-qat
-- [http://103.146.21.20:11434](http://103.146.21.20:11434): llama3.1:8b | qwen2.5:14b-instruct-q4_K_M
+- [https://64.191.166.202](https://64.191.166.202): gemma3:12b-it-qat | llama3:latest
 - [http://84.227.46.26:11434](http://84.227.46.26:11434): gemma4:latest
-- [http://51.161.34.205:11434](http://51.161.34.205:11434): qwen2.5:14b-instruct-q4_K_M
 - [http://47.98.194.143:8435](http://47.98.194.143:8435): gemma4:e4b
 - [http://125.228.126.226:11434](http://125.228.126.226:11434): huihui_ai/gemma-4-abliterated:e4b
-- [http://1.92.156.220:3306](http://1.92.156.220:3306): gemma4:e4b
-- [http://132.226.108.168](http://132.226.108.168): gemma4:latest | gemma3:latest | qwen3:latest
 - [http://52.188.37.34](http://52.188.37.34): gemma4:e4b
+- [http://132.226.108.168](http://132.226.108.168): gemma4:latest | gemma3:latest | qwen3:latest
 - [http://218.17.21.142:11434](http://218.17.21.142:11434): qwen3:8b-q4_K_M
-- [http://pyvorin.com:8443](http://pyvorin.com:8443): qwen2.5-coder:14b | qwen2.5-coder:3b
-- [http://217.154.38.221:8443](http://217.154.38.221:8443): qwen2.5-coder:14b | qwen2.5-coder:3b
-- [http://numera.dampfighter.co.uk:8443](http://numera.dampfighter.co.uk:8443): qwen2.5-coder:14b | qwen2.5-coder:3b
 - [http://129.80.139.186:11434](http://129.80.139.186:11434): qwen3:14b
-- [http://180.150.101.42:11434](http://180.150.101.42:11434): gemma3:12b | llama3.1:8b
 - [http://115.190.109.35:8002](http://115.190.109.35:8002): qwen3.5:9b
 - [http://201.158.63.91:11434](http://201.158.63.91:11434): qwen3.5:4b
-- [http://148.251.54.151:8080](http://148.251.54.151:8080): nomic-embed-text-v2-moe:latest | qwen2.5:14b
 - [http://162.0.225.156:11434](http://162.0.225.156:11434): deepseek-ocr:latest | llama3.2:3b
 - [http://92.4.138.234:11434](http://92.4.138.234:11434): llama3.2:3b | qwen2.5:14b
 - [http://35.185.209.111:11434](http://35.185.209.111:11434): huihui_ai/qwen3.5-abliterated:9b
 - [https://3.23.90.99](https://3.23.90.99): qwen3.5:9b
 - [http://108.181.196.208](http://108.181.196.208): bakllava:latest | llama3.2:3b
-- [http://118.175.0.252:11434](http://118.175.0.252:11434): qwen3:latest
+- [http://183.232.248.88:8083](http://183.232.248.88:8083): hf-mirror.com/BernTheCreator/DeepSeek-R1-Distill-Qwen-7B-Q4_0-GGUF:latest
 - [https://46.225.67.36](https://46.225.67.36): qwen3:8b
+- [http://118.175.0.252:11434](http://118.175.0.252:11434): qwen3:latest
 - [http://94.72.111.121:11434](http://94.72.111.121:11434): gemma4:e2b
-- [http://18.145.71.11:8500](http://18.145.71.11:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.205.242.234:9306](http://43.205.242.234:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.78.193.98:5984](http://52.78.193.98:5984): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://47.129.218.47:50000](http://47.129.218.47:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.242.159.91:5984](http://54.242.159.91:5984): codellama:13b | llama2:latest
-- [http://15.168.135.67:8500](http://15.168.135.67:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.231.166.234:5984](http://18.231.166.234:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.51.196.44:50000](http://13.51.196.44:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://98.130.11.240:5172](http://98.130.11.240:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.229.201.146:50000](http://54.229.201.146:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://40.177.89.65:5172](http://40.177.89.65:5172): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.205.113.210:5172](http://43.205.113.210:5172): codellama:13b
-- [http://13.208.238.59:8500](http://13.208.238.59:8500): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.99.158.157:9306](http://3.99.158.157:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.62.123.236:3306](http://16.62.123.236:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.12.230.173:9306](http://78.12.230.173:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.207.37.125:5984](http://54.207.37.125:5984): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://18.101.230.134:9001](http://18.101.230.134:9001): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://13.60.181.61:3780](http://13.60.181.61:3780): codellama:13b
-- [http://18.167.103.199:9306](http://18.167.103.199:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.162.200.96:9306](http://18.162.200.96:9306): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [https://18.228.228.159:10996](https://18.228.228.159:10996): codellama:13b | deepseek-r1:latest
-- [http://56.112.63.59:50000](http://56.112.63.59:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [https://16.50.60.4:3248](https://16.50.60.4:3248): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://40.192.120.123:5172](http://40.192.120.123:5172): codellama:13b | deepseek-r1:latest | llama2:latest
-- [http://54.215.41.74:5172](http://54.215.41.74:5172): codellama:13b | openchat:7b
-- [http://51.49.153.183:5984](http://51.49.153.183:5984): codellama:13b | llama3:latest | openchat:7b
-- [http://18.228.31.199:4443](http://18.228.31.199:4443): codellama:13b | openchat:7b
-- [http://16.170.146.3:5172](http://16.170.146.3:5172): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://43.210.48.132:3306](http://43.210.48.132:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://47.129.218.47:3306](http://47.129.218.47:3306): codellama:13b
-- [http://18.101.230.134:1850](http://18.101.230.134:1850): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.209.173.229:50000](http://43.209.173.229:50000): codellama:13b | deepseek-r1:latest
-- [http://43.210.54.68:50000](http://43.210.54.68:50000): codellama:13b
-- [http://18.188.53.175:5984](http://18.188.53.175:5984): codellama:13b
-- [https://16.171.68.235:3674](https://16.171.68.235:3674): codellama:13b | llama2:latest | openchat:7b
-- [http://43.198.17.35:5172](http://43.198.17.35:5172): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.205.125.76:3306](http://43.205.125.76:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://47.129.218.47:8500](http://47.129.218.47:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://16.50.52.164:5984](http://16.50.52.164:5984): codellama:13b | deepseek-r1:latest
-- [http://16.51.142.176:9306](http://16.51.142.176:9306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://16.51.62.173:8500](http://16.51.62.173:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.62.123.236:5172](http://16.62.123.236:5172): codellama:13b | llama2:latest
-- [http://18.170.25.193:5001](http://18.170.25.193:5001): codellama:13b | qwen2.5:1.5b
-- [https://13.52.246.188:1825](https://13.52.246.188:1825): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://51.84.101.19:783](http://51.84.101.19:783): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://18.190.253.157:765](https://18.190.253.157:765): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://78.13.215.130:8500](http://78.13.215.130:8500): codellama:13b | llama2:latest | openchat:7b
-- [http://43.208.243.207:3306](http://43.208.243.207:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.50.4.26:393](http://13.50.4.26:393): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [https://15.237.108.20:201](https://15.237.108.20:201): codellama:13b | llama2:latest
-- [http://51.44.97.6:5984](http://51.44.97.6:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://43.198.99.209:7071](http://43.198.99.209:7071): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [https://18.231.214.27:2728](https://18.231.214.27:2728): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [https://13.235.42.151:4067](https://13.235.42.151:4067): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.130.226.217:8500](http://18.130.226.217:8500): codellama:13b | llama3:latest | openchat:7b
-- [http://13.38.217.179:50000](http://13.38.217.179:50000): codellama:13b
-- [https://18.228.31.199:2337](https://18.228.31.199:2337): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://52.47.115.41:50000](http://52.47.115.41:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.253.218.186:5172](http://54.253.218.186:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.65.6.155:8501](http://54.65.6.155:8501): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.145.71.11:50000](http://18.145.71.11:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://3.110.54.246:2229](https://3.110.54.246:2229): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.191.218.228:5172](http://18.191.218.228:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://52.56.237.157:8436](http://52.56.237.157:8436): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://13.244.203.188:8500](http://13.244.203.188:8500): codellama:13b | llama2:latest | llama3:latest
-- [http://13.244.203.188:5172](http://13.244.203.188:5172): codellama:13b | qwen2.5:1.5b
-- [http://3.137.167.45:5984](http://3.137.167.45:5984): codellama:13b | llama2:latest
-- [http://43.198.94.82:9306](http://43.198.94.82:9306): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://13.235.42.151:5321](http://13.235.42.151:5321): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.246.15.187:7546](http://13.246.15.187:7546): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://13.212.26.15:3306](http://13.212.26.15:3306): codellama:13b
-- [http://16.26.99.200:5172](http://16.26.99.200:5172): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://16.26.154.68:5984](http://16.26.154.68:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://52.59.51.29:5984](http://52.59.51.29:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://51.95.13.205:9306](http://51.95.13.205:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://13.208.238.59:4444](http://13.208.238.59:4444): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [https://40.177.8.154:3787](https://40.177.8.154:3787): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [https://51.16.161.107:6880](https://51.16.161.107:6880): codellama:13b | llama2:latest | openchat:7b
-- [https://51.16.161.107:10630](https://51.16.161.107:10630): codellama:13b | llama2:latest | openchat:7b
-- [https://18.163.33.4:1302](https://18.163.33.4:1302): codellama:13b | llama3:latest
-- [http://43.206.240.252:8500](http://43.206.240.252:8500): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.145.123.230:2285](http://3.145.123.230:2285): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://95.40.79.184:5984](http://95.40.79.184:5984): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://63.33.46.125:5984](http://63.33.46.125:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.61.3.91:3306](http://18.61.3.91:3306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.145.71.11:5984](http://18.145.71.11:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.14.45.16:3003](http://78.14.45.16:3003): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://40.177.89.65:5803](http://40.177.89.65:5803): codellama:13b | llama3:latest | openchat:7b
-- [https://3.98.49.236:10666](https://3.98.49.236:10666): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://108.136.140.236:3790](http://108.136.140.236:3790): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.65.6.155:3306](http://54.65.6.155:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.206.73.237:5172](http://13.206.73.237:5172): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [https://3.216.125.170:3465](https://3.216.125.170:3465): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://52.212.127.157:5984](http://52.212.127.157:5984): codellama:13b | deepseek-r1:latest
-- [http://18.142.120.165:8089](http://18.142.120.165:8089): codellama:13b | deepseek-r1:latest
-- [http://54.248.31.78:3306](http://54.248.31.78:3306): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://52.47.115.41:901](http://52.47.115.41:901): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.67.110.244:8500](http://54.67.110.244:8500): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://54.238.33.242:3306](http://54.238.33.242:3306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.62.229.137:5984](http://16.62.229.137:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://95.40.30.214:2455](http://95.40.30.214:2455): codellama:13b
-- [http://15.160.116.45:5984](http://15.160.116.45:5984): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://13.125.116.13:8500](http://13.125.116.13:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.44.172.23:8500](http://51.44.172.23:8500): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://15.135.215.62:5984](http://15.135.215.62:5984): codellama:13b | llama2:latest | llama3:latest
-- [http://16.51.62.173:3306](http://16.51.62.173:3306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.200.179.23:9306](http://43.200.179.23:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://51.44.97.6:5172](http://51.44.97.6:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://18.142.120.165:1815](https://18.142.120.165:1815): codellama:13b | llama3:latest | openchat:7b
-- [http://15.223.237.12:5172](http://15.223.237.12:5172): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [https://18.142.120.165:9815](https://18.142.120.165:9815): codellama:13b | llama3:latest | openchat:7b
-- [http://3.97.209.43:8500](http://3.97.209.43:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://54.160.130.48:5984](http://54.160.130.48:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://13.52.185.145:3229](https://13.52.185.145:3229): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.231.4.173:39](http://18.231.4.173:39): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://15.152.92.67:9306](http://15.152.92.67:9306): codellama:13b | llama2:latest
-- [https://16.171.68.235:474](https://16.171.68.235:474): codellama:13b | llama2:latest | openchat:7b
-- [http://13.51.196.44:10250](http://13.51.196.44:10250): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://15.152.46.164:48128](https://15.152.46.164:48128): codellama:13b
-- [http://34.244.148.100:5172](http://34.244.148.100:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.78.193.98:3306](http://52.78.193.98:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.161.59.54:9306](http://15.161.59.54:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.162.200.96:3306](http://18.162.200.96:3306): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://51.44.172.23:50000](http://51.44.172.23:50000): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://3.97.209.43:9306](http://3.97.209.43:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [https://54.65.6.155:2079](https://54.65.6.155:2079): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://54.241.67.85:5172](http://54.241.67.85:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.179.140.166:3306](http://35.179.140.166:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://35.183.46.69:7583](https://35.183.46.69:7583): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.14.9.63:8880](http://78.14.9.63:8880): codellama:13b
-- [http://15.168.135.67:9306](http://15.168.135.67:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://34.204.36.88:4050](http://34.204.36.88:4050): codellama:13b
-- [http://54.207.37.125:9306](http://54.207.37.125:9306): codellama:13b | llama3:latest
-- [http://43.205.113.210:8834](http://43.205.113.210:8834): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://3.249.133.203:45921](https://3.249.133.203:45921): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.188.236.206:50000](http://54.188.236.206:50000): codellama:13b
-- [http://18.61.3.91:5172](http://18.61.3.91:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.231.166.234:1334](http://18.231.166.234:1334): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.246.183.20:8787](http://34.246.183.20:8787): codellama:13b | deepseek-r1:latest | llama2:latest
-- [http://35.182.12.78:5172](http://35.182.12.78:5172): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://16.79.118.58:8834](http://16.79.118.58:8834): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.48.86.235:13374](http://13.48.86.235:13374): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.28.87.123:10443](http://16.28.87.123:10443): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://18.163.33.4:4004](http://18.163.33.4:4004): codellama:13b | qwen2.5:1.5b
-- [http://108.136.140.236:5701](http://108.136.140.236:5701): codellama:13b | openchat:7b
-- [http://15.168.135.67:5984](http://15.168.135.67:5984): codellama:13b | openchat:7b
-- [http://47.129.218.47:9306](http://47.129.218.47:9306): codellama:13b
-- [http://43.208.109.99:4000](http://43.208.109.99:4000): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://35.183.71.247:7747](https://35.183.71.247:7747): codellama:13b
-- [http://13.48.13.125:50000](http://13.48.13.125:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://108.136.149.62:50000](http://108.136.149.62:50000): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://3.137.167.45:8500](http://3.137.167.45:8500): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://13.50.4.26:5984](http://13.50.4.26:5984): codellama:13b | llama3:latest
-- [http://34.246.223.187:26486](http://34.246.223.187:26486): codellama:13b | llama2:latest | openchat:7b
-- [https://47.128.64.22:2046](https://47.128.64.22:2046): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://108.136.140.236:5172](http://108.136.140.236:5172): codellama:13b | llama3:latest
-- [http://51.92.173.133:7000](http://51.92.173.133:7000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://78.13.215.130:50000](http://78.13.215.130:50000): codellama:13b | llama2:latest | openchat:7b
-- [http://34.241.123.181:9306](http://34.241.123.181:9306): codellama:13b | deepseek-r1:latest
-- [http://3.19.213.118:9306](http://3.19.213.118:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.206.240.252:5634](http://43.206.240.252:5634): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://108.131.109.106:5172](http://108.131.109.106:5172): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.38.217.179:8500](http://13.38.217.179:8500): codellama:13b
-- [http://54.238.33.242:19530](http://54.238.33.242:19530): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://16.62.214.173:5984](http://16.62.214.173:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.231.214.27:1625](http://18.231.214.27:1625): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://99.79.58.74:9229](http://99.79.58.74:9229): codellama:13b | llama3:latest
-- [https://15.228.167.227:9417](https://15.228.167.227:9417): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://43.206.240.252:10534](http://43.206.240.252:10534): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://13.50.4.26:9306](http://13.50.4.26:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://16.51.142.176:5043](https://16.51.142.176:5043): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://16.18.37.186:16993](http://16.18.37.186:16993): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://15.161.59.54:5172](http://15.161.59.54:5172): codellama:13b | llama2:latest | llama3:latest
-- [http://54.67.110.244:5984](http://54.67.110.244:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.60.154.249:9306](http://18.60.154.249:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://16.50.60.4:3948](https://16.50.60.4:3948): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://34.219.149.143:1607](http://34.219.149.143:1607): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.44.97.6:8889](http://51.44.97.6:8889): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.67.110.244:5172](http://54.67.110.244:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.242.159.91:10951](http://54.242.159.91:10951): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://40.177.8.154:3780](http://40.177.8.154:3780): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://15.152.46.164:9478](https://15.152.46.164:9478): codellama:13b
-- [http://18.222.132.180:5172](http://18.222.132.180:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.92.224.240:50000](http://51.92.224.240:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.8.154.65:6626](http://3.8.154.65:6626): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://56.155.31.137:50000](http://56.155.31.137:50000): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [https://54.248.31.78:2151](https://54.248.31.78:2151): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://18.190.253.157:1088](https://18.190.253.157:1088): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.16.215.4:8500](http://52.16.215.4:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://52.59.51.29:3808](http://52.59.51.29:3808): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://18.163.33.4:9306](http://18.163.33.4:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://3.99.158.157:31337](http://3.99.158.157:31337): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.204.36.88:8500](http://34.204.36.88:8500): codellama:13b
-- [http://47.128.155.71:5984](http://47.128.155.71:5984): codellama:13b
-- [https://3.98.49.236:2266](https://3.98.49.236:2266): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.244.203.188:50000](http://13.244.203.188:50000): codellama:13b | llama2:latest | llama3:latest
-- [http://15.161.59.54:5984](http://15.161.59.54:5984): codellama:13b
-- [http://13.125.116.13:5984](http://13.125.116.13:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [https://34.222.36.63:1684](https://34.222.36.63:1684): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.26.99.200:8500](http://16.26.99.200:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.206.73.237:5984](http://13.206.73.237:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://3.137.167.45:8083](http://3.137.167.45:8083): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://3.216.125.170:5984](http://3.216.125.170:5984): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://16.26.99.200:9306](http://16.26.99.200:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://15.160.22.3:9306](http://15.160.22.3:9306): codellama:13b
-- [http://56.155.73.215:50000](http://56.155.73.215:50000): codellama:13b | llama3:latest
-- [http://13.235.42.151:3306](http://13.235.42.151:3306): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://15.161.59.54:8500](http://15.161.59.54:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.168.135.67:50000](http://15.168.135.67:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.60.154.249:5984](http://18.60.154.249:5984): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://54.253.84.193:5172](http://54.253.84.193:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://54.207.37.125:3306](http://54.207.37.125:3306): codellama:13b | llama3:latest
-- [http://18.142.120.165:995](http://18.142.120.165:995): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://78.14.9.63:8500](http://78.14.9.63:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://35.180.75.159:5984](http://35.180.75.159:5984): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.228.31.199:50000](http://18.228.31.199:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://3.137.167.45:3306](http://3.137.167.45:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://13.51.196.44:9306](http://13.51.196.44:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.212.76.134:8500](http://13.212.76.134:8500): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.14.20.147:5172](http://78.14.20.147:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [https://15.228.167.227:10184](https://15.228.167.227:10184): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://15.152.92.67:5984](http://15.152.92.67:5984): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [https://13.50.4.26:4703](https://13.50.4.26:4703): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://78.14.9.63:5984](http://78.14.9.63:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://34.211.146.130:5172](http://34.211.146.130:5172): codellama:13b | llama3:latest
-- [http://16.62.123.236:6443](http://16.62.123.236:6443): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://15.152.76.89:2119](https://15.152.76.89:2119): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://43.209.173.229:10000](http://43.209.173.229:10000): codellama:13b | deepseek-r1:latest
-- [http://15.156.91.232:9306](http://15.156.91.232:9306): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://15.152.76.89:5172](http://15.152.76.89:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://65.2.5.16:50000](http://65.2.5.16:50000): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.48.86.235:5172](http://13.48.86.235:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://43.200.174.95:2470](https://43.200.174.95:2470): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.62.221.46:9306](http://16.62.221.46:9306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.228.31.199:9306](http://18.228.31.199:9306): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.44.172.23:5984](http://51.44.172.23:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://43.200.174.95:10970](https://43.200.174.95:10970): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.241.67.85:50000](http://54.241.67.85:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://18.231.214.27:4225](http://18.231.214.27:4225): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://43.200.255.63:43191](http://43.200.255.63:43191): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.166.70.216:5984](http://18.166.70.216:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://15.160.172.51:2437](https://15.160.172.51:2437): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://43.200.179.23:5172](http://43.200.179.23:5172): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.241.67.85:8500](http://54.241.67.85:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://13.48.13.125:8500](http://13.48.13.125:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://65.2.143.28:9306](http://65.2.143.28:9306): codellama:13b
-- [http://52.59.51.29:658](http://52.59.51.29:658): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://35.173.255.36:3306](http://35.173.255.36:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.95.102.143:50000](http://54.95.102.143:50000): codellama:13b | llama2:latest
-- [http://35.153.68.100:50000](http://35.153.68.100:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [https://43.206.240.252:18789](https://43.206.240.252:18789): codellama:13b | deepseek-r1:latest | llama2:latest
-- [http://15.228.33.173:8073](http://15.228.33.173:8073): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.192.120.123:3306](http://40.192.120.123:3306): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://63.181.83.210:8500](http://63.181.83.210:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.205.125.76:2345](http://43.205.125.76:2345): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://43.200.70.158:5984](http://43.200.70.158:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [https://15.161.131.175:2132](https://15.161.131.175:2132): codellama:13b | openchat:7b
-- [http://51.96.154.195:8500](http://51.96.154.195:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://43.205.125.76:55443](http://43.205.125.76:55443): codellama:13b | deepseek-r1:latest | llama2:latest
-- [http://13.208.238.59:50000](http://13.208.238.59:50000): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.246.223.187:14936](http://34.246.223.187:14936): codellama:13b | llama2:latest | openchat:7b
-- [http://52.59.218.12:5984](http://52.59.218.12:5984): codellama:13b | llama3:latest | openchat:7b
-- [http://34.246.223.187:9306](http://34.246.223.187:9306): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://65.2.5.16:31337](http://65.2.5.16:31337): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://51.92.173.133:9306](http://51.92.173.133:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://15.135.215.62:50000](http://15.135.215.62:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.212.26.15:5172](http://13.212.26.15:5172): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://18.60.253.110:8500](http://18.60.253.110:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [https://52.59.51.29:799](https://52.59.51.29:799): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://54.206.129.120:5984](http://54.206.129.120:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://16.18.37.186:5984](http://16.18.37.186:5984): codellama:13b | openchat:7b
-- [http://18.228.31.199:16992](http://18.228.31.199:16992): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://3.16.135.104:5984](http://3.16.135.104:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://43.208.109.99:40000](http://43.208.109.99:40000): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.182.12.78:3306](http://35.182.12.78:3306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://52.78.193.98:9306](http://52.78.193.98:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://13.233.114.239:2828](https://13.233.114.239:2828): codellama:13b | openchat:7b
-- [https://35.183.71.247:3997](https://35.183.71.247:3997): codellama:13b
-- [http://16.112.197.127:5984](http://16.112.197.127:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.253.84.193:8500](http://54.253.84.193:8500): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.212.26.15:9306](http://13.212.26.15:9306): codellama:13b
-- [http://95.40.79.184:8500](http://95.40.79.184:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://98.130.11.240:8500](http://98.130.11.240:8500): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.116.50.135:8500](http://54.116.50.135:8500): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.188.236.206:8500](http://54.188.236.206:8500): codellama:13b
-- [https://51.16.161.107:5730](https://51.16.161.107:5730): codellama:13b | llama2:latest | openchat:7b
-- [http://15.168.135.67:3306](http://15.168.135.67:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://65.2.143.28:3306](http://65.2.143.28:3306): codellama:13b
-- [http://3.137.167.45:9306](http://3.137.167.45:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://56.155.73.215:8083](http://56.155.73.215:8083): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://78.12.7.76:5984](http://78.12.7.76:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://18.188.53.175:9306](http://18.188.53.175:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.160.116.45:8500](http://15.160.116.45:8500): codellama:13b | qwen2.5:1.5b
-- [http://15.237.108.20:5001](http://15.237.108.20:5001): codellama:13b | llama2:latest
-- [http://54.188.236.206:3306](http://54.188.236.206:3306): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [https://52.56.167.111:579](https://52.56.167.111:579): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://15.156.91.232:3306](http://15.156.91.232:3306): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://15.223.237.12:3306](http://15.223.237.12:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.49.153.183:9306](http://51.49.153.183:9306): codellama:13b | deepseek-r1:latest
-- [http://13.244.203.188:8140](http://13.244.203.188:8140): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.188.236.206:5172](http://54.188.236.206:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.98.49.236:5172](http://3.98.49.236:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.62.214.173:5172](http://16.62.214.173:5172): codellama:13b | qwen2.5:1.5b
-- [https://43.218.124.29:3974](https://43.218.124.29:3974): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://40.177.9.61:9306](http://40.177.9.61:9306): codellama:13b | llama3:latest
-- [https://54.67.7.167:27244](https://54.67.7.167:27244): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.60.181.61:9306](http://13.60.181.61:9306): codellama:13b
-- [http://35.173.255.36:9306](http://35.173.255.36:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://16.51.142.176:3306](http://16.51.142.176:3306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.205.125.76:5172](http://43.205.125.76:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.237.108.20:5172](http://15.237.108.20:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://16.171.68.235:1824](https://16.171.68.235:1824): codellama:13b | llama2:latest | openchat:7b
-- [http://18.228.31.199:3306](http://18.228.31.199:3306): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.19.213.118:5984](http://3.19.213.118:5984): codellama:13b | deepseek-r1:latest | llama2:latest
-- [https://13.212.76.134:6124](https://13.212.76.134:6124): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://13.214.135.136:50000](http://13.214.135.136:50000): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://13.58.105.184:3306](http://13.58.105.184:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://95.40.79.184:50000](http://95.40.79.184:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://40.177.164.75:5172](http://40.177.164.75:5172): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.47.115.41:8140](http://52.47.115.41:8140): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://35.78.85.165:5984](http://35.78.85.165:5984): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://78.13.215.130:5172](http://78.13.215.130:5172): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://98.130.143.239:8500](http://98.130.143.239:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://98.130.11.240:5984](http://98.130.11.240:5984): codellama:13b | llama3:latest | openchat:7b
-- [http://16.112.197.127:999](http://16.112.197.127:999): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.141.23.103:8500](http://3.141.23.103:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.97.209.43:50000](http://3.97.209.43:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [https://13.233.114.239:10878](https://13.233.114.239:10878): codellama:13b | openchat:7b
-- [http://18.101.105.157:5172](http://18.101.105.157:5172): codellama:13b | llama2:latest | openchat:7b
-- [https://13.235.42.151:56667](https://13.235.42.151:56667): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://43.206.240.252:43434](http://43.206.240.252:43434): codellama:13b | deepseek-r1:latest | openchat:7b
-- [https://15.237.108.20:4215](https://15.237.108.20:4215): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.78.193.98:2715](http://52.78.193.98:2715): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.242.159.91:8500](http://54.242.159.91:8500): codellama:13b | qwen2.5:1.5b
-- [http://54.188.149.86:3306](http://54.188.149.86:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.92.173.133:5984](http://51.92.173.133:5984): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://78.12.252.87:8436](http://78.12.252.87:8436): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://15.161.59.54:50000](http://15.161.59.54:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://16.26.154.68:9999](https://16.26.154.68:9999): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [https://34.220.22.3:3324](https://34.220.22.3:3324): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.152.75.215:5984](http://15.152.75.215:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://3.19.213.118:6099](http://3.19.213.118:6099): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.206.240.252:50000](http://43.206.240.252:50000): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.209.173.229:1026](http://43.209.173.229:1026): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://51.44.97.6:1024](http://51.44.97.6:1024): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.208.238.59:444](http://13.208.238.59:444): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://13.208.166.217:50000](http://13.208.166.217:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.228.33.173:4890](http://15.228.33.173:4890): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.121.130.230:5984](http://3.121.130.230:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.220.171.126:3306](http://18.220.171.126:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://13.51.196.44:8500](http://13.51.196.44:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://15.152.46.164:2528](https://15.152.46.164:2528): codellama:13b
-- [http://43.206.240.252:5984](http://43.206.240.252:5984): codellama:13b | deepseek-r1:latest | openchat:7b
-- [https://13.233.114.239:22178](https://13.233.114.239:22178): codellama:13b | openchat:7b
-- [https://35.153.68.100:3661](https://35.153.68.100:3661): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://51.95.13.205:5984](http://51.95.13.205:5984): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [https://15.228.167.227:2517](https://15.228.167.227:2517): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://3.99.212.54:5172](http://3.99.212.54:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://35.180.75.159:9306](http://35.180.75.159:9306): codellama:13b | llama3:latest
-- [http://43.209.173.229:9306](http://43.209.173.229:9306): codellama:13b
-- [http://51.96.154.195:50000](http://51.96.154.195:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://54.229.201.146:8500](http://54.229.201.146:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.94.226.81:5984](http://54.94.226.81:5984): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://78.13.215.130:5984](http://78.13.215.130:5984): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://99.79.58.74:5172](http://99.79.58.74:5172): codellama:13b | llama2:latest | llama3:latest
-- [http://34.244.148.100:4443](http://34.244.148.100:4443): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://51.49.153.183:3306](http://51.49.153.183:3306): codellama:13b | deepseek-r1:latest
-- [http://15.160.172.51:3780](http://15.160.172.51:3780): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://43.210.48.132:9306](http://43.210.48.132:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://35.183.71.247:9306](http://35.183.71.247:9306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [https://54.198.22.111:24386](https://54.198.22.111:24386): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.60.247.31:5984](http://18.60.247.31:5984): codellama:13b | llama2:latest
-- [http://35.153.68.100:8500](http://35.153.68.100:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://56.155.31.137:5984](http://56.155.31.137:5984): codellama:13b | llama3:latest
-- [http://34.219.149.143:50000](http://34.219.149.143:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.192.120.123:50000](http://40.192.120.123:50000): codellama:13b | llama2:latest | openchat:7b
-- [http://43.198.99.209:9125](http://43.198.99.209:9125): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.253.183.151:4010](http://54.253.183.151:4010): codellama:13b | llama2:latest
-- [http://3.121.130.230:50000](http://3.121.130.230:50000): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://3.121.213.248:9306](http://3.121.213.248:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://108.136.149.62:8500](http://108.136.149.62:8500): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [https://43.218.124.29:10790](https://43.218.124.29:10790): codellama:13b
-- [http://3.71.26.7:50000](http://3.71.26.7:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.160.22.3:3306](http://15.160.22.3:3306): codellama:13b
-- [http://13.235.42.151:8085](http://13.235.42.151:8085): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.216.194.20:5656](http://43.216.194.20:5656): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://15.152.75.215:5172](http://15.152.75.215:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://3.216.125.170:435](http://3.216.125.170:435): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://43.198.209.12:9306](http://43.198.209.12:9306): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://43.198.94.82:8140](http://43.198.94.82:8140): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.12.252.87:6103](http://78.12.252.87:6103): codellama:13b | llama2:latest
-- [http://78.14.9.63:50000](http://78.14.9.63:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.95.102.143:9398](http://54.95.102.143:9398): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://78.14.45.16:3982](http://78.14.45.16:3982): codellama:13b | openchat:7b
-- [http://52.78.193.98:50000](http://52.78.193.98:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.200.179.23:3306](http://43.200.179.23:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://16.62.123.236:3337](http://16.62.123.236:3337): codellama:13b | llama3:latest | openchat:7b
-- [http://13.246.6.135:5984](http://13.246.6.135:5984): codellama:13b | deepseek-r1:latest
-- [https://47.128.233.42:11198](https://47.128.233.42:11198): codellama:13b
-- [http://51.84.101.19:5172](http://51.84.101.19:5172): codellama:13b | deepseek-r1:latest | llama2:latest
-- [http://16.18.37.186:9306](http://16.18.37.186:9306): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://3.137.167.45:50000](http://3.137.167.45:50000): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://3.99.158.157:5172](http://3.99.158.157:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://43.205.113.210:8081](http://43.205.113.210:8081): codellama:13b | llama3:latest | openchat:7b
-- [http://13.60.181.61:5172](http://13.60.181.61:5172): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.207.37.125:5172](http://54.207.37.125:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://43.198.99.209:7503](https://43.198.99.209:7503): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://15.134.207.39:8500](http://15.134.207.39:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.221.24.128:5984](http://34.221.24.128:5984): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://98.80.249.121:5985](https://98.80.249.121:5985): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://43.205.242.234:5172](http://43.205.242.234:5172): codellama:13b | qwen2.5:1.5b
-- [http://51.92.224.240:8500](http://51.92.224.240:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://99.79.58.74:6635](https://99.79.58.74:6635): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://52.59.218.12:5598](http://52.59.218.12:5598): codellama:13b
-- [http://43.198.94.82:5172](http://43.198.94.82:5172): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.160.130.48:50000](http://54.160.130.48:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://43.198.94.82:3306](http://43.198.94.82:3306): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://3.250.119.175:8443](http://3.250.119.175:8443): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://43.205.113.210:50000](http://43.205.113.210:50000): codellama:13b | qwen2.5:1.5b
-- [http://51.49.177.23:8500](http://51.49.177.23:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.38.217.179:9997](http://13.38.217.179:9997): codellama:13b
-- [http://16.50.60.4:9898](http://16.50.60.4:9898): codellama:13b | deepseek-r1:latest | llama3:latest
-- [https://15.161.131.175:82](https://15.161.131.175:82): codellama:13b | openchat:7b
-- [http://43.198.209.12:8500](http://43.198.209.12:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://54.65.6.155:3279](https://54.65.6.155:3279): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://18.142.120.165:8081](http://18.142.120.165:8081): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://35.183.127.162:50000](http://35.183.127.162:50000): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://54.180.146.177:5001](http://54.180.146.177:5001): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://13.235.42.151:55443](http://13.235.42.151:55443): codellama:13b | llama3:latest | openchat:7b
-- [http://52.59.51.29:11008](http://52.59.51.29:11008): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://35.89.100.38:50000](http://35.89.100.38:50000): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.60.181.61:3306](http://13.60.181.61:3306): codellama:13b
-- [http://3.71.26.7:5172](http://3.71.26.7:5172): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [https://52.78.193.98:6666](https://52.78.193.98:6666): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://51.34.28.236:5221](http://51.34.28.236:5221): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.161.131.175:5172](http://15.161.131.175:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://108.136.140.236:2083](http://108.136.140.236:2083): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://56.155.31.137:3306](http://56.155.31.137:3306): codellama:13b | deepseek-r1:latest
-- [http://18.162.124.245:5984](http://18.162.124.245:5984): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://98.130.143.239:5172](http://98.130.143.239:5172): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://16.112.189.175:2083](http://16.112.189.175:2083): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://52.16.215.4:50000](http://52.16.215.4:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://95.40.79.184:9306](http://95.40.79.184:9306): codellama:13b | deepseek-r1:latest | llama2:latest
-- [https://13.245.171.157:474](https://13.245.171.157:474): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.188.236.206:9306](http://54.188.236.206:9306): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://34.229.98.132:17988](http://34.229.98.132:17988): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://34.211.146.130:5984](http://34.211.146.130:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.198.17.35:9002](http://43.198.17.35:9002): codellama:13b | deepseek-r1:latest | llama2:latest
-- [http://16.18.37.186:5172](http://16.18.37.186:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [https://3.110.68.130:2670](https://3.110.68.130:2670): codellama:13b | llama3:latest
-- [http://98.130.11.240:50000](http://98.130.11.240:50000): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.101.230.134:8500](http://18.101.230.134:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.50.4.26:324](http://13.50.4.26:324): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://98.130.143.239:50000](http://98.130.143.239:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.205.242.234:5984](http://43.205.242.234:5984): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://51.95.13.205:8500](http://51.95.13.205:8500): codellama:13b | llama3:latest | openchat:7b
-- [http://18.61.3.91:9306](http://18.61.3.91:9306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://43.198.94.82:8008](https://43.198.94.82:8008): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.246.6.135:8500](http://13.246.6.135:8500): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://54.242.159.91:11751](http://54.242.159.91:11751): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://43.218.124.29:50000](http://43.218.124.29:50000): codellama:13b | llama3:latest
-- [http://56.155.73.215:8500](http://56.155.73.215:8500): codellama:13b | llama3:latest
-- [http://63.181.83.210:5172](http://63.181.83.210:5172): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://13.208.166.217:5172](http://13.208.166.217:5172): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [https://3.98.49.236:6666](https://3.98.49.236:6666): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.12.230.173:3306](http://78.12.230.173:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://15.164.225.200:1430](https://15.164.225.200:1430): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://13.208.166.217:8500](http://13.208.166.217:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.62.56.31:5984](http://13.62.56.31:5984): codellama:13b | deepseek-r1:latest
-- [http://54.242.159.91:8009](http://54.242.159.91:8009): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://13.212.26.15:1](http://13.212.26.15:1): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://13.50.4.26:3306](http://13.50.4.26:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.253.167.61:5984](http://54.253.167.61:5984): codellama:13b
-- [http://16.51.62.173:50000](http://16.51.62.173:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.240.66.158:5172](http://15.240.66.158:5172): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://35.182.12.78:13374](http://35.182.12.78:13374): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [https://15.152.76.89:30069](https://15.152.76.89:30069): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://47.129.218.47:9200](http://47.129.218.47:9200): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://51.49.153.183:5172](http://51.49.153.183:5172): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.141.23.103:50000](http://3.141.23.103:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://54.204.160.219:9617](https://54.204.160.219:9617): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://16.62.123.236:5984](http://16.62.123.236:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.192.120.123:446](http://40.192.120.123:446): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://43.198.22.151:5984](http://43.198.22.151:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.99.158.157:5984](http://3.99.158.157:5984): codellama:13b | deepseek-r1:latest
-- [http://3.137.167.45:5172](http://3.137.167.45:5172): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://40.192.121.249:50000](http://40.192.121.249:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.50.4.26:1324](http://13.50.4.26:1324): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [https://3.110.68.130:1220](https://3.110.68.130:1220): codellama:13b | llama3:latest
-- [http://35.152.72.21:5984](http://35.152.72.21:5984): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://18.230.217.31:8500](http://18.230.217.31:8500): codellama:13b | llama2:latest | llama3:latest
-- [http://52.78.193.98:8500](http://52.78.193.98:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://63.181.83.210:50000](http://63.181.83.210:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://78.13.215.130:2381](http://78.13.215.130:2381): codellama:13b | llama3:latest
-- [http://54.95.102.143:5001](http://54.95.102.143:5001): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.67.97.49:34512](http://54.67.97.49:34512): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://43.205.125.76:9306](http://43.205.125.76:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://18.220.171.126:8500](http://18.220.171.126:8500): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://63.33.46.125:3306](http://63.33.46.125:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://54.198.22.111:34599](https://54.198.22.111:34599): codellama:13b | llama2:latest | llama3:latest
-- [http://99.79.58.74:8500](http://99.79.58.74:8500): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.241.67.85:9306](http://54.241.67.85:9306): codellama:13b | llama3:latest
-- [http://54.242.159.91:9306](http://54.242.159.91:9306): codellama:13b | llama3:latest
-- [http://43.209.173.229:8500](http://43.209.173.229:8500): codellama:13b | deepseek-r1:latest
-- [http://34.234.100.23:620](http://34.234.100.23:620): codellama:13b
-- [http://16.26.143.154:50000](http://16.26.143.154:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://15.228.167.227:5984](http://15.228.167.227:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://43.208.134.144:9306](http://43.208.134.144:9306): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://51.95.13.205:3306](http://51.95.13.205:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://51.92.173.133:3306](http://51.92.173.133:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [https://54.204.160.219:9878](https://54.204.160.219:9878): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.95.102.143:3780](http://54.95.102.143:3780): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.198.209.12:50000](http://43.198.209.12:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.18.37.186:8500](http://16.18.37.186:8500): codellama:13b
-- [http://35.183.71.247:5172](http://35.183.71.247:5172): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.188.53.175:50000](http://18.188.53.175:50000): codellama:13b | qwen2.5:1.5b
-- [http://43.208.134.144:3306](http://43.208.134.144:3306): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://16.112.4.117:5984](http://16.112.4.117:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.218.124.29:8500](http://43.218.124.29:8500): codellama:13b | llama3:latest
-- [http://43.200.179.23:5006](http://43.200.179.23:5006): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.208.166.217:5984](http://13.208.166.217:5984): codellama:13b | llama2:latest | llama3:latest
-- [https://35.173.255.36:5364](https://35.173.255.36:5364): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://3.99.212.54:50000](http://3.99.212.54:50000): codellama:13b
-- [http://40.176.175.23:5172](http://40.176.175.23:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://40.192.121.249:5172](http://40.192.121.249:5172): codellama:13b | llama2:latest | openchat:7b
-- [http://43.205.113.210:5984](http://43.205.113.210:5984): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.198.94.82:4013](http://43.198.94.82:4013): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://51.16.47.116:10782](https://51.16.47.116:10782): codellama:13b
-- [http://54.65.6.155:8529](http://54.65.6.155:8529): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://3.1.200.24:8500](http://3.1.200.24:8500): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://13.212.76.134:8074](http://13.212.76.134:8074): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://52.59.51.29:8443](http://52.59.51.29:8443): codellama:13b | qwen2.5:1.5b
-- [https://43.198.17.35:847](https://43.198.17.35:847): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://18.183.118.94:5172](http://18.183.118.94:5172): codellama:13b | deepseek-r1:latest
-- [http://18.220.171.126:9306](http://18.220.171.126:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://18.100.212.192:5172](http://18.100.212.192:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.210.54.68:8500](http://43.210.54.68:8500): codellama:13b
-- [http://98.130.11.240:3306](http://98.130.11.240:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://16.26.229.44:9306](http://16.26.229.44:9306): codellama:13b | llama3:latest
-- [http://34.204.36.88:50000](http://34.204.36.88:50000): codellama:13b
-- [http://16.171.235.42:5984](http://16.171.235.42:5984): codellama:13b | llama3:latest | openchat:7b
-- [http://78.13.244.74:4567](http://78.13.244.74:4567): codellama:13b | deepseek-r1:latest
-- [http://15.216.59.200:8500](http://15.216.59.200:8500): codellama:13b | llama2:latest
-- [http://13.58.105.184:9306](http://13.58.105.184:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://3.71.26.7:8500](http://3.71.26.7:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.16.47.116:5172](http://51.16.47.116:5172): codellama:13b | llama2:latest | llama3:latest
-- [https://43.205.113.210:10669](https://43.205.113.210:10669): codellama:13b | qwen2.5:1.5b
-- [https://18.101.58.247:537](https://18.101.58.247:537): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.246.223.187:5984](http://34.246.223.187:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.112.197.127:9306](http://16.112.197.127:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.142.120.165:5172](http://18.142.120.165:5172): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://13.245.171.157:5001](http://13.245.171.157:5001): codellama:13b | llama3:latest
-- [https://78.13.215.130:4058](https://78.13.215.130:4058): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://43.198.17.35:10367](https://43.198.17.35:10367): codellama:13b
-- [http://98.130.128.75:5984](http://98.130.128.75:5984): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [http://15.229.231.89:5984](http://15.229.231.89:5984): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://16.112.17.187:5984](http://16.112.17.187:5984): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://43.205.113.210:1719](https://43.205.113.210:1719): codellama:13b | qwen2.5:1.5b
-- [https://54.204.160.219:1183](https://54.204.160.219:1183): codellama:13b | llama3:latest | openchat:7b
-- [https://35.182.12.78:1274](https://35.182.12.78:1274): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://18.188.53.175:8123](http://18.188.53.175:8123): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://3.121.130.230:8500](http://3.121.130.230:8500): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.242.159.91:3306](http://54.242.159.91:3306): codellama:13b | llama3:latest
-- [http://13.38.217.179:3306](http://13.38.217.179:3306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://108.131.109.106:5984](http://108.131.109.106:5984): codellama:13b
-- [http://18.184.214.158:50000](http://18.184.214.158:50000): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.241.67.85:3306](http://54.241.67.85:3306): codellama:13b | llama3:latest
-- [http://16.51.62.173:9306](http://16.51.62.173:9306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.179.140.166:9306](http://35.179.140.166:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.223.237.12:9306](http://15.223.237.12:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.26.143.154:8500](http://16.26.143.154:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://15.237.108.20:9001](http://15.237.108.20:9001): codellama:13b | llama2:latest
-- [http://43.205.113.210:8500](http://43.205.113.210:8500): codellama:13b | qwen2.5:1.5b
-- [http://18.101.105.157:5984](http://18.101.105.157:5984): codellama:13b
-- [http://43.208.243.207:9306](http://43.208.243.207:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.206.240.252:4434](http://43.206.240.252:4434): codellama:13b | deepseek-r1:latest | openchat:7b
-- [https://43.200.179.23:6715](https://43.200.179.23:6715): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://18.170.111.73:10969](http://18.170.111.73:10969): codellama:13b | qwen2.5:1.5b
-- [http://16.112.4.117:8140](http://16.112.4.117:8140): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://40.192.121.249:8500](http://40.192.121.249:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.182.12.78:9306](http://35.182.12.78:9306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://3.97.209.43:3306](http://3.97.209.43:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://13.208.166.217:9306](http://13.208.166.217:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.219.149.143:3306](http://34.219.149.143:3306): codellama:13b | llama3:latest
-- [http://13.244.203.188:9306](http://13.244.203.188:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://47.128.233.42:432](https://47.128.233.42:432): codellama:13b | qwen2.5:1.5b
-- [https://13.52.246.188:7725](https://13.52.246.188:7725): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.244.203.188:7681](http://13.244.203.188:7681): codellama:13b | llama2:latest
-- [http://3.19.213.118:5172](http://3.19.213.118:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://43.200.179.23:2041](http://43.200.179.23:2041): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.212.26.15:6443](http://13.212.26.15:6443): codellama:13b | llama3:latest
-- [http://35.183.71.247:3306](http://35.183.71.247:3306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.125.116.13:50000](http://13.125.116.13:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.160.132.166:3306](http://15.160.132.166:3306): codellama:13b
-- [http://13.212.76.134:50000](http://13.212.76.134:50000): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://65.2.5.16:8500](http://65.2.5.16:8500): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://16.62.229.137:36602](https://16.62.229.137:36602): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://54.253.84.193:9306](http://54.253.84.193:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://13.246.45.164:5172](http://13.246.45.164:5172): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://51.44.172.23:9306](http://51.44.172.23:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://15.160.116.45:50000](http://15.160.116.45:50000): codellama:13b | qwen2.5:1.5b
-- [http://108.136.140.236:1926](http://108.136.140.236:1926): codellama:13b | llama2:latest | openchat:7b
-- [http://13.208.238.59:4440](http://13.208.238.59:4440): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.219.149.143:9306](http://34.219.149.143:9306): codellama:13b | llama3:latest
-- [http://18.188.53.175:8500](http://18.188.53.175:8500): codellama:13b | qwen2.5:1.5b
-- [http://44.212.61.234:5172](http://44.212.61.234:5172): codellama:13b | llama3:latest | openchat:7b
-- [http://35.183.113.183:2246](http://35.183.113.183:2246): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.177.9.61:3306](http://40.177.9.61:3306): codellama:13b | llama3:latest
-- [http://13.38.217.179:9306](http://13.38.217.179:9306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [https://34.220.22.3:9424](https://34.220.22.3:9424): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.84.101.19:9095](http://51.84.101.19:9095): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.26.99.200:50000](http://16.26.99.200:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.222.36.63:5172](http://34.222.36.63:5172): codellama:13b
-- [http://54.198.22.111:5172](http://54.198.22.111:5172): codellama:13b | qwen2.5:1.5b
-- [http://65.2.5.16:9306](http://65.2.5.16:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.176.253.46:4014](http://40.176.253.46:4014): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.142.120.165:5984](http://18.142.120.165:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.218.124.29:5172](http://43.218.124.29:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://18.60.253.110:50000](http://18.60.253.110:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://3.99.158.157:3306](http://3.99.158.157:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.205.242.234:8085](http://43.205.242.234:8085): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://56.155.31.137:8500](http://56.155.31.137:8500): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.238.33.242:9306](http://54.238.33.242:9306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://15.152.43.246:10940](https://15.152.43.246:10940): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.237.108.20:3790](http://15.237.108.20:3790): codellama:13b | llama2:latest
-- [http://15.224.19.1:5984](http://15.224.19.1:5984): codellama:13b
-- [http://15.160.22.3:33890](http://15.160.22.3:33890): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.192.120.123:8500](http://40.192.120.123:8500): codellama:13b | llama2:latest | openchat:7b
-- [http://3.121.130.230:9306](http://3.121.130.230:9306): codellama:13b
-- [http://3.121.130.230:3306](http://3.121.130.230:3306): codellama:13b
-- [http://54.242.159.91:1051](http://54.242.159.91:1051): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://16.112.109.125:5984](http://16.112.109.125:5984): codellama:13b | qwen2.5:1.5b
-- [https://3.216.125.170:4265](https://3.216.125.170:4265): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.67.110.244:50000](http://54.67.110.244:50000): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://16.112.197.127:3306](http://16.112.197.127:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.152.75.215:4444](http://15.152.75.215:4444): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://13.208.238.59:6655](https://13.208.238.59:6655): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.208.238.59:5172](http://13.208.238.59:5172): codellama:13b | deepseek-r1:latest | llama2:latest
-- [http://13.235.42.151:9306](http://13.235.42.151:9306): codellama:13b | deepseek-r1:latest | openchat:7b
-- [http://18.163.33.4:3306](http://18.163.33.4:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://43.208.237.116:5984](http://43.208.237.116:5984): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://43.205.125.76:3780](http://43.205.125.76:3780): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.62.221.46:3306](http://16.62.221.46:3306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://98.130.11.240:9306](http://98.130.11.240:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://3.19.213.118:3306](http://3.19.213.118:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.216.59.200:50000](http://15.216.59.200:50000): codellama:13b | llama2:latest
-- [https://16.50.52.164:3625](https://16.50.52.164:3625): codellama:13b | llama2:latest
-- [http://40.176.253.46:8086](http://40.176.253.46:8086): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.168.221.121:3306](http://18.168.221.121:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://65.2.5.16:3306](http://65.2.5.16:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.192.121.249:3780](http://40.192.121.249:3780): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.180.75.159:8066](http://35.180.75.159:8066): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://108.131.109.106:8139](http://108.131.109.106:8139): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.40.223.158:9306](http://13.40.223.158:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
-- [https://35.173.255.36:664](https://35.173.255.36:664): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://13.246.6.135:50000](http://13.246.6.135:50000): codellama:13b | llama3:latest | qwen2.5:1.5b
-- [http://51.95.13.205:50000](http://51.95.13.205:50000): codellama:13b | llama3:latest | openchat:7b
-- [http://51.92.173.133:9089](http://51.92.173.133:9089): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://16.50.60.4:2398](https://16.50.60.4:2398): codellama:13b | deepseek-r1:latest | llama3:latest
-- [http://34.222.36.63:5984](http://34.222.36.63:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.95.102.143:8500](http://54.95.102.143:8500): codellama:13b | llama2:latest
-- [https://16.16.162.157:29683](https://16.16.162.157:29683): codellama:13b | llama2:latest | qwen2.5:1.5b
-- [http://47.128.233.42:5172](http://47.128.233.42:5172): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://52.56.167.111:3306](http://52.56.167.111:3306): codellama:13b | llama3:latest
-- [http://43.208.134.144:5172](http://43.208.134.144:5172): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.101.230.134:50000](http://18.101.230.134:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.204.36.88:9306](http://34.204.36.88:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.231.166.234:9784](http://18.231.166.234:9784): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://56.155.31.137:9306](http://56.155.31.137:9306): codellama:13b | deepseek-r1:latest
-- [http://13.244.203.188:3790](http://13.244.203.188:3790): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://43.209.173.229:5172](http://43.209.173.229:5172): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.188.53.175:3306](http://18.188.53.175:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://15.152.76.89:1519](https://15.152.76.89:1519): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
-- [http://16.62.123.236:9306](http://16.62.123.236:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://99.79.58.74:50000](http://99.79.58.74:50000): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.235.42.151:8181](http://13.235.42.151:8181): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.180.75.159:3306](http://35.180.75.159:3306): codellama:13b | llama3:latest
 - [https://16.171.68.235:6024](https://16.171.68.235:6024): codellama:13b | llama2:latest | openchat:7b
-- [http://43.198.209.12:3306](http://43.198.209.12:3306): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://13.60.181.61:9398](http://13.60.181.61:9398): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://63.179.134.206:5172](http://63.179.134.206:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://16.62.214.173:5172](http://16.62.214.173:5172): codellama:13b | qwen2.5:1.5b
+- [http://35.182.12.78:9306](http://35.182.12.78:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.241.123.181:9306](http://34.241.123.181:9306): codellama:13b | deepseek-r1:latest
+- [http://51.44.97.6:3306](http://51.44.97.6:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://43.205.242.234:5172](http://43.205.242.234:5172): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [https://16.171.57.95:7544](https://16.171.57.95:7544): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.235.42.151:3306](http://13.235.42.151:3306): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.244.203.188:5172](http://13.244.203.188:5172): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://35.182.12.78:771](http://35.182.12.78:771): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.142.120.165:8089](http://18.142.120.165:8089): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://56.155.31.137:8500](http://56.155.31.137:8500): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.170.25.193:8500](http://18.170.25.193:8500): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.79.118.58:8834](http://16.79.118.58:8834): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://16.170.146.3:5172](http://16.170.146.3:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://3.249.133.203:45921](https://3.249.133.203:45921): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://95.40.79.184:5984](http://95.40.79.184:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.51.148.102:50000](http://16.51.148.102:50000): codellama:13b | deepseek-r1:latest
+- [https://3.110.68.130:2670](https://3.110.68.130:2670): codellama:13b | llama3:latest
+- [https://13.233.114.239:22178](https://13.233.114.239:22178): codellama:13b | openchat:7b
+- [https://18.142.120.165:9815](https://18.142.120.165:9815): codellama:13b | deepseek-r1:latest
 - [http://3.8.154.65:5984](http://3.8.154.65:5984): codellama:13b | openchat:7b | qwen2.5:1.5b
-- [https://3.16.135.104:3285](https://3.16.135.104:3285): codellama:13b | openchat:7b
-- [http://40.192.120.123:9306](http://40.192.120.123:9306): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [https://13.212.26.15:5835](https://13.212.26.15:5835): codellama:13b
-- [http://18.61.235.7:84](http://18.61.235.7:84): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.44.97.6:8085](http://51.44.97.6:8085): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://18.231.214.27:5678](http://18.231.214.27:5678): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [http://3.71.26.7:5172](http://3.71.26.7:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://34.229.98.132:17988](http://34.229.98.132:17988): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://18.191.218.228:5172](http://18.191.218.228:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [https://15.232.33.152:8080](https://15.232.33.152:8080): codellama:13b
+- [http://13.40.223.158:9306](http://13.40.223.158:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://13.60.181.61:9898](http://13.60.181.61:9898): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.99.158.157:9306](http://3.99.158.157:9306): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://15.135.215.62:5984](http://15.135.215.62:5984): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.101.230.134:9001](http://18.101.230.134:9001): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://13.246.6.135:5984](http://13.246.6.135:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.163.33.4:4004](http://18.163.33.4:4004): codellama:13b | llama2:latest
+- [http://43.200.179.23:3306](http://43.200.179.23:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [https://35.183.71.247:3997](https://35.183.71.247:3997): codellama:13b
+- [http://54.241.67.85:5172](http://54.241.67.85:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://18.142.120.165:1815](https://18.142.120.165:1815): codellama:13b | deepseek-r1:latest
+- [https://15.152.76.89:1519](https://15.152.76.89:1519): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [http://3.99.158.157:5984](http://3.99.158.157:5984): codellama:13b | openchat:7b
+- [http://16.62.123.236:6443](http://16.62.123.236:6443): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://3.99.158.157:3306](http://3.99.158.157:3306): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://16.50.60.4:9898](http://16.50.60.4:9898): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://18.60.253.110:8500](http://18.60.253.110:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://13.52.246.188:7725](https://13.52.246.188:7725): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.41.196.179:5984](http://13.41.196.179:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://51.44.172.23:9306](http://51.44.172.23:9306): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://54.242.159.91:5984](http://54.242.159.91:5984): codellama:13b | llama2:latest
+- [http://54.253.183.151:5984](http://54.253.183.151:5984): codellama:13b | qwen2.5:1.5b
+- [http://13.60.181.61:3780](http://13.60.181.61:3780): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.125.76:9001](http://43.205.125.76:9001): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [http://108.136.140.236:3790](http://108.136.140.236:3790): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.244.203.188:8500](http://13.244.203.188:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://43.218.124.29:8500](http://43.218.124.29:8500): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.101.58.247:9400](http://18.101.58.247:9400): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://15.152.46.164:9478](https://15.152.46.164:9478): codellama:13b
+- [http://13.53.139.178:8500](http://13.53.139.178:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.223.237.12:9306](http://15.223.237.12:9306): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [https://52.78.193.98:6666](https://52.78.193.98:6666): codellama:13b | llama3:latest | openchat:7b
+- [http://3.137.167.45:50000](http://3.137.167.45:50000): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://18.101.58.247:8500](http://18.101.58.247:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.134.207.39:50000](http://15.134.207.39:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://35.173.255.36:5364](https://35.173.255.36:5364): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://78.14.45.16:3003](http://78.14.45.16:3003): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://13.62.56.31:5984](http://13.62.56.31:5984): codellama:13b | deepseek-r1:latest
+- [http://43.198.99.209:5172](http://43.198.99.209:5172): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://15.152.46.164:2528](https://15.152.46.164:2528): codellama:13b
+- [http://43.200.179.23:5984](http://43.200.179.23:5984): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://40.177.8.154:3780](http://40.177.8.154:3780): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.253.183.151:8159](http://54.253.183.151:8159): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [https://16.50.60.4:3248](https://16.50.60.4:3248): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://13.53.139.178:5172](http://13.53.139.178:5172): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [http://51.44.97.6:8889](http://51.44.97.6:8889): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://16.112.4.117:5984](http://16.112.4.117:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.176.253.46:4014](http://40.176.253.46:4014): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [https://43.205.124.6:7061](https://43.205.124.6:7061): codellama:13b | deepseek-r1:latest | llama3:latest
+- [https://16.16.162.157:29683](https://16.16.162.157:29683): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [https://13.208.166.217:1097](https://13.208.166.217:1097): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://56.155.31.137:9306](http://56.155.31.137:9306): codellama:13b | deepseek-r1:latest
+- [http://34.246.183.20:8500](http://34.246.183.20:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://3.216.125.170:3465](https://3.216.125.170:3465): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://43.200.174.95:2470](https://43.200.174.95:2470): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.245.171.157:5172](http://13.245.171.157:5172): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://18.142.120.165:9306](http://18.142.120.165:9306): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://52.47.115.41:901](http://52.47.115.41:901): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.125.116.13:50000](http://13.125.116.13:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.65.6.155:8501](http://54.65.6.155:8501): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://52.59.218.12:3466](https://52.59.218.12:3466): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://18.230.217.31:8500](http://18.230.217.31:8500): codellama:13b
+- [http://34.244.148.100:5172](http://34.244.148.100:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.192.121.249:5172](http://40.192.121.249:5172): codellama:13b | llama2:latest | openchat:7b
+- [http://51.49.153.183:5172](http://51.49.153.183:5172): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://43.200.179.23:9306](http://43.200.179.23:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://15.168.135.67:50000](http://15.168.135.67:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://54.253.183.151:1884](https://54.253.183.151:1884): codellama:13b | qwen2.5:1.5b
+- [http://43.200.179.23:5006](http://43.200.179.23:5006): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://56.155.73.215:8500](http://56.155.73.215:8500): codellama:13b | deepseek-r1:latest
+- [http://16.112.4.117:8140](http://16.112.4.117:8140): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://108.131.109.106:5984](http://108.131.109.106:5984): codellama:13b
+- [http://35.153.68.100:8500](http://35.153.68.100:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://3.97.209.43:3306](http://3.97.209.43:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://54.229.201.146:5984](http://54.229.201.146:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.18.37.186:5984](http://16.18.37.186:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://35.183.71.247:3306](http://35.183.71.247:3306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.205.125.76:3306](http://43.205.125.76:3306): codellama:13b | openchat:7b
+- [http://16.26.99.200:5172](http://16.26.99.200:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.48.13.125:5986](http://13.48.13.125:5986): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://40.177.8.154:3787](https://40.177.8.154:3787): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://13.53.139.178:50000](http://13.53.139.178:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://47.128.233.42:432](https://47.128.233.42:432): codellama:13b | qwen2.5:1.5b
+- [http://13.212.26.15:6443](http://13.212.26.15:6443): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://43.205.124.6:50000](http://43.205.124.6:50000): codellama:13b | llama2:latest | llama3:latest
+- [http://54.242.159.91:9306](http://54.242.159.91:9306): codellama:13b | llama3:latest
+- [http://16.112.197.127:8500](http://16.112.197.127:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.56.237.157:8436](http://52.56.237.157:8436): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://51.84.8.183:4050](http://51.84.8.183:4050): codellama:13b | deepseek-r1:latest
+- [http://13.50.4.26:324](http://13.50.4.26:324): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [https://16.50.60.4:2398](https://16.50.60.4:2398): codellama:13b | deepseek-r1:latest | llama3:latest
+- [https://43.198.17.35:10367](https://43.198.17.35:10367): codellama:13b
+- [http://16.26.154.68:5172](http://16.26.154.68:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://13.60.163.108:8500](http://13.60.163.108:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.60.163.108:50000](http://13.60.163.108:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.162.105.116:5172](http://16.162.105.116:5172): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.34.28.236:5984](http://51.34.28.236:5984): codellama:13b | qwen2.5:1.5b
+- [http://43.205.242.234:8085](http://43.205.242.234:8085): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://16.51.148.102:55553](http://16.51.148.102:55553): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://16.28.87.123:5820](http://16.28.87.123:5820): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://56.155.31.137:3306](http://56.155.31.137:3306): codellama:13b | deepseek-r1:latest
+- [http://51.44.97.6:9306](http://51.44.97.6:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://51.16.47.116:9306](http://51.16.47.116:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.156.91.232:3306](http://15.156.91.232:3306): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://78.14.9.63:5984](http://78.14.9.63:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [https://18.228.31.199:2337](https://18.228.31.199:2337): codellama:13b | deepseek-r1:latest
+- [https://3.25.198.198:2798](https://3.25.198.198:2798): codellama:13b | llama2:latest
+- [http://18.101.58.247:50000](http://18.101.58.247:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.113.210:5172](http://43.205.113.210:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.183.71.247:5172](http://35.183.71.247:5172): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.113.210:8834](http://43.205.113.210:8834): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.198.22.111:5172](http://54.198.22.111:5172): codellama:13b | qwen2.5:1.5b
+- [https://34.219.149.143:1139](https://34.219.149.143:1139): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://13.212.26.15:1](http://13.212.26.15:1): codellama:13b
+- [http://18.133.181.216:8500](http://18.133.181.216:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://15.168.135.67:8500](http://15.168.135.67:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://99.79.58.74:3306](http://99.79.58.74:3306): codellama:13b | llama3:latest
+- [http://78.14.9.63:50000](http://78.14.9.63:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://16.51.148.102:7001](http://16.51.148.102:7001): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://13.235.42.151:808](http://13.235.42.151:808): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.203.140.58:8500](http://43.203.140.58:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.93.163.151:6363](http://54.93.163.151:6363): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://13.52.185.145:3229](https://13.52.185.145:3229): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.224.19.1:3306](http://15.224.19.1:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.60.253.110:50000](http://18.60.253.110:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://35.173.255.36:664](https://35.173.255.36:664): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.92.173.133:9089](http://51.92.173.133:9089): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://35.183.71.247:9306](http://35.183.71.247:9306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.206.240.252:3306](http://43.206.240.252:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.206.73.237:3306](http://13.206.73.237:3306): codellama:13b
+- [http://13.48.13.125:5172](http://13.48.13.125:5172): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [http://54.253.183.151:5172](http://54.253.183.151:5172): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://54.242.159.91:11751](http://54.242.159.91:11751): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://3.137.167.45:8500](http://3.137.167.45:8500): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://43.210.54.68:50000](http://43.210.54.68:50000): codellama:13b
+- [http://63.179.134.206:5984](http://63.179.134.206:5984): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.121.130.230:9306](http://3.121.130.230:9306): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [https://15.152.46.164:48128](https://15.152.46.164:48128): codellama:13b
+- [http://15.168.135.67:3306](http://15.168.135.67:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://108.136.149.62:8500](http://108.136.149.62:8500): codellama:13b | deepseek-r1:latest
+- [http://54.229.201.146:9306](http://54.229.201.146:9306): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.177.99.164:50000](http://40.177.99.164:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.253.167.61:5984](http://54.253.167.61:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://63.179.134.206:50000](http://63.179.134.206:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.188.149.86:3306](http://54.188.149.86:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.113.210:3306](http://43.205.113.210:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://43.205.113.210:1719](https://43.205.113.210:1719): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://18.220.171.126:8500](http://18.220.171.126:8500): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://54.180.146.177:5001](http://54.180.146.177:5001): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://16.62.221.46:9306](http://16.62.221.46:9306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.16.47.116:3306](http://51.16.47.116:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://34.222.36.63:5984](http://34.222.36.63:5984): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://13.125.116.13:5984](http://13.125.116.13:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://15.228.33.173:4890](http://15.228.33.173:4890): codellama:13b | llama2:latest | llama3:latest
+- [http://34.246.183.20:8787](http://34.246.183.20:8787): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://63.181.83.210:50000](http://63.181.83.210:50000): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [http://13.50.4.26:1324](http://13.50.4.26:1324): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://18.170.3.27:5357](http://18.170.3.27:5357): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.152.75.215:5172](http://15.152.75.215:5172): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://40.192.121.249:8500](http://40.192.121.249:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.53.139.178:3306](http://13.53.139.178:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://40.177.164.75:5172](http://40.177.164.75:5172): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://13.233.114.239:10878](https://13.233.114.239:10878): codellama:13b | openchat:7b
+- [http://52.47.115.41:8140](http://52.47.115.41:8140): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://47.129.218.47:3306](http://47.129.218.47:3306): codellama:13b
+- [http://108.136.140.236:5172](http://108.136.140.236:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.92.224.240:50000](http://51.92.224.240:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://54.198.22.111:34599](https://54.198.22.111:34599): codellama:13b | llama2:latest | llama3:latest
+- [http://95.40.30.214:2455](http://95.40.30.214:2455): codellama:13b
+- [https://18.228.228.159:10996](https://18.228.228.159:10996): codellama:13b | deepseek-r1:latest
+- [http://13.212.26.15:5984](http://13.212.26.15:5984): codellama:13b | deepseek-r1:latest
+- [http://15.240.66.158:5172](http://15.240.66.158:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://40.177.89.65:9306](http://40.177.89.65:9306): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://47.128.155.71:50000](http://47.128.155.71:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://35.153.68.100:3661](https://35.153.68.100:3661): codellama:13b | deepseek-r1:latest | openchat:7b
+- [https://15.237.108.20:8443](https://15.237.108.20:8443): codellama:13b | deepseek-r1:latest
+- [http://43.209.173.229:5667](http://43.209.173.229:5667): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.60.181.61:5172](http://13.60.181.61:5172): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://13.206.73.237:9306](http://13.206.73.237:9306): codellama:13b
+- [http://51.92.224.240:8500](http://51.92.224.240:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://56.155.73.215:8083](http://56.155.73.215:8083): codellama:13b
+- [http://18.162.200.96:5172](http://18.162.200.96:5172): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [https://54.204.160.219:1183](https://54.204.160.219:1183): codellama:13b | llama3:latest | openchat:7b
+- [http://54.238.33.242:3306](http://54.238.33.242:3306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.26.99.200:50000](http://16.26.99.200:50000): codellama:13b | llama2:latest
+- [http://18.163.33.4:8500](http://18.163.33.4:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://51.84.101.19:783](http://51.84.101.19:783): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://18.184.4.189:3306](http://18.184.4.189:3306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://35.179.140.166:9306](http://35.179.140.166:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://44.212.61.234:4440](http://44.212.61.234:4440): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.206.129.120:9306](http://54.206.129.120:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.192.121.249:50000](http://40.192.121.249:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.241.67.85:8500](http://54.241.67.85:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://15.160.22.3:5172](http://15.160.22.3:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.192.121.249:3780](http://40.192.121.249:3780): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.16.47.116:50000](http://51.16.47.116:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.34.28.236:50000](http://51.34.28.236:50000): codellama:13b
+- [http://16.62.123.236:9002](http://16.62.123.236:9002): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [http://54.188.236.206:9306](http://54.188.236.206:9306): codellama:13b | llama2:latest | llama3:latest
+- [http://16.112.197.127:5984](http://16.112.197.127:5984): codellama:13b | llama3:latest
+- [http://40.177.164.75:50000](http://40.177.164.75:50000): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://43.198.99.209:9306](http://43.198.99.209:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.207.37.125:3306](http://54.207.37.125:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://51.44.97.6:8085](http://51.44.97.6:8085): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.229.201.146:3306](http://54.229.201.146:3306): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.228.33.173:8010](http://15.228.33.173:8010): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.244.203.188:9306](http://13.244.203.188:9306): codellama:13b | llama3:latest | openchat:7b
+- [http://15.164.225.200:5172](http://15.164.225.200:5172): codellama:13b
+- [https://3.25.198.198:883](https://3.25.198.198:883): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.67.110.244:5172](http://54.67.110.244:5172): codellama:13b
+- [http://13.48.13.125:2082](http://13.48.13.125:2082): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [http://3.121.213.248:9306](http://3.121.213.248:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.203.140.58:5172](http://43.203.140.58:5172): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://44.212.61.234:5172](http://44.212.61.234:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.58.105.184:9306](http://13.58.105.184:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.224.19.1:5984](http://15.224.19.1:5984): codellama:13b | deepseek-r1:latest
+- [http://40.177.99.164:9306](http://40.177.99.164:9306): codellama:13b
+- [http://54.229.201.146:8500](http://54.229.201.146:8500): codellama:13b | llama2:latest | llama3:latest
+- [http://43.208.243.207:50000](http://43.208.243.207:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://18.163.33.4:1302](https://18.163.33.4:1302): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://43.208.109.99:4000](http://43.208.109.99:4000): codellama:13b
+- [http://40.192.120.123:5172](http://40.192.120.123:5172): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://108.136.140.236:8500](http://108.136.140.236:8500): codellama:13b | llama2:latest
+- [http://43.205.125.76:2345](http://43.205.125.76:2345): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.152.75.215:8500](http://15.152.75.215:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://15.164.225.200:10797](https://15.164.225.200:10797): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [http://18.61.3.91:5172](http://18.61.3.91:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://15.168.135.67:5984](http://15.168.135.67:5984): codellama:13b | openchat:7b
+- [http://15.228.167.227:5984](http://15.228.167.227:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://18.184.4.189:9306](http://18.184.4.189:9306): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://51.44.172.23:50000](http://51.44.172.23:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.79.125.20:8500](http://54.79.125.20:8500): codellama:13b | llama2:latest | openchat:7b
+- [http://13.208.166.217:50000](http://13.208.166.217:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://35.78.85.165:5984](http://35.78.85.165:5984): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://99.79.58.74:5984](http://99.79.58.74:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.50.4.26:3306](http://13.50.4.26:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://15.152.75.215:5984](http://15.152.75.215:5984): codellama:13b
+- [http://15.135.215.62:4043](http://15.135.215.62:4043): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://34.222.36.63:3306](http://34.222.36.63:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.78.193.98:444](http://52.78.193.98:444): codellama:13b
+- [http://43.208.243.207:8500](http://43.208.243.207:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.208.109.99:40000](http://43.208.109.99:40000): codellama:13b
+- [http://18.228.31.199:4443](http://18.228.31.199:4443): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://52.59.51.29:9306](http://52.59.51.29:9306): codellama:13b | llama3:latest
+- [http://18.100.212.192:5172](http://18.100.212.192:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.231.166.234:9784](http://18.231.166.234:9784): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.223.237.12:8101](http://15.223.237.12:8101): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://15.223.88.153:50000](http://15.223.88.153:50000): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://65.2.5.16:3306](http://65.2.5.16:3306): codellama:13b
+- [https://43.200.174.95:10970](https://43.200.174.95:10970): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.121.130.230:5984](http://3.121.130.230:5984): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.101.105.157:5172](http://18.101.105.157:5172): codellama:13b | llama2:latest | openchat:7b
+- [https://78.13.59.94:8008](https://78.13.59.94:8008): codellama:13b | llama2:latest | openchat:7b
+- [http://43.200.70.158:5984](http://43.200.70.158:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://54.206.129.120:3306](http://54.206.129.120:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://98.130.11.240:5172](http://98.130.11.240:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://108.136.140.236:2083](http://108.136.140.236:2083): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://108.136.140.236:9306](http://108.136.140.236:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.200.179.23:5172](http://43.200.179.23:5172): codellama:13b | llama2:latest | openchat:7b
+- [http://78.13.215.130:5984](http://78.13.215.130:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.60.154.249:9306](http://18.60.154.249:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.177.99.164:5986](http://40.177.99.164:5986): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://47.129.218.47:50000](http://47.129.218.47:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://16.26.154.68:5984](http://16.26.154.68:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://99.79.58.74:5006](http://99.79.58.74:5006): codellama:13b | llama3:latest
+- [http://43.208.243.207:3306](http://43.208.243.207:3306): codellama:13b | deepseek-r1:latest | llama3:latest
+- [https://16.26.154.68:9999](https://16.26.154.68:9999): codellama:13b | llama3:latest
+- [http://51.44.172.23:10005](http://51.44.172.23:10005): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.216.194.20:5656](http://43.216.194.20:5656): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://15.237.108.20:5747](https://15.237.108.20:5747): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://99.79.58.74:5172](http://99.79.58.74:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://16.171.68.235:3674](https://16.171.68.235:3674): codellama:13b | llama2:latest | openchat:7b
+- [http://15.152.75.215:50000](http://15.152.75.215:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.235.42.151:5986](http://13.235.42.151:5986): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://18.145.71.11:5984](http://18.145.71.11:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.242.234:5984](http://43.205.242.234:5984): codellama:13b | qwen2.5:1.5b
+- [http://13.246.6.135:5172](http://13.246.6.135:5172): codellama:13b | deepseek-r1:latest | openchat:7b
+- [https://18.190.253.157:765](https://18.190.253.157:765): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [https://3.25.198.198:48048](https://3.25.198.198:48048): codellama:13b | llama2:latest
+- [http://54.241.67.85:3306](http://54.241.67.85:3306): codellama:13b | llama3:latest
+- [https://16.171.57.95:30044](https://16.171.57.95:30044): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://18.101.230.134:50000](http://18.101.230.134:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.16.47.116:5172](http://51.16.47.116:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.170.25.193:9306](http://18.170.25.193:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://15.160.116.45:3306](http://15.160.116.45:3306): codellama:13b
+- [http://13.235.42.151:9306](http://13.235.42.151:9306): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.216.59.200:50000](http://15.216.59.200:50000): codellama:13b | llama2:latest
+- [http://3.97.209.43:8500](http://3.97.209.43:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://13.58.105.184:3306](http://13.58.105.184:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://34.211.146.130:4660](http://34.211.146.130:4660): codellama:13b | llama2:latest
+- [http://98.130.128.75:5984](http://98.130.128.75:5984): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [https://15.161.131.175:82](https://15.161.131.175:82): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://54.198.22.111:24386](https://54.198.22.111:24386): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://3.87.26.85:1711](https://3.87.26.85:1711): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://13.208.238.59:5984](http://13.208.238.59:5984): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [http://54.67.110.244:50000](http://54.67.110.244:50000): codellama:13b
+- [https://3.25.198.198:10633](https://3.25.198.198:10633): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://18.190.253.157:1088](https://18.190.253.157:1088): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.26.229.44:9306](http://16.26.229.44:9306): codellama:13b | llama3:latest
+- [http://34.246.183.20:5984](http://34.246.183.20:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.60.163.108:20880](http://13.60.163.108:20880): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.253.183.151:4010](http://54.253.183.151:4010): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://13.212.76.134:6124](https://13.212.76.134:6124): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://51.17.154.141:3306](http://51.17.154.141:3306): codellama:13b | deepseek-r1:latest
+- [http://43.210.48.132:3306](http://43.210.48.132:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://13.206.73.237:5984](http://13.206.73.237:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://43.205.113.210:10669](https://43.205.113.210:10669): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://35.152.72.21:5984](http://35.152.72.21:5984): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://18.101.230.134:8500](http://18.101.230.134:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.17.5.220:9306](http://51.17.5.220:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.210.48.132:9306](http://43.210.48.132:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://35.173.255.36:9306](http://35.173.255.36:9306): codellama:13b | llama3:latest
+- [https://3.98.49.236:6666](https://3.98.49.236:6666): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.209.173.229:9306](http://43.209.173.229:9306): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.208.243.207:5984](http://43.208.243.207:5984): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.170.25.193:5001](http://18.170.25.193:5001): codellama:13b | llama2:latest
+- [http://15.223.237.12:3306](http://15.223.237.12:3306): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://18.163.33.4:50000](http://18.163.33.4:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://54.207.37.125:5172](http://54.207.37.125:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://16.51.142.176:9306](http://16.51.142.176:9306): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://51.84.101.19:9095](http://51.84.101.19:9095): codellama:13b | llama2:latest | llama3:latest
+- [http://15.152.36.79:8025](http://15.152.36.79:8025): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://13.244.203.188:7244](https://13.244.203.188:7244): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.161.59.54:9306](http://15.161.59.54:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://13.208.238.59:5172](http://13.208.238.59:5172): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://16.62.221.46:3306](http://16.62.221.46:3306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.253.183.151:50000](http://54.253.183.151:50000): codellama:13b | deepseek-r1:latest
+- [https://15.152.43.246:10940](https://15.152.43.246:10940): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [http://108.136.140.236:5701](http://108.136.140.236:5701): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [https://43.198.99.209:7503](https://43.198.99.209:7503): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://3.99.158.157:31337](http://3.99.158.157:31337): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://78.12.7.76:5984](http://78.12.7.76:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://65.2.5.16:9306](http://65.2.5.16:9306): codellama:13b
+- [http://18.170.111.73:10969](http://18.170.111.73:10969): codellama:13b | qwen2.5:1.5b
+- [http://43.198.99.209:3306](http://43.198.99.209:3306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.112.197.127:9306](http://16.112.197.127:9306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.26.99.200:8500](http://16.26.99.200:8500): codellama:13b | llama2:latest
+- [http://95.40.79.184:8500](http://95.40.79.184:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.18.37.186:9306](http://16.18.37.186:9306): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.112.109.125:5984](http://16.112.109.125:5984): codellama:13b | qwen2.5:1.5b
+- [http://34.246.183.20:3306](http://34.246.183.20:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://99.79.58.74:9306](http://99.79.58.74:9306): codellama:13b | llama3:latest
+- [https://18.133.181.216:6418](https://18.133.181.216:6418): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.246.223.187:8500](http://34.246.223.187:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.231.166.234:1334](http://18.231.166.234:1334): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.112.197.127:999](http://16.112.197.127:999): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.49.153.183:9443](http://51.49.153.183:9443): codellama:13b | llama3:latest
+- [http://56.155.31.137:50000](http://56.155.31.137:50000): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://35.179.140.166:3306](http://35.179.140.166:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://15.228.167.227:2517](https://15.228.167.227:2517): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://3.19.213.118:5172](http://3.19.213.118:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://43.203.140.58:50000](http://43.203.140.58:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.152.92.67:5984](http://15.152.92.67:5984): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.78.193.98:8500](http://52.78.193.98:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.145.71.11:50000](http://18.145.71.11:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.218.124.29:50000](http://43.218.124.29:50000): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://43.198.99.209:2380](https://43.198.99.209:2380): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://35.182.12.78:5984](http://35.182.12.78:5984): codellama:13b | llama3:latest | openchat:7b
+- [http://54.238.33.242:19530](http://54.238.33.242:19530): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [https://13.245.171.157:474](https://13.245.171.157:474): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://16.26.99.200:5984](http://16.26.99.200:5984): codellama:13b | llama2:latest | openchat:7b
+- [http://56.112.63.59:50001](http://56.112.63.59:50001): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://47.129.218.47:9200](http://47.129.218.47:9200): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://51.17.62.103:54138](http://51.17.62.103:54138): codellama:13b | openchat:7b
+- [http://13.48.86.235:13374](http://13.48.86.235:13374): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.176.253.46:8086](http://40.176.253.46:8086): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.242.159.91:3306](http://54.242.159.91:3306): codellama:13b | llama3:latest
+- [http://15.160.116.45:9306](http://15.160.116.45:9306): codellama:13b
+- [http://43.205.113.210:9306](http://43.205.113.210:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://63.33.46.125:5984](http://63.33.46.125:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://54.242.159.91:8500](http://54.242.159.91:8500): codellama:13b | qwen2.5:1.5b
+- [https://47.128.64.22:6964](https://47.128.64.22:6964): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://43.198.22.151:5984](http://43.198.22.151:5984): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.48.13.125:8500](http://13.48.13.125:8500): codellama:13b
+- [http://13.208.238.59:4440](http://13.208.238.59:4440): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://16.162.105.116:50000](http://16.162.105.116:50000): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://13.233.114.239:2828](https://13.233.114.239:2828): codellama:13b | openchat:7b
+- [https://13.52.246.188:1825](https://13.52.246.188:1825): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.212.76.134:8500](http://13.212.76.134:8500): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.229.201.146:5172](http://54.229.201.146:5172): codellama:13b | qwen2.5:1.5b
+- [http://40.177.89.65:5172](http://40.177.89.65:5172): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://47.129.218.47:9306](http://47.129.218.47:9306): codellama:13b
+- [https://3.110.68.130:1220](https://3.110.68.130:1220): codellama:13b | llama3:latest
+- [http://18.188.53.175:50000](http://18.188.53.175:50000): codellama:13b | llama2:latest | openchat:7b
+- [http://13.50.4.26:9306](http://13.50.4.26:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://54.188.236.206:5172](http://54.188.236.206:5172): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.198.209.12:9306](http://43.198.209.12:9306): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://13.125.116.13:8500](http://13.125.116.13:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://13.208.166.217:2440](https://13.208.166.217:2440): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://78.14.20.147:5172](http://78.14.20.147:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://15.161.59.54:4039](http://15.161.59.54:4039): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [https://3.71.26.7:11310](https://3.71.26.7:11310): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.206.73.237:5172](http://13.206.73.237:5172): codellama:13b | llama3:latest
+- [http://43.198.209.12:50000](http://43.198.209.12:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.125.76:5172](http://43.205.125.76:5172): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://13.208.166.217:8500](http://13.208.166.217:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://78.13.215.130:8500](http://78.13.215.130:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://56.155.31.137:5984](http://56.155.31.137:5984): codellama:13b | llama3:latest
+- [http://65.2.143.28:3306](http://65.2.143.28:3306): codellama:13b
+- [http://78.13.215.130:50000](http://78.13.215.130:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://63.33.46.125:3306](http://63.33.46.125:3306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.234.100.23:620](http://34.234.100.23:620): codellama:13b
+- [http://13.212.76.134:8074](http://13.212.76.134:8074): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [https://15.152.76.89:2119](https://15.152.76.89:2119): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [http://54.241.67.85:9306](http://54.241.67.85:9306): codellama:13b | llama3:latest
+- [http://51.96.22.215:3306](http://51.96.22.215:3306): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.200.179.23:2041](http://43.200.179.23:2041): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://3.19.213.118:1926](http://3.19.213.118:1926): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.18.37.186:5172](http://16.18.37.186:5172): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://34.220.22.3:3324](https://34.220.22.3:3324): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.44.97.6:1024](http://51.44.97.6:1024): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://52.16.215.4:5986](http://52.16.215.4:5986): codellama:13b | llama3:latest
+- [http://16.162.105.116:8500](http://16.162.105.116:8500): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.78.193.98:5984](http://52.78.193.98:5984): codellama:13b | llama2:latest | llama3:latest
+- [http://98.130.143.239:5172](http://98.130.143.239:5172): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [http://43.205.113.210:8081](http://43.205.113.210:8081): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://16.62.123.236:9898](http://16.62.123.236:9898): codellama:13b | openchat:7b
+- [https://16.62.229.137:36602](https://16.62.229.137:36602): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://13.244.203.188:50000](http://13.244.203.188:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.208.166.217:8083](http://13.208.166.217:8083): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [https://54.204.160.219:9878](https://54.204.160.219:9878): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://54.116.50.135:8500](http://54.116.50.135:8500): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.168.135.67:9306](http://15.168.135.67:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [https://16.171.57.95:2944](https://16.171.57.95:2944): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.48.13.125:50000](http://13.48.13.125:50000): codellama:13b
+- [http://15.237.108.20:5172](http://15.237.108.20:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.137.167.45:5984](http://3.137.167.45:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://15.161.131.175:2132](https://15.161.131.175:2132): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.152.76.89:5172](http://15.152.76.89:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.50.4.26:393](http://13.50.4.26:393): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://52.59.218.12:5984](http://52.59.218.12:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://54.242.159.91:1051](http://54.242.159.91:1051): codellama:13b | deepseek-r1:latest | llama3:latest
+- [https://15.228.167.227:9417](https://15.228.167.227:9417): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [https://13.208.166.217:4347](https://13.208.166.217:4347): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.97.209.43:50000](http://3.97.209.43:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://54.241.67.85:50000](http://54.241.67.85:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://52.47.115.41:50000](http://52.47.115.41:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://78.14.9.63:8500](http://78.14.9.63:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.253.167.61:8500](http://54.253.167.61:8500): codellama:13b | llama2:latest
+- [http://51.34.28.236:8500](http://51.34.28.236:8500): codellama:13b
+- [http://3.19.213.118:3306](http://3.19.213.118:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://54.229.201.146:50000](http://54.229.201.146:50000): codellama:13b | llama2:latest | llama3:latest
+- [http://51.44.172.23:8500](http://51.44.172.23:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.49.177.23:8500](http://51.49.177.23:8500): codellama:13b | openchat:7b
+- [http://3.19.213.118:9306](http://3.19.213.118:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://3.216.125.170:435](http://3.216.125.170:435): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [http://16.51.148.102:3306](http://16.51.148.102:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.112.197.127:3306](http://16.112.197.127:3306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://15.152.76.89:30069](https://15.152.76.89:30069): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [http://40.177.89.65:5803](http://40.177.89.65:5803): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://98.130.143.239:8500](http://98.130.143.239:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.183.118.94:5172](http://18.183.118.94:5172): codellama:13b | deepseek-r1:latest
+- [https://16.171.68.235:474](https://16.171.68.235:474): codellama:13b | llama2:latest | openchat:7b
+- [https://18.133.181.216:3318](https://18.133.181.216:3318): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://16.50.60.4:3948](https://16.50.60.4:3948): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://16.112.197.127:50000](http://16.112.197.127:50000): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.216.125.170:5984](http://3.216.125.170:5984): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://34.246.183.20:9306](http://34.246.183.20:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.152.92.67:9306](http://15.152.92.67:9306): codellama:13b | llama2:latest
+- [http://78.13.244.74:4567](http://78.13.244.74:4567): codellama:13b | deepseek-r1:latest
+- [http://16.51.142.176:3306](http://16.51.142.176:3306): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://54.79.125.20:50000](http://54.79.125.20:50000): codellama:13b | llama2:latest | openchat:7b
+- [http://56.155.73.215:50000](http://56.155.73.215:50000): codellama:13b | deepseek-r1:latest
+- [http://18.166.63.168:5357](http://18.166.63.168:5357): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.208.166.217:5172](http://13.208.166.217:5172): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://13.208.166.217:9306](http://13.208.166.217:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://52.59.218.12:2816](https://52.59.218.12:2816): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://35.182.12.78:5172](http://35.182.12.78:5172): codellama:13b | llama3:latest | openchat:7b
+- [http://54.188.236.206:5984](http://54.188.236.206:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://63.179.134.206:8500](http://63.179.134.206:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.253.167.61:50000](http://54.253.167.61:50000): codellama:13b | llama2:latest
+- [http://63.181.83.210:5667](http://63.181.83.210:5667): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.205.124.6:8500](http://43.205.124.6:8500): codellama:13b | llama2:latest | llama3:latest
+- [https://3.98.49.236:10666](https://3.98.49.236:10666): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.142.120.165:5984](http://18.142.120.165:5984): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://43.198.99.209:9125](http://43.198.99.209:9125): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://98.130.143.239:50000](http://98.130.143.239:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.134.207.39:8500](http://15.134.207.39:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.170.25.193:5984](http://18.170.25.193:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.198.209.12:8500](http://43.198.209.12:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.137.167.45:8083](http://3.137.167.45:8083): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://18.166.70.216:5984](http://18.166.70.216:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.231.4.173:39](http://18.231.4.173:39): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://47.128.155.71:8500](http://47.128.155.71:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://16.51.148.102:8500](http://16.51.148.102:8500): codellama:13b | deepseek-r1:latest
+- [http://51.92.173.133:3306](http://51.92.173.133:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.238.33.242:9306](http://54.238.33.242:9306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://18.101.58.247:537](https://18.101.58.247:537): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://108.136.149.62:50000](http://108.136.149.62:50000): codellama:13b | deepseek-r1:latest
+- [https://34.222.36.63:1684](https://34.222.36.63:1684): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://3.141.23.103:8500](http://3.141.23.103:8500): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://78.14.45.16:3982](http://78.14.45.16:3982): codellama:13b | openchat:7b
+- [https://54.248.31.78:2151](https://54.248.31.78:2151): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.135.215.62:50000](http://15.135.215.62:50000): codellama:13b
+- [https://54.79.125.20:43752](https://54.79.125.20:43752): codellama:13b
+- [http://43.198.17.35:5172](http://43.198.17.35:5172): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.248.31.78:3306](http://54.248.31.78:3306): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [http://108.136.140.236:1926](http://108.136.140.236:1926): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [https://13.212.26.15:5835](https://13.212.26.15:5835): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://3.97.209.43:9306](http://3.97.209.43:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://18.61.3.91:3306](http://18.61.3.91:3306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.156.91.232:9306](http://15.156.91.232:9306): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://18.61.3.91:9306](http://18.61.3.91:9306): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.170.25.193:3306](http://18.170.25.193:3306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://34.219.149.143:1607](http://34.219.149.143:1607): codellama:13b | llama2:latest | llama3:latest
+- [http://15.152.75.215:9306](http://15.152.75.215:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://3.141.23.103:50000](http://3.141.23.103:50000): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.183.113.183:2246](http://35.183.113.183:2246): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.79.125.20:3080](http://54.79.125.20:3080): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://13.38.217.179:9292](http://13.38.217.179:9292): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://15.224.19.1:9306](http://15.224.19.1:9306): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.188.236.206:3306](http://54.188.236.206:3306): codellama:13b | llama2:latest | llama3:latest
+- [http://40.176.175.23:5172](http://40.176.175.23:5172): codellama:13b | deepseek-r1:latest | llama2:latest
+- [https://35.183.46.69:7583](https://35.183.46.69:7583): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.161.59.54:5172](http://15.161.59.54:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [https://43.209.173.229:81](https://43.209.173.229:81): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.113.210:5984](http://43.205.113.210:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.203.140.58:3306](http://43.203.140.58:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://13.212.26.15:3306](http://13.212.26.15:3306): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.177.99.164:8500](http://40.177.99.164:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.142.120.165:8081](http://18.142.120.165:8081): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://13.60.163.108:9898](http://13.60.163.108:9898): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://13.208.166.217:22347](https://13.208.166.217:22347): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.198.94.82:5172](http://43.198.94.82:5172): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [https://54.67.7.167:27244](https://54.67.7.167:27244): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.227.8.252:5984](http://3.227.8.252:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://34.220.22.3:9424](https://34.220.22.3:9424): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.41.196.179:50000](http://13.41.196.179:50000): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [https://54.215.41.74:10629](https://54.215.41.74:10629): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [https://3.87.26.85:7797](https://3.87.26.85:7797): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://78.14.9.63:8880](http://78.14.9.63:8880): codellama:13b
+- [http://47.128.233.42:5172](http://47.128.233.42:5172): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://98.130.11.240:5223](http://98.130.11.240:5223): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.98.49.236:5172](http://3.98.49.236:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.188.53.175:8123](http://18.188.53.175:8123): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://95.40.79.184:50000](http://95.40.79.184:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.56.167.111:5986](http://52.56.167.111:5986): codellama:13b | llama2:latest | openchat:7b
+- [http://3.145.123.230:2285](http://3.145.123.230:2285): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [http://34.246.223.187:5172](http://34.246.223.187:5172): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://18.133.181.216:11168](https://18.133.181.216:11168): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://16.171.68.235:1824](https://16.171.68.235:1824): codellama:13b | llama2:latest | openchat:7b
+- [http://3.121.130.230:3306](http://3.121.130.230:3306): codellama:13b | llama3:latest | qwen2.5:1.5b
+- [http://54.79.125.20:5172](http://54.79.125.20:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [https://13.208.166.217:1940](https://13.208.166.217:1940): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [https://47.128.233.42:11198](https://47.128.233.42:11198): codellama:13b
+- [http://13.212.26.15:9306](http://13.212.26.15:9306): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.171.235.42:5984](http://16.171.235.42:5984): codellama:13b | llama3:latest | openchat:7b
+- [http://43.205.125.76:5984](http://43.205.125.76:5984): codellama:13b | llama2:latest
+- [https://13.208.166.217:6690](https://13.208.166.217:6690): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://13.51.196.44:9306](http://13.51.196.44:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://18.60.247.31:5984](http://18.60.247.31:5984): codellama:13b | llama2:latest
+- [http://34.244.148.100:4443](http://34.244.148.100:4443): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
 - [https://3.216.125.170:107](https://3.216.125.170:107): codellama:13b | llama3:latest | openchat:7b
+- [https://43.198.94.82:8008](https://43.198.94.82:8008): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.101.230.134:1850](http://18.101.230.134:1850): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.112.17.187:5984](http://16.112.17.187:5984): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.153.68.100:50000](http://35.153.68.100:50000): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://34.246.223.187:50000](http://34.246.223.187:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.221.24.128:5984](http://34.221.24.128:5984): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.41.196.179:8500](http://13.41.196.179:8500): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [https://43.198.17.35:847](https://43.198.17.35:847): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://65.2.143.28:9306](http://65.2.143.28:9306): codellama:13b
+- [http://43.209.173.229:5802](http://43.209.173.229:5802): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.135.215.62:5172](http://15.135.215.62:5172): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.53.139.178:9306](http://13.53.139.178:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://51.16.47.116:8500](http://51.16.47.116:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.177.164.75:8500](http://40.177.164.75:8500): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://15.161.131.175:5172](http://15.161.131.175:5172): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.245.171.157:5984](http://13.245.171.157:5984): codellama:13b | openchat:7b
+- [http://18.101.105.157:5984](http://18.101.105.157:5984): codellama:13b
+- [http://43.200.255.63:43191](http://43.200.255.63:43191): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.198.17.35:9002](http://43.198.17.35:9002): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://15.216.59.200:8500](http://15.216.59.200:8500): codellama:13b | llama2:latest
+- [https://18.133.181.216:1668](https://18.133.181.216:1668): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.125.76:9306](http://43.205.125.76:9306): codellama:13b | openchat:7b
+- [http://43.208.243.207:9306](http://43.208.243.207:9306): codellama:13b | deepseek-r1:latest | llama3:latest
+- [https://15.228.167.227:10184](https://15.228.167.227:10184): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://43.208.243.207:10554](http://43.208.243.207:10554): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.49.153.183:8500](http://51.49.153.183:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.92.173.133:9306](http://51.92.173.133:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.209.173.229:1026](http://43.209.173.229:1026): codellama:13b
+- [http://18.170.25.193:50000](http://18.170.25.193:50000): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.198.209.12:3306](http://43.198.209.12:3306): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://3.8.154.65:6626](http://3.8.154.65:6626): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [http://63.181.83.210:8500](http://63.181.83.210:8500): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [http://54.242.159.91:8009](http://54.242.159.91:8009): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [https://3.98.49.236:2266](https://3.98.49.236:2266): codellama:13b | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.48.86.235:5172](http://13.48.86.235:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.207.37.125:5984](http://54.207.37.125:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://3.216.125.170:4265](https://3.216.125.170:4265): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.143.162.133:1314](http://18.143.162.133:1314): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://43.200.179.23:6715](https://43.200.179.23:6715): codellama:13b | qwen2.5:1.5b
+- [https://98.80.249.121:5985](https://98.80.249.121:5985): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://16.51.62.173:31](http://16.51.62.173:31): codellama:13b | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://35.183.71.247:7747](https://35.183.71.247:7747): codellama:13b
+- [http://13.214.135.136:50000](http://13.214.135.136:50000): codellama:13b | openchat:7b | qwen2.5:1.5b
+- [http://18.228.31.199:50000](http://18.228.31.199:50000): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://108.136.140.236:50000](http://108.136.140.236:50000): codellama:13b | llama2:latest
+- [http://51.34.28.236:50050](http://51.34.28.236:50050): codellama:13b
+- [http://35.173.255.36:3306](http://35.173.255.36:3306): codellama:13b | llama3:latest
+- [http://16.62.229.137:5984](http://16.62.229.137:5984): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.145.71.11:8500](http://18.145.71.11:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.212.76.134:50000](http://13.212.76.134:50000): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [https://18.133.181.216:4168](https://18.133.181.216:4168): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.188.53.175:8500](http://18.188.53.175:8500): codellama:13b | llama2:latest | openchat:7b
+- [http://54.242.159.91:10951](http://54.242.159.91:10951): codellama:13b | deepseek-r1:latest | llama3:latest
+- [http://54.67.110.244:8500](http://54.67.110.244:8500): codellama:13b
+- [http://18.60.154.249:5984](http://18.60.154.249:5984): codellama:13b | deepseek-r1:latest | qwen2.5:1.5b
+- [http://43.210.54.68:8500](http://43.210.54.68:8500): codellama:13b
+- [https://52.59.51.29:799](https://52.59.51.29:799): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://95.40.79.184:9306](http://95.40.79.184:9306): codellama:13b | deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [https://54.204.160.219:9617](https://54.204.160.219:9617): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://54.207.37.125:9306](http://54.207.37.125:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://35.182.12.78:3306](http://35.182.12.78:3306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.78.193.98:50000](http://52.78.193.98:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://44.212.61.234:8500](http://44.212.61.234:8500): codellama:13b | llama2:latest | llama3:latest
+- [http://18.231.166.234:5984](http://18.231.166.234:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.246.183.20:50000](http://34.246.183.20:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.113.210:5001](http://43.205.113.210:5001): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://47.129.218.47:8500](http://47.129.218.47:8500): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://103.146.21.20:11434](http://103.146.21.20:11434): llama3.1:8b | llama3.2:3b-instruct-q5_K_M | llama3.2:latest
 - [http://54.70.209.48:11434](http://54.70.209.48:11434): llama3.1:8b-instruct-q4_K_M | llama2:latest
 - [http://180.102.134.42:8085](http://180.102.134.42:8085): llama3:8b | qwen2:7b
-- [http://54.38.34.32](http://54.38.34.32): dolphin3:latest
+- [http://113.201.2.45:11434](http://113.201.2.45:11434): llama3.2:3b | qwen3:latest | tinyllama:1.1b-chat-v1-q4_K_M
+- [http://36.213.201.149:11434](http://36.213.201.149:11434): llama3.2:3b | minicpm-v:latest | qwen2:7b
 - [http://65.109.68.175:11434](http://65.109.68.175:11434): gemma3:4b
+- [http://136.243.177.102:11434](http://136.243.177.102:11434): llama3.2:3b | mistral:latest | qwen2.5:latest
 - [http://149.12.5.151:11434](http://149.12.5.151:11434): mistral:latest
 - [http://113.200.114.156:7000](http://113.200.114.156:7000): Qwen3:8b
 - [http://144.126.138.52:11434](http://144.126.138.52:11434): qwen3:8b
 - [http://152.67.62.172](http://152.67.62.172): hb-moderator-mistral:latest
+- [http://54.38.34.32](http://54.38.34.32): dolphin3:latest
 - [http://101.71.61.156:11434](http://101.71.61.156:11434): deepseek-r1:7b | smollm2:135m
 - [http://13.61.200.46:5050](http://13.61.200.46:5050): llama3.1:8b | nomic-embed-text:latest
 - [http://136.243.61.120:8080](http://136.243.61.120:8080): gemma:2b | mistral:latest
@@ -822,751 +771,770 @@
 - [https://nxtlabs.app](https://nxtlabs.app): llama3.2:3b | qwen2.5-coder:7b-instruct-q5_K_M | qwen2:7b
 - [http://91.203.133.183:8085](http://91.203.133.183:8085): llama3:8b
 - [https://130.110.114.160](https://130.110.114.160): koesn/llama3-openbiollm-8b:latest | llama3:latest | llama3.2:latest
-- [http://188.40.118.167:11434](http://188.40.118.167:11434): mistral:latest
-- [https://8.220.217.49:4275](https://8.220.217.49:4275): mistral:latest
-- [https://172.104.167.209:27914](https://172.104.167.209:27914): mistral:latest
-- [https://23.239.11.212:11108](https://23.239.11.212:11108): mistral:latest
-- [https://47.250.157.145:1592](https://47.250.157.145:1592): mistral:latest
-- [https://8.216.65.191:3750](https://8.216.65.191:3750): mistral:latest
-- [https://178.79.183.232:8926](https://178.79.183.232:8926): mistral:latest
-- [https://47.109.110.100:4219](https://47.109.110.100:4219): mistral:latest
-- [https://139.162.82.160:4033](https://139.162.82.160:4033): mistral:latest
-- [https://47.89.187.81:37601](https://47.89.187.81:37601): mistral:latest
-- [https://159.138.252.45:10927](https://159.138.252.45:10927): mistral:latest
-- [https://172.104.41.237:122](https://172.104.41.237:122): mistral:latest
-- [https://139.162.112.150:765](https://139.162.112.150:765): mistral:latest
-- [https://172.104.101.21:8443](https://172.104.101.21:8443): mistral:latest
-- [https://172.234.85.135:10459](https://172.234.85.135:10459): mistral:latest
-- [https://8.212.179.12:2808](https://8.212.179.12:2808): mistral:latest
-- [https://47.251.84.182:1875](https://47.251.84.182:1875): mistral:latest
-- [https://172.104.178.137:1717](https://172.104.178.137:1717): mistral:latest
-- [http://173.255.203.153:11434](http://173.255.203.153:11434): mistral:latest
-- [https://139.162.3.158:7343](https://139.162.3.158:7343): mistral:latest
-- [https://139.162.17.182:34512](https://139.162.17.182:34512): mistral:latest
-- [http://47.254.239.51:1226](http://47.254.239.51:1226): mistral:latest
-- [https://198.58.112.247:3470](https://198.58.112.247:3470): mistral:latest
-- [https://139.162.3.158:3381](https://139.162.3.158:3381): mistral:latest
-- [https://47.237.106.163:11130](https://47.237.106.163:11130): mistral:latest
-- [https://8.216.65.236:10165](https://8.216.65.236:10165): mistral:latest
-- [https://47.74.46.81:2255](https://47.74.46.81:2255): mistral:latest
 - [https://47.254.158.115:6317](https://47.254.158.115:6317): mistral:latest
 - [http://8.213.218.56:1570](http://8.213.218.56:1570): mistral:latest
-- [https://172.104.167.209:38203](https://172.104.167.209:38203): mistral:latest
-- [https://172.104.164.237:2000](https://172.104.164.237:2000): mistral:latest
-- [https://182.160.16.163:618](https://182.160.16.163:618): mistral:latest
-- [https://172.104.167.185:6784](https://172.104.167.185:6784): mistral:latest
-- [https://8.220.204.215:10291](https://8.220.204.215:10291): mistral:latest
-- [https://8.213.215.187:9866](https://8.213.215.187:9866): mistral:latest
-- [https://47.254.239.51:3917](https://47.254.239.51:3917): mistral:latest
+- [https://47.237.105.133:3674](https://47.237.105.133:3674): mistral:latest
+- [http://45.79.252.91:11434](http://45.79.252.91:11434): mistral:latest
+- [https://47.254.237.222:11199](https://47.254.237.222:11199): mistral:latest
+- [https://172.234.85.135:10459](https://172.234.85.135:10459): mistral:latest
+- [https://172.105.121.43:10387](https://172.105.121.43:10387): mistral:latest
+- [https://139.162.82.160:4033](https://139.162.82.160:4033): mistral:latest
+- [https://47.237.106.163:11130](https://47.237.106.163:11130): mistral:latest
+- [https://74.207.234.196:2890](https://74.207.234.196:2890): mistral:latest
+- [https://172.104.167.209:29](https://172.104.167.209:29): mistral:latest
+- [https://8.220.204.215:10386](https://8.220.204.215:10386): mistral:latest
+- [http://173.255.203.153:11434](http://173.255.203.153:11434): mistral:latest
+- [https://8.215.59.238:6382](https://8.215.59.238:6382): mistral:latest
+- [https://172.104.178.85:11208](https://172.104.178.85:11208): mistral:latest
+- [https://47.250.156.29:5814](https://47.250.156.29:5814): mistral:latest
+- [https://8.216.65.191:3750](https://8.216.65.191:3750): mistral:latest
 - [https://122.9.131.161:18668](https://122.9.131.161:18668): mistral:latest
+- [https://172.104.178.137:18018](https://172.104.178.137:18018): mistral:latest
+- [https://172.104.167.209:38203](https://172.104.167.209:38203): mistral:latest
+- [https://172.104.178.137:707](https://172.104.178.137:707): mistral:latest
+- [https://8.216.65.236:10165](https://8.216.65.236:10165): mistral:latest
+- [https://47.250.157.145:1592](https://47.250.157.145:1592): mistral:latest
+- [https://74.207.234.196:10129](https://74.207.234.196:10129): mistral:latest
+- [https://47.100.73.178:7846](https://47.100.73.178:7846): mistral:latest
+- [https://23.239.11.212:11108](https://23.239.11.212:11108): mistral:latest
+- [http://8.211.49.86:11434](http://8.211.49.86:11434): mistral:latest
+- [https://172.104.167.209:27914](https://172.104.167.209:27914): mistral:latest
+- [https://47.116.186.139:24577](https://47.116.186.139:24577): mistral:latest
+- [https://47.88.12.18:2698](https://47.88.12.18:2698): mistral:latest
+- [https://139.162.3.158:7343](https://139.162.3.158:7343): mistral:latest
+- [https://139.162.3.158:43441](https://139.162.3.158:43441): mistral:latest
+- [https://47.250.11.111:1839](https://47.250.11.111:1839): mistral:latest
+- [https://172.104.167.185:6784](https://172.104.167.185:6784): mistral:latest
+- [https://139.162.53.161:431](https://139.162.53.161:431): mistral:latest
+- [https://139.162.3.158:3381](https://139.162.3.158:3381): mistral:latest
+- [https://139.162.112.20:4740](https://139.162.112.20:4740): mistral:latest
 - [https://122.9.131.161:61617](https://122.9.131.161:61617): mistral:latest
+- [https://8.220.204.215:10291](https://8.220.204.215:10291): mistral:latest
+- [https://8.220.217.49:4275](https://8.220.217.49:4275): mistral:latest
+- [https://172.104.135.189:2709](https://172.104.135.189:2709): mistral:latest
+- [https://139.162.60.37:5050](https://139.162.60.37:5050): mistral:latest
+- [https://172.105.203.215:32761](https://172.105.203.215:32761): mistral:latest
+- [https://8.221.141.88:1220](https://8.221.141.88:1220): mistral:latest
+- [https://139.162.112.150:765](https://139.162.112.150:765): mistral:latest
+- [https://47.254.234.254:30260](https://47.254.234.254:30260): mistral:latest
+- [https://182.160.16.163:618](https://182.160.16.163:618): mistral:latest
+- [https://8.213.215.187:9866](https://8.213.215.187:9866): mistral:latest
+- [http://23.239.29.237:11434](http://23.239.29.237:11434): mistral:latest
+- [https://172.104.164.237:2000](https://172.104.164.237:2000): mistral:latest
+- [https://120.25.190.16:2955](https://120.25.190.16:2955): mistral:latest
+- [https://172.104.41.237:122](https://172.104.41.237:122): mistral:latest
+- [https://139.162.112.20:30723](https://139.162.112.20:30723): mistral:latest
+- [https://159.138.252.45:2314](https://159.138.252.45:2314): mistral:latest
+- [https://47.251.84.182:1875](https://47.251.84.182:1875): mistral:latest
+- [https://47.254.237.222:14150](https://47.254.237.222:14150): mistral:latest
+- [https://47.250.11.111:7982](https://47.250.11.111:7982): mistral:latest
+- [https://198.58.112.247:3470](https://198.58.112.247:3470): mistral:latest
+- [https://139.162.17.182:34512](https://139.162.17.182:34512): mistral:latest
+- [https://47.89.187.81:37601](https://47.89.187.81:37601): mistral:latest
+- [https://139.162.17.124:1509](https://139.162.17.124:1509): mistral:latest
+- [https://172.104.178.137:1717](https://172.104.178.137:1717): mistral:latest
+- [https://178.79.183.232:8926](https://178.79.183.232:8926): mistral:latest
 - [https://8.213.218.56:4788](https://8.213.218.56:4788): mistral:latest
 - [https://47.237.107.41:6060](https://47.237.107.41:6060): mistral:latest
-- [https://159.138.252.45:2314](https://159.138.252.45:2314): mistral:latest
-- [https://172.104.135.189:2709](https://172.104.135.189:2709): mistral:latest
-- [https://47.116.186.139:24577](https://47.116.186.139:24577): mistral:latest
-- [https://8.221.141.88:1220](https://8.221.141.88:1220): mistral:latest
-- [http://45.79.252.91:11434](http://45.79.252.91:11434): mistral:latest
-- [https://172.105.121.43:10387](https://172.105.121.43:10387): mistral:latest
-- [https://120.25.190.16:2955](https://120.25.190.16:2955): mistral:latest
-- [https://47.250.11.111:1839](https://47.250.11.111:1839): mistral:latest
-- [https://139.162.3.158:43441](https://139.162.3.158:43441): mistral:latest
-- [https://139.162.60.37:5050](https://139.162.60.37:5050): mistral:latest
-- [https://8.213.215.187:7354](https://8.213.215.187:7354): mistral:latest
-- [https://47.250.156.29:5814](https://47.250.156.29:5814): mistral:latest
-- [https://139.162.112.20:4740](https://139.162.112.20:4740): mistral:latest
-- [https://172.104.167.209:29](https://172.104.167.209:29): mistral:latest
-- [https://172.104.178.137:707](https://172.104.178.137:707): mistral:latest
-- [https://47.254.234.254:30260](https://47.254.234.254:30260): mistral:latest
-- [https://172.105.203.215:32761](https://172.105.203.215:32761): mistral:latest
+- [https://47.74.46.81:2255](https://47.74.46.81:2255): mistral:latest
+- [https://172.104.101.21:8443](https://172.104.101.21:8443): mistral:latest
 - [https://96.126.114.39:2248](https://96.126.114.39:2248): mistral:latest
-- [https://47.100.73.178:7846](https://47.100.73.178:7846): mistral:latest
-- [https://8.215.59.238:6382](https://8.215.59.238:6382): mistral:latest
-- [http://23.239.29.237:11434](http://23.239.29.237:11434): mistral:latest
-- [https://139.162.53.161:431](https://139.162.53.161:431): mistral:latest
-- [https://8.220.204.215:10386](https://8.220.204.215:10386): mistral:latest
-- [https://47.250.11.111:7982](https://47.250.11.111:7982): mistral:latest
+- [https://8.212.179.12:2808](https://8.212.179.12:2808): mistral:latest
 - [https://47.116.188.197:8025](https://47.116.188.197:8025): mistral:latest
-- [https://47.88.12.18:2698](https://47.88.12.18:2698): mistral:latest
-- [https://172.104.178.137:18018](https://172.104.178.137:18018): mistral:latest
-- [https://172.104.178.85:11208](https://172.104.178.85:11208): mistral:latest
-- [https://47.237.105.133:3674](https://47.237.105.133:3674): mistral:latest
-- [https://74.207.234.196:2890](https://74.207.234.196:2890): mistral:latest
-- [https://139.162.112.20:30723](https://139.162.112.20:30723): mistral:latest
-- [https://139.162.17.124:1509](https://139.162.17.124:1509): mistral:latest
-- [https://74.207.234.196:10129](https://74.207.234.196:10129): mistral:latest
-- [http://8.211.49.86:11434](http://8.211.49.86:11434): mistral:latest
+- [https://8.213.215.187:7354](https://8.213.215.187:7354): mistral:latest
+- [https://47.109.110.100:4219](https://47.109.110.100:4219): mistral:latest
 - [http://65.108.28.232:11434](http://65.108.28.232:11434): llama3.2:3b | mistral:7b
 - [https://34.149.125.179](https://34.149.125.179): gemma3:4b
-- [http://16.78.84.238:50200](http://16.78.84.238:50200): deepseek-r1:latest | openchat:7b
-- [http://43.205.113.210:5001](http://43.205.113.210:5001): deepseek-r1:latest
-- [http://3.98.49.236:2285](http://3.98.49.236:2285): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://13.52.246.188:848](https://13.52.246.188:848): deepseek-r1:latest | llama2:latest
-- [https://3.110.68.130:39](https://3.110.68.130:39): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://51.118.97.134:8069](http://51.118.97.134:8069): deepseek-r1:latest | llama2:latest
-- [http://34.220.22.3:8500](http://34.220.22.3:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [https://54.248.31.78:5542](https://54.248.31.78:5542): deepseek-r1:latest
-- [http://51.49.145.16:7002](http://51.49.145.16:7002): deepseek-r1:latest
-- [http://34.220.22.3:5172](http://34.220.22.3:5172): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.26.154.68:3306](http://16.26.154.68:3306): deepseek-r1:latest | openchat:7b
-- [http://3.25.189.39:9306](http://3.25.189.39:9306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.206.240.252:3306](http://43.206.240.252:3306): deepseek-r1:latest
-- [http://13.206.73.237:9306](http://13.206.73.237:9306): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [https://34.241.123.181:6466](https://34.241.123.181:6466): deepseek-r1:latest | llama3:latest
-- [http://43.209.173.229:5802](http://43.209.173.229:5802): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.160.22.3:5172](http://15.160.22.3:5172): deepseek-r1:latest | openchat:7b
-- [https://15.152.92.67:1896](https://15.152.92.67:1896): deepseek-r1:latest | llama3:latest
-- [http://54.207.37.125:8500](http://54.207.37.125:8500): deepseek-r1:latest | llama2:latest | openchat:7b
-- [https://13.48.86.235:10542](https://13.48.86.235:10542): deepseek-r1:latest
-- [http://35.183.71.247:8500](http://35.183.71.247:8500): deepseek-r1:latest | llama2:latest
-- [http://52.47.115.41:3306](http://52.47.115.41:3306): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.227.8.252:5984](http://3.227.8.252:5984): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.34.28.236:5984](http://51.34.28.236:5984): deepseek-r1:latest | openchat:7b
-- [http://18.231.214.27:5984](http://18.231.214.27:5984): deepseek-r1:latest
-- [http://16.78.84.238:50000](http://16.78.84.238:50000): deepseek-r1:latest | openchat:7b
-- [http://13.235.42.151:9398](http://13.235.42.151:9398): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://40.176.136.1:50000](http://40.176.136.1:50000): deepseek-r1:latest | llama3:latest
-- [http://15.224.19.1:9306](http://15.224.19.1:9306): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.162.200.96:8500](http://18.162.200.96:8500): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://99.79.58.74:9306](http://99.79.58.74:9306): deepseek-r1:latest | llama3:latest | openchat:7b
-- [https://18.133.181.216:1668](https://18.133.181.216:1668): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.205.113.210:3306](http://43.205.113.210:3306): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.188.236.206:5984](http://54.188.236.206:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://43.200.255.63:5984](http://43.200.255.63:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.94.126.207:5172](http://51.94.126.207:5172): deepseek-r1:latest | llama2:latest
-- [http://51.16.47.116:9306](http://51.16.47.116:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.253.84.193:5984](http://54.253.84.193:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://13.42.46.155:1823](https://13.42.46.155:1823): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.184.44.37:5938](http://16.184.44.37:5938): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.26.99.200:5984](http://16.26.99.200:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.198.22.151:5172](http://43.198.22.151:5172): deepseek-r1:latest | llama3:latest
-- [http://43.198.209.12:5172](http://43.198.209.12:5172): deepseek-r1:latest | openchat:7b
-- [http://18.170.25.193:5984](http://18.170.25.193:5984): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://52.78.193.98:444](http://52.78.193.98:444): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://108.136.140.236:5984](http://108.136.140.236:5984): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.152.75.215:50000](http://15.152.75.215:50000): deepseek-r1:latest
-- [http://108.131.109.106:8500](http://108.131.109.106:8500): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://13.60.25.49:2076](https://13.60.25.49:2076): deepseek-r1:latest
-- [http://54.198.94.206:5172](http://54.198.94.206:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.200.179.23:5984](http://43.200.179.23:5984): deepseek-r1:latest | llama3:latest
-- [http://43.208.237.116:9306](http://43.208.237.116:9306): deepseek-r1:latest | openchat:7b
-- [https://18.133.181.216:6418](https://18.133.181.216:6418): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.125.116.13:7443](http://13.125.116.13:7443): deepseek-r1:latest | llama3:latest
-- [http://54.233.23.106:50000](http://54.233.23.106:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://16.51.142.176:30053](https://16.51.142.176:30053): deepseek-r1:latest
-- [http://3.98.49.236:9306](http://3.98.49.236:9306): deepseek-r1:latest | llama2:latest | llama3:latest
-- [https://13.40.223.158:10929](https://13.40.223.158:10929): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.152.219.7:50000](http://35.152.219.7:50000): deepseek-r1:latest | qwen2.5:1.5b
-- [http://3.249.133.203:5172](http://3.249.133.203:5172): deepseek-r1:latest | llama3:latest
-- [http://52.78.193.98:5172](http://52.78.193.98:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.34.28.236:9306](http://51.34.28.236:9306): deepseek-r1:latest | llama2:latest | openchat:7b
-- [https://15.152.76.89:9240](https://15.152.76.89:9240): deepseek-r1:latest
-- [https://15.237.108.20:8443](https://15.237.108.20:8443): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.205.113.210:9306](http://43.205.113.210:9306): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.101.105.157:9229](http://18.101.105.157:9229): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.205.125.76:9001](http://43.205.125.76:9001): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://54.252.192.125:5172](http://54.252.192.125:5172): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.78.226.123:5172](http://16.78.226.123:5172): deepseek-r1:latest | llama2:latest
-- [http://51.48.48.12:4505](http://51.48.48.12:4505): deepseek-r1:latest | llama2:latest | openchat:7b
-- [https://15.152.76.89:1940](https://15.152.76.89:1940): deepseek-r1:latest
-- [http://34.246.183.20:50000](http://34.246.183.20:50000): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://63.181.83.210:5984](http://63.181.83.210:5984): deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://18.188.191.57:15000](http://18.188.191.57:15000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.163.33.4:8500](http://18.163.33.4:8500): deepseek-r1:latest
-- [http://16.112.4.117:5172](http://16.112.4.117:5172): deepseek-r1:latest | openchat:7b
-- [http://52.56.237.157:50000](http://52.56.237.157:50000): deepseek-r1:latest
-- [http://13.245.171.157:5172](http://13.245.171.157:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.183.46.69:5984](http://35.183.46.69:5984): deepseek-r1:latest
-- [http://43.198.94.82:50000](http://43.198.94.82:50000): deepseek-r1:latest | openchat:7b
-- [https://15.152.76.89:10440](https://15.152.76.89:10440): deepseek-r1:latest
-- [http://13.60.163.108:50000](http://13.60.163.108:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://35.152.219.7:8500](http://35.152.219.7:8500): deepseek-r1:latest | qwen2.5:1.5b
-- [http://95.40.79.184:5172](http://95.40.79.184:5172): deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://54.95.102.143:5984](http://54.95.102.143:5984): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.26.154.68:8500](http://16.26.154.68:8500): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://44.246.248.57:4439](http://44.246.248.57:4439): deepseek-r1:latest
-- [http://16.28.104.227:50000](http://16.28.104.227:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://43.200.179.23:3529](https://43.200.179.23:3529): deepseek-r1:latest | qwen2.5:1.5b
-- [http://56.155.99.29:8500](http://56.155.99.29:8500): deepseek-r1:latest | llama2:latest
-- [http://51.84.101.19:5984](http://51.84.101.19:5984): deepseek-r1:latest | openchat:7b
-- [https://54.184.62.214:3867](https://54.184.62.214:3867): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://51.17.154.141:3306](http://51.17.154.141:3306): deepseek-r1:latest | llama2:latest
-- [http://63.33.46.125:50000](http://63.33.46.125:50000): deepseek-r1:latest
-- [http://54.95.102.143:4434](http://54.95.102.143:4434): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.229.201.146:5172](http://54.229.201.146:5172): deepseek-r1:latest | llama3:latest
-- [http://56.155.73.215:5172](http://56.155.73.215:5172): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://44.212.61.234:8500](http://44.212.61.234:8500): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://63.33.46.125:8500](http://63.33.46.125:8500): deepseek-r1:latest
-- [https://15.160.47.245:4111](https://15.160.47.245:4111): deepseek-r1:latest | openchat:7b
-- [https://57.180.243.109:32412](https://57.180.243.109:32412): deepseek-r1:latest
-- [http://43.198.99.209:5051](http://43.198.99.209:5051): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://18.222.132.180:2735](http://18.222.132.180:2735): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.145.71.11:5901](http://18.145.71.11:5901): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://16.62.221.46:50000](http://16.62.221.46:50000): deepseek-r1:latest | llama3:latest
-- [http://15.223.237.12:8500](http://15.223.237.12:8500): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.233.23.106:8500](http://54.233.23.106:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.12.7.76:8500](http://78.12.7.76:8500): deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://54.253.183.151:8159](http://54.253.183.151:8159): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://44.212.61.234:5984](http://44.212.61.234:5984): deepseek-r1:latest
-- [http://34.246.223.187:8500](http://34.246.223.187:8500): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [https://18.133.181.216:11168](https://18.133.181.216:11168): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [https://16.51.142.176:5403](https://16.51.142.176:5403): deepseek-r1:latest
-- [http://54.95.102.143:5172](http://54.95.102.143:5172): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://78.12.252.87:50000](http://78.12.252.87:50000): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://13.48.13.125:5986](http://13.48.13.125:5986): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.206.129.120:8500](http://54.206.129.120:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://16.16.162.157:3306](http://16.16.162.157:3306): deepseek-r1:latest
-- [http://16.62.123.236:9002](http://16.62.123.236:9002): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://15.152.43.74:5172](http://15.152.43.74:5172): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.101.58.247:9400](http://18.101.58.247:9400): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.16.162.157:9306](http://16.16.162.157:9306): deepseek-r1:latest
-- [http://54.218.248.251:50000](http://54.218.248.251:50000): deepseek-r1:latest
-- [https://13.244.203.188:7244](https://13.244.203.188:7244): deepseek-r1:latest
-- [http://40.177.89.65:5984](http://40.177.89.65:5984): deepseek-r1:latest
-- [http://13.246.45.164:5984](http://13.246.45.164:5984): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://65.2.5.16:5984](http://65.2.5.16:5984): deepseek-r1:latest | openchat:7b
-- [http://40.192.121.249:9306](http://40.192.121.249:9306): deepseek-r1:latest | llama3:latest
-- [https://54.218.248.251:3231](https://54.218.248.251:3231): deepseek-r1:latest | openchat:7b
-- [https://13.52.246.188:9448](https://13.52.246.188:9448): deepseek-r1:latest | llama2:latest
-- [http://13.206.73.237:3306](http://13.206.73.237:3306): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://15.152.75.215:8500](http://15.152.75.215:8500): deepseek-r1:latest
-- [http://16.28.104.227:5172](http://16.28.104.227:5172): deepseek-r1:latest | llama2:latest
-- [https://18.61.235.7:1514](https://18.61.235.7:1514): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.84.110.147:5172](http://51.84.110.147:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://3.122.115.244:9306](http://3.122.115.244:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://16.112.197.127:8500](http://16.112.197.127:8500): deepseek-r1:latest
-- [http://15.164.225.200:5984](http://15.164.225.200:5984): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.177.164.75:8500](http://40.177.164.75:8500): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.14.20.147:9306](http://78.14.20.147:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://54.248.31.78:29492](https://54.248.31.78:29492): deepseek-r1:latest
-- [https://18.61.235.7:10814](https://18.61.235.7:10814): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://47.128.233.42:5984](http://47.128.233.42:5984): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.198.94.82:8500](http://43.198.94.82:8500): deepseek-r1:latest | openchat:7b
-- [http://3.98.49.236:5985](http://3.98.49.236:5985): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://3.98.49.236:5984](http://3.98.49.236:5984): deepseek-r1:latest
-- [http://16.112.4.117:8500](http://16.112.4.117:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://13.48.13.125:5984](http://13.48.13.125:5984): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://34.222.36.63:3306](http://34.222.36.63:3306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://18.133.181.216:4168](https://18.133.181.216:4168): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://35.182.12.78:771](http://35.182.12.78:771): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.235.42.151:5984](http://13.235.42.151:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.101.58.247:50000](http://18.101.58.247:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.59.51.29:9095](http://52.59.51.29:9095): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.152.36.79:5172](http://15.152.36.79:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.62.221.46:8500](http://16.62.221.46:8500): deepseek-r1:latest | llama3:latest
-- [http://16.26.143.154:10443](http://16.26.143.154:10443): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://18.133.181.216:8500](http://18.133.181.216:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.246.6.135:5172](http://13.246.6.135:5172): deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://54.229.201.146:5984](http://54.229.201.146:5984): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://43.210.48.132:5984](http://43.210.48.132:5984): deepseek-r1:latest | openchat:7b
-- [http://52.59.51.29:9306](http://52.59.51.29:9306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://43.209.173.229:81](https://43.209.173.229:81): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://52.56.167.111:5984](http://52.56.167.111:5984): deepseek-r1:latest | llama3:latest
-- [https://34.219.149.143:1139](https://34.219.149.143:1139): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://54.229.201.146:3306](http://54.229.201.146:3306): deepseek-r1:latest | qwen2.5:1.5b
-- [http://51.34.28.236:3306](http://51.34.28.236:3306): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://18.101.105.157:27999](http://18.101.105.157:27999): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://51.92.173.133:5172](http://51.92.173.133:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.56.167.111:50000](http://52.56.167.111:50000): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.246.183.20:5172](http://34.246.183.20:5172): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.162.200.96:8500](http://18.162.200.96:8500): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://65.2.5.16:50000](http://65.2.5.16:50000): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.208.166.217:5984](http://13.208.166.217:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.78.193.98:3306](http://52.78.193.98:3306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
 - [http://13.125.116.13:9306](http://13.125.116.13:9306): deepseek-r1:latest | llama3:latest
-- [http://15.223.88.153:50000](http://15.223.88.153:50000): deepseek-r1:latest | qwen2.5:1.5b
-- [http://15.224.19.1:3306](http://15.224.19.1:3306): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.184.62.214:5172](http://54.184.62.214:5172): deepseek-r1:latest
-- [http://3.25.189.39:3306](http://3.25.189.39:3306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.198.94.82:5984](http://43.198.94.82:5984): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://16.162.105.116:2087](http://16.162.105.116:2087): deepseek-r1:latest | llama2:latest
-- [http://13.38.217.179:5172](http://13.38.217.179:5172): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.207.132.28:8500](http://43.207.132.28:8500): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
 - [http://35.183.71.247:50000](http://35.183.71.247:50000): deepseek-r1:latest | llama2:latest
-- [http://13.208.238.59:5984](http://13.208.238.59:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.59.218.12:5172](http://52.59.218.12:5172): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://54.229.201.146:9306](http://54.229.201.146:9306): deepseek-r1:latest | qwen2.5:1.5b
-- [http://35.180.75.159:5172](http://35.180.75.159:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://3.19.213.118:1926](http://3.19.213.118:1926): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.26.154.68:4030](http://16.26.154.68:4030): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://16.51.62.173:31](http://16.51.62.173:31): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://13.48.13.125:11434](http://13.48.13.125:11434): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://16.28.87.123:5820](http://16.28.87.123:5820): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://13.60.181.61:9398](http://13.60.181.61:9398): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://3.254.210.44:5984](http://3.254.210.44:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.112.197.127:50000](http://16.112.197.127:50000): deepseek-r1:latest
-- [http://52.56.167.111:8500](http://52.56.167.111:8500): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://54.160.130.48:673](https://54.160.130.48:673): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://52.56.167.111:2375](https://52.56.167.111:2375): deepseek-r1:latest
-- [https://3.87.26.85:1711](https://3.87.26.85:1711): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://13.235.42.151:11434](http://13.235.42.151:11434): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://99.79.58.74:5006](http://99.79.58.74:5006): deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://34.204.36.88:5984](http://34.204.36.88:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.206.129.120:50000](http://54.206.129.120:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.145.71.11:5172](http://18.145.71.11:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.245.171.157:5984](http://13.245.171.157:5984): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://43.198.22.151:9306](http://43.198.22.151:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://15.223.237.12:50000](http://15.223.237.12:50000): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.112.4.117:50000](http://16.112.4.117:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://54.94.226.81:8500](http://54.94.226.81:8500): deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://16.26.143.154:9306](http://16.26.143.154:9306): deepseek-r1:latest | llama3:latest | openchat:7b
-- [http://15.229.156.39:5984](http://15.229.156.39:5984): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://34.211.146.130:4660](http://34.211.146.130:4660): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://13.41.196.179:5984](http://13.41.196.179:5984): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.171.235.42:2396](http://16.171.235.42:2396): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.14.20.147:3306](http://78.14.20.147:3306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.208.237.116:5172](http://43.208.237.116:5172): deepseek-r1:latest | qwen2.5:1.5b
-- [http://15.240.66.158:5006](http://15.240.66.158:5006): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://54.67.110.244:9306](http://54.67.110.244:9306): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.205.124.6:8500](http://43.205.124.6:8500): deepseek-r1:latest | qwen2.5:1.5b
-- [http://16.26.154.68:5172](http://16.26.154.68:5172): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://18.163.33.4:50000](http://18.163.33.4:50000): deepseek-r1:latest
-- [http://18.101.58.247:8500](http://18.101.58.247:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.152.75.215:9306](http://15.152.75.215:9306): deepseek-r1:latest
-- [http://34.241.123.181:591](http://34.241.123.181:591): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://15.135.215.62:5172](http://15.135.215.62:5172): deepseek-r1:latest
-- [http://34.246.183.20:8500](http://34.246.183.20:8500): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://99.79.58.74:3306](http://99.79.58.74:3306): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://51.44.97.6:5984](http://51.44.97.6:5984): deepseek-r1:latest | llama3:latest
+- [http://13.235.42.151:5321](http://13.235.42.151:5321): deepseek-r1:latest | llama2:latest
+- [http://43.198.94.82:50000](http://43.198.94.82:50000): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.231.214.27:9306](http://18.231.214.27:9306): deepseek-r1:latest | qwen2.5:1.5b
+- [http://16.18.37.186:8500](http://16.18.37.186:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://16.51.142.176:5403](https://16.51.142.176:5403): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.152.219.7:50000](http://35.152.219.7:50000): deepseek-r1:latest | qwen2.5:1.5b
+- [http://54.180.117.151:50000](http://54.180.117.151:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.246.45.164:5172](http://13.246.45.164:5172): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://51.95.13.205:50000](http://51.95.13.205:50000): deepseek-r1:latest | openchat:7b
+- [https://54.180.117.151:5167](https://54.180.117.151:5167): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.98.49.236:5985](http://3.98.49.236:5985): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.161.131.175:50000](http://15.161.131.175:50000): deepseek-r1:latest | qwen2.5:1.5b
+- [http://43.206.240.252:8500](http://43.206.240.252:8500): deepseek-r1:latest | qwen2.5:1.5b
+- [http://54.180.117.151:8500](http://54.180.117.151:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.188.53.175:9306](http://18.188.53.175:9306): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://13.212.26.15:50000](http://13.212.26.15:50000): deepseek-r1:latest | llama3:latest | openchat:7b
 - [http://18.228.11.195:8500](http://18.228.11.195:8500): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.78.84.238:8500](http://16.78.84.238:8500): deepseek-r1:latest | openchat:7b
-- [http://13.60.181.61:9898](http://13.60.181.61:9898): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://15.161.59.54:4039](http://15.161.59.54:4039): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.192.121.249:3306](http://40.192.121.249:3306): deepseek-r1:latest | llama3:latest
-- [http://52.56.167.111:5172](http://52.56.167.111:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.13.215.130:9306](http://78.13.215.130:9306): deepseek-r1:latest | llama2:latest
-- [http://54.253.84.193:2376](http://54.253.84.193:2376): deepseek-r1:latest | llama2:latest | openchat:7b
-- [https://18.170.25.193:9457](https://18.170.25.193:9457): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://40.176.136.1:8500](http://40.176.136.1:8500): deepseek-r1:latest | llama3:latest
-- [http://43.198.99.209:50000](http://43.198.99.209:50000): deepseek-r1:latest
-- [http://52.56.237.157:8500](http://52.56.237.157:8500): deepseek-r1:latest
-- [https://15.152.76.89:690](https://15.152.76.89:690): deepseek-r1:latest
-- [http://3.98.49.236:1885](http://3.98.49.236:1885): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://34.244.148.100:9306](http://34.244.148.100:9306): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://43.205.125.76:5986](http://43.205.125.76:5986): deepseek-r1:latest | qwen2.5:1.5b
-- [http://13.125.116.13:3306](http://13.125.116.13:3306): deepseek-r1:latest | llama3:latest
-- [http://78.13.244.74:5172](http://78.13.244.74:5172): deepseek-r1:latest
-- [http://13.60.163.108:8500](http://13.60.163.108:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://51.16.161.107:10630](https://51.16.161.107:10630): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://18.101.105.157:9229](http://18.101.105.157:9229): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.229.147.65:4890](http://15.229.147.65:4890): deepseek-r1:latest | qwen2.5:1.5b
 - [https://40.176.253.46:48991](https://40.176.253.46:48991): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://34.221.24.128:3964](https://34.221.24.128:3964): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.164.225.200:5172](http://15.164.225.200:5172): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.205.124.6:50000](http://43.205.124.6:50000): deepseek-r1:latest | qwen2.5:1.5b
-- [http://35.182.12.78:5440](http://35.182.12.78:5440): deepseek-r1:latest
-- [https://57.180.243.109:362](https://57.180.243.109:362): deepseek-r1:latest
-- [http://34.246.223.187:50000](http://34.246.223.187:50000): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://16.112.197.127:7071](http://16.112.197.127:7071): deepseek-r1:latest | openchat:7b
-- [http://18.191.218.228:3306](http://18.191.218.228:3306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.205.124.6:4434](http://43.205.124.6:4434): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://51.16.47.116:3306](http://51.16.47.116:3306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://16.26.154.68:9306](http://16.26.154.68:9306): deepseek-r1:latest | openchat:7b
-- [http://15.240.66.158:9306](http://15.240.66.158:9306): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://16.26.154.68:50000](http://16.26.154.68:50000): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.162.105.116:5172](http://16.162.105.116:5172): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.215.41.74:8500](http://54.215.41.74:8500): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://44.246.248.57:18789](http://44.246.248.57:18789): deepseek-r1:latest
-- [http://15.160.132.166:5984](http://15.160.132.166:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.142.120.165:10005](http://18.142.120.165:10005): deepseek-r1:latest | llama3:latest
-- [http://34.246.183.20:5984](http://34.246.183.20:5984): deepseek-r1:latest | qwen2.5:1.5b
-- [http://43.198.99.209:8500](http://43.198.99.209:8500): deepseek-r1:latest
+- [https://15.152.76.89:690](https://15.152.76.89:690): deepseek-r1:latest
 - [http://15.161.131.175:7040](http://15.161.131.175:7040): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://18.133.181.216:3318](https://18.133.181.216:3318): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
-- [http://78.12.252.87:8500](http://78.12.252.87:8500): deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://108.136.149.62:5984](http://108.136.149.62:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://40.177.164.75:50000](http://40.177.164.75:50000): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.59.51.29:8500](http://52.59.51.29:8500): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://18.231.214.27:4225](http://18.231.214.27:4225): deepseek-r1:latest | qwen2.5:1.5b
+- [http://3.25.189.39:9306](http://3.25.189.39:9306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://65.2.5.16:8500](http://65.2.5.16:8500): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.26.143.154:50000](http://16.26.143.154:50000): deepseek-r1:latest | openchat:7b
+- [http://13.51.196.44:8834](http://13.51.196.44:8834): deepseek-r1:latest | qwen2.5:1.5b
+- [http://15.161.59.54:8500](http://15.161.59.54:8500): deepseek-r1:latest | llama3:latest
+- [http://34.220.22.3:5172](http://34.220.22.3:5172): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.160.116.45:8500](http://15.160.116.45:8500): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://16.26.154.68:9306](http://16.26.154.68:9306): deepseek-r1:latest
+- [http://3.98.49.236:2285](http://3.98.49.236:2285): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://54.160.130.48:673](https://54.160.130.48:673): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://15.240.66.158:5006](http://15.240.66.158:5006): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://51.49.153.183:9306](http://51.49.153.183:9306): deepseek-r1:latest | llama2:latest
+- [http://43.218.124.29:5984](http://43.218.124.29:5984): deepseek-r1:latest | qwen2.5:1.5b
+- [https://15.152.76.89:9240](https://15.152.76.89:9240): deepseek-r1:latest
+- [https://13.52.246.188:848](https://13.52.246.188:848): deepseek-r1:latest | llama2:latest
+- [https://15.237.108.20:4215](https://15.237.108.20:4215): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://15.152.36.79:5172](http://15.152.36.79:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.209.173.229:50000](http://43.209.173.229:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.246.223.187:9306](http://34.246.223.187:9306): deepseek-r1:latest
+- [http://52.56.167.111:3306](http://52.56.167.111:3306): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://51.34.28.236:3306](http://51.34.28.236:3306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.245.171.157:9306](http://13.245.171.157:9306): deepseek-r1:latest
+- [http://18.61.235.7:84](http://18.61.235.7:84): deepseek-r1:latest | llama2:latest
+- [http://18.142.120.165:50000](http://18.142.120.165:50000): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [https://54.218.248.251:3231](https://54.218.248.251:3231): deepseek-r1:latest | openchat:7b
+- [http://56.155.99.29:8500](http://56.155.99.29:8500): deepseek-r1:latest | llama2:latest
+- [https://13.50.4.26:4703](https://13.50.4.26:4703): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.247.222.114:5172](http://13.247.222.114:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.94.226.81:3306](http://54.94.226.81:3306): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://16.112.4.117:50000](http://16.112.4.117:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://18.171.56.82:5357](http://18.171.56.82:5357): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://47.128.233.42:5984](http://47.128.233.42:5984): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://78.14.20.147:3306](http://78.14.20.147:3306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.188.236.206:50000](http://54.188.236.206:50000): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.164.225.200:9306](http://15.164.225.200:9306): deepseek-r1:latest | qwen2.5:1.5b
+- [https://3.137.167.45:2235](https://3.137.167.45:2235): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.92.173.133:5984](http://51.92.173.133:5984): deepseek-r1:latest | openchat:7b
+- [http://54.207.37.125:8500](http://54.207.37.125:8500): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.192.121.249:3306](http://40.192.121.249:3306): deepseek-r1:latest | llama3:latest
+- [http://15.237.108.20:50000](http://15.237.108.20:50000): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://3.98.49.236:1885](http://3.98.49.236:1885): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.244.203.188:7681](http://13.244.203.188:7681): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.67.110.244:5984](http://54.67.110.244:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.219.149.143:8554](http://34.219.149.143:8554): deepseek-r1:latest | openchat:7b
+- [https://51.16.47.116:10782](https://51.16.47.116:10782): deepseek-r1:latest
+- [http://18.142.120.165:8500](http://18.142.120.165:8500): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://78.12.7.76:8500](http://78.12.7.76:8500): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://54.215.41.74:5172](http://54.215.41.74:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.206.129.120:5984](http://54.206.129.120:5984): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://15.223.237.12:5172](http://15.223.237.12:5172): deepseek-r1:latest | qwen2.5:1.5b
+- [http://52.59.51.29:50000](http://52.59.51.29:50000): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://108.136.149.62:5984](http://108.136.149.62:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.235.42.151:5984](http://13.235.42.151:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.164.225.200:8500](http://15.164.225.200:8500): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://16.62.221.46:8500](http://16.62.221.46:8500): deepseek-r1:latest | llama3:latest
+- [http://40.192.120.123:4004](http://40.192.120.123:4004): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://13.235.42.151:7500](http://13.235.42.151:7500): deepseek-r1:latest | llama2:latest
+- [http://40.177.99.164:8009](http://40.177.99.164:8009): deepseek-r1:latest | llama2:latest
+- [https://13.60.25.49:2076](https://13.60.25.49:2076): deepseek-r1:latest
+- [http://18.184.214.158:50000](http://18.184.214.158:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://52.47.115.41:3306](http://52.47.115.41:3306): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.183.46.69:50000](http://35.183.46.69:50000): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://13.53.139.178:7335](https://13.53.139.178:7335): deepseek-r1:latest
+- [http://56.155.73.215:9306](http://56.155.73.215:9306): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://44.212.61.234:5984](http://44.212.61.234:5984): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://43.198.94.82:8500](http://43.198.94.82:8500): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.183.127.162:50000](http://35.183.127.162:50000): deepseek-r1:latest
+- [http://15.237.108.20:3790](http://15.237.108.20:3790): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://51.17.62.103:5172](http://51.17.62.103:5172): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.244.148.100:9306](http://34.244.148.100:9306): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://52.59.51.29:658](http://52.59.51.29:658): deepseek-r1:latest | openchat:7b
+- [https://13.52.246.188:9448](https://13.52.246.188:9448): deepseek-r1:latest | llama2:latest
+- [http://34.211.146.130:5172](http://34.211.146.130:5172): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://98.130.11.240:3306](http://98.130.11.240:3306): deepseek-r1:latest
+- [http://52.78.193.98:5172](http://52.78.193.98:5172): deepseek-r1:latest | llama2:latest
+- [https://57.180.243.109:362](https://57.180.243.109:362): deepseek-r1:latest
+- [http://16.62.123.236:3337](http://16.62.123.236:3337): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.160.132.166:5984](http://15.160.132.166:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://18.163.33.4:2922](https://18.163.33.4:2922): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://18.191.218.228:3306](http://18.191.218.228:3306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://43.206.240.252:18789](https://43.206.240.252:18789): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://54.94.226.81:9306](http://54.94.226.81:9306): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.205.125.76:5986](http://43.205.125.76:5986): deepseek-r1:latest | openchat:7b
+- [http://15.161.131.175:8500](http://15.161.131.175:8500): deepseek-r1:latest | qwen2.5:1.5b
+- [http://13.201.19.223:8882](http://13.201.19.223:8882): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.152.43.74:5172](http://15.152.43.74:5172): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://51.16.161.107:6880](https://51.16.161.107:6880): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://43.198.22.151:8500](http://43.198.22.151:8500): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://52.212.127.157:5984](http://52.212.127.157:5984): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://34.241.123.181:591](http://34.241.123.181:591): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://16.26.154.68:4030](http://16.26.154.68:4030): deepseek-r1:latest | openchat:7b
+- [https://57.180.243.109:32412](https://57.180.243.109:32412): deepseek-r1:latest
+- [http://15.161.59.54:50000](http://15.161.59.54:50000): deepseek-r1:latest | llama3:latest
+- [http://43.198.99.209:5051](http://43.198.99.209:5051): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.206.240.252:5172](http://43.206.240.252:5172): deepseek-r1:latest
+- [http://16.26.154.68:8500](http://16.26.154.68:8500): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://35.183.71.247:8500](http://35.183.71.247:8500): deepseek-r1:latest | llama2:latest
+- [http://51.49.153.183:3306](http://51.49.153.183:3306): deepseek-r1:latest | llama2:latest
+- [http://43.209.173.229:3528](http://43.209.173.229:3528): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.198.209.12:5172](http://43.198.209.12:5172): deepseek-r1:latest | openchat:7b
+- [http://52.59.218.12:3306](http://52.59.218.12:3306): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.16.215.4:8500](http://52.16.215.4:8500): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://15.240.66.158:9306](http://15.240.66.158:9306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://15.152.76.89:10440](https://15.152.76.89:10440): deepseek-r1:latest
+- [https://34.241.123.181:6466](https://34.241.123.181:6466): deepseek-r1:latest | llama3:latest
+- [http://16.16.162.157:3306](http://16.16.162.157:3306): deepseek-r1:latest
+- [http://34.222.36.63:5172](http://34.222.36.63:5172): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://16.26.143.154:10443](http://16.26.143.154:10443): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://15.164.225.200:3306](http://15.164.225.200:3306): deepseek-r1:latest | qwen2.5:1.5b
+- [http://13.38.217.179:50000](http://13.38.217.179:50000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.48.13.125:11434](http://13.48.13.125:11434): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [https://13.40.223.158:10929](https://13.40.223.158:10929): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.34.28.236:5172](http://51.34.28.236:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.209.173.229:10000](http://43.209.173.229:10000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.99.212.54:5172](http://3.99.212.54:5172): deepseek-r1:latest | openchat:7b
+- [http://34.246.183.20:5172](http://34.246.183.20:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://54.248.31.78:29492](https://54.248.31.78:29492): deepseek-r1:latest
+- [http://16.26.154.68:50000](http://16.26.154.68:50000): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://43.207.132.28:5172](http://43.207.132.28:5172): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://3.98.49.236:9306](http://3.98.49.236:9306): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://78.13.244.74:5172](http://78.13.244.74:5172): deepseek-r1:latest
+- [http://16.16.162.157:9306](http://16.16.162.157:9306): deepseek-r1:latest
+- [http://54.252.192.125:5172](http://54.252.192.125:5172): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.152.75.215:4444](http://15.152.75.215:4444): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.207.132.28:50000](http://43.207.132.28:50000): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.59.218.12:5172](http://52.59.218.12:5172): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.125.116.13:7443](http://13.125.116.13:7443): deepseek-r1:latest | llama3:latest
+- [http://52.16.215.4:50000](http://52.16.215.4:50000): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://15.228.33.173:8500](http://15.228.33.173:8500): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.235.42.151:5172](http://13.235.42.151:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.182.12.78:13374](http://35.182.12.78:13374): deepseek-r1:latest
+- [http://63.179.134.206:12443](http://63.179.134.206:12443): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://98.130.11.240:50000](http://98.130.11.240:50000): deepseek-r1:latest
+- [http://52.59.51.29:3808](http://52.59.51.29:3808): deepseek-r1:latest | openchat:7b
+- [http://18.145.71.11:5901](http://18.145.71.11:5901): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://13.235.42.151:50000](http://13.235.42.151:50000): deepseek-r1:latest | llama2:latest
+- [http://16.62.123.236:5172](http://16.62.123.236:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.125.116.13:3306](http://13.125.116.13:3306): deepseek-r1:latest | llama3:latest
+- [http://52.56.237.157:8500](http://52.56.237.157:8500): deepseek-r1:latest
+- [http://95.40.79.184:9668](http://95.40.79.184:9668): deepseek-r1:latest
+- [https://54.248.31.78:5542](https://54.248.31.78:5542): deepseek-r1:latest
+- [https://51.17.62.103:3827](https://51.17.62.103:3827): deepseek-r1:latest
+- [http://108.136.140.236:4444](http://108.136.140.236:4444): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://34.219.149.143:5172](http://34.219.149.143:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.79.125.20:3306](http://54.79.125.20:3306): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [https://51.16.161.107:5730](https://51.16.161.107:5730): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://16.50.52.164:3625](https://16.50.52.164:3625): deepseek-r1:latest | openchat:7b
+- [http://16.171.235.42:2396](http://16.171.235.42:2396): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.198.94.82:8140](http://43.198.94.82:8140): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.228.33.173:50000](http://15.228.33.173:50000): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.198.94.82:5984](http://43.198.94.82:5984): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://63.33.46.125:50000](http://63.33.46.125:50000): deepseek-r1:latest
+- [http://51.49.145.16:7002](http://51.49.145.16:7002): deepseek-r1:latest
+- [http://51.84.110.147:5172](http://51.84.110.147:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.211.146.130:5984](http://34.211.146.130:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.160.116.45:50000](http://15.160.116.45:50000): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://3.249.133.203:5172](http://3.249.133.203:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.26.154.68:3306](http://16.26.154.68:3306): deepseek-r1:latest
+- [http://18.162.124.245:5984](http://18.162.124.245:5984): deepseek-r1:latest | llama2:latest
+- [http://13.235.42.151:11434](http://13.235.42.151:11434): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.228.33.173:3306](http://15.228.33.173:3306): deepseek-r1:latest | openchat:7b
+- [http://54.188.236.206:8500](http://54.188.236.206:8500): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://16.51.142.176:30053](https://16.51.142.176:30053): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://63.33.46.125:8500](http://63.33.46.125:8500): deepseek-r1:latest
+- [https://78.13.215.130:4058](https://78.13.215.130:4058): deepseek-r1:latest | llama3:latest
+- [http://18.130.226.217:8500](http://18.130.226.217:8500): deepseek-r1:latest
+- [https://15.160.47.245:4111](https://15.160.47.245:4111): deepseek-r1:latest | openchat:7b
+- [http://98.130.11.240:8500](http://98.130.11.240:8500): deepseek-r1:latest
+- [http://13.60.163.108:9306](http://13.60.163.108:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.59.51.29:11008](http://52.59.51.29:11008): deepseek-r1:latest | openchat:7b
+- [http://18.101.105.157:27999](http://18.101.105.157:27999): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://15.228.33.173:9306](http://15.228.33.173:9306): deepseek-r1:latest | openchat:7b
+- [http://34.220.22.3:8500](http://34.220.22.3:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://108.131.109.106:5172](http://108.131.109.106:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.228.31.199:16992](http://18.228.31.199:16992): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.145.71.11:5172](http://18.145.71.11:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://35.182.12.78:1274](https://35.182.12.78:1274): deepseek-r1:latest
+- [http://13.48.13.125:5984](http://13.48.13.125:5984): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://44.246.248.57:4439](http://44.246.248.57:4439): deepseek-r1:latest
+- [http://54.67.97.49:34512](http://54.67.97.49:34512): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.56.237.157:50000](http://52.56.237.157:50000): deepseek-r1:latest
+- [http://15.161.59.54:8667](http://15.161.59.54:8667): deepseek-r1:latest
+- [http://54.198.94.206:5172](http://54.198.94.206:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.162.105.116:2087](http://16.162.105.116:2087): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.245.171.157:8500](http://13.245.171.157:8500): deepseek-r1:latest | openchat:7b
+- [http://13.235.42.151:8500](http://13.235.42.151:8500): deepseek-r1:latest | llama2:latest
+- [https://13.48.86.235:10542](https://13.48.86.235:10542): deepseek-r1:latest
+- [http://16.50.52.164:9306](http://16.50.52.164:9306): deepseek-r1:latest | llama2:latest | openchat:7b
+- [https://3.110.68.130:39](https://3.110.68.130:39): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://35.152.219.7:8500](http://35.152.219.7:8500): deepseek-r1:latest | qwen2.5:1.5b
+- [http://3.110.54.246:5984](http://3.110.54.246:5984): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://98.130.11.240:9306](http://98.130.11.240:9306): deepseek-r1:latest
+- [http://16.62.221.46:50000](http://16.62.221.46:50000): deepseek-r1:latest | llama3:latest
+- [http://18.142.120.165:995](http://18.142.120.165:995): deepseek-r1:latest | llama3:latest
+- [http://16.112.4.117:8500](http://16.112.4.117:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://63.181.83.210:5172](http://63.181.83.210:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.50.52.164:5984](http://16.50.52.164:5984): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [https://47.128.64.22:2046](https://47.128.64.22:2046): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://16.112.4.117:5172](http://16.112.4.117:5172): deepseek-r1:latest | openchat:7b
+- [http://51.49.153.183:5984](http://51.49.153.183:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.25.189.39:3306](http://3.25.189.39:3306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.162.200.96:5984](http://18.162.200.96:5984): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.231.214.27:3306](http://18.231.214.27:3306): deepseek-r1:latest | qwen2.5:1.5b
+- [http://56.155.73.215:3306](http://56.155.73.215:3306): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.71.26.7:9306](http://3.71.26.7:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://98.130.11.240:5984](http://98.130.11.240:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.192.121.249:9306](http://40.192.121.249:9306): deepseek-r1:latest | llama3:latest
+- [http://16.51.148.102:10443](http://16.51.148.102:10443): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.242.234:9306](http://43.205.242.234:9306): deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
+- [http://15.160.116.45:5984](http://15.160.116.45:5984): deepseek-r1:latest
+- [http://54.206.129.120:5172](http://54.206.129.120:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.176.136.1:50000](http://40.176.136.1:50000): deepseek-r1:latest | llama3:latest
+- [http://15.164.225.200:50000](http://15.164.225.200:50000): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://16.51.62.173:8500](http://16.51.62.173:8500): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://51.44.97.6:5172](http://51.44.97.6:5172): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://18.201.82.20:5984](http://18.201.82.20:5984): deepseek-r1:latest | openchat:7b
+- [http://16.26.143.154:8500](http://16.26.143.154:8500): deepseek-r1:latest | openchat:7b
+- [http://16.51.62.173:50000](http://16.51.62.173:50000): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.206.240.252:50000](http://43.206.240.252:50000): deepseek-r1:latest | qwen2.5:1.5b
+- [http://43.200.255.63:5984](http://43.200.255.63:5984): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://108.131.109.106:8500](http://108.131.109.106:8500): deepseek-r1:latest | llama3:latest
+- [https://15.152.92.67:1896](https://15.152.92.67:1896): deepseek-r1:latest | llama3:latest
+- [http://43.209.173.229:8500](http://43.209.173.229:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://54.180.117.151:10250](http://54.180.117.151:10250): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.188.191.57:15000](http://18.188.191.57:15000): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [https://15.152.76.89:1940](https://15.152.76.89:1940): deepseek-r1:latest
+- [http://3.99.158.157:8500](http://3.99.158.157:8500): deepseek-r1:latest | qwen2.5:1.5b
+- [http://43.218.124.29:5172](http://43.218.124.29:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://51.17.62.103:3927](https://51.17.62.103:3927): deepseek-r1:latest
+- [http://18.231.214.27:1625](http://18.231.214.27:1625): deepseek-r1:latest | qwen2.5:1.5b
+- [http://43.207.132.28:5984](http://43.207.132.28:5984): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://52.78.193.98:9306](http://52.78.193.98:9306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.215.41.74:8500](http://54.215.41.74:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://54.218.248.251:50000](http://54.218.248.251:50000): deepseek-r1:latest
+- [http://13.38.217.179:8500](http://13.38.217.179:8500): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.71.26.7:3306](http://3.71.26.7:3306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://35.183.46.69:5984](http://35.183.46.69:5984): deepseek-r1:latest
+- [http://51.34.28.236:9306](http://51.34.28.236:9306): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://52.59.218.12:9306](http://52.59.218.12:9306): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://34.221.24.128:3964](https://34.221.24.128:3964): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://13.42.46.155:1823](https://13.42.46.155:1823): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://78.14.20.147:9306](http://78.14.20.147:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.184.44.37:5938](http://16.184.44.37:5938): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://44.246.248.57:18789](http://44.246.248.57:18789): deepseek-r1:latest
+- [http://18.142.120.165:5172](http://18.142.120.165:5172): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://43.198.22.151:50000](http://43.198.22.151:50000): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://15.160.132.166:3306](http://15.160.132.166:3306): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.176.136.1:8500](http://40.176.136.1:8500): deepseek-r1:latest | llama3:latest
+- [http://13.208.238.59:3306](http://13.208.238.59:3306): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.188.53.175:3306](http://18.188.53.175:3306): deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://13.235.42.151:8085](http://13.235.42.151:8085): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.235.42.151:55443](http://13.235.42.151:55443): deepseek-r1:latest | llama3:latest | openchat:7b
+- [http://13.51.196.44:5984](http://13.51.196.44:5984): deepseek-r1:latest | qwen2.5:1.5b
+- [http://15.160.116.45:5172](http://15.160.116.45:5172): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.122.115.244:9306](http://3.122.115.244:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
+- [http://43.210.48.132:5984](http://43.210.48.132:5984): deepseek-r1:latest | openchat:7b
+- [http://3.98.49.236:5984](http://3.98.49.236:5984): deepseek-r1:latest
+- [http://54.79.125.20:9306](http://54.79.125.20:9306): deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
 - [http://51.83.58.9:49152](http://51.83.58.9:49152): valdocco-labs/becchi-1:latest
-- [http://217.92.78.156:8080](http://217.92.78.156:8080): deepseek-r1:1.5b
 - [http://194.182.64.76:11434](http://194.182.64.76:11434): qwen2.5:7b
 - [https://56.68.19.62](https://56.68.19.62): gemma3:4b
-- [http://85.190.242.27:11434](http://85.190.242.27:11434): llama3.2:3b-instruct-q4_K_M | ministral-3:3b | qwen3.5:2b
-- [http://15.152.116.221:5901](http://15.152.116.221:5901): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://18.220.171.126:48899](https://18.220.171.126:48899): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.208.238.59:3306](http://13.208.238.59:3306): openchat:7b
-- [http://108.136.140.236:9306](http://108.136.140.236:9306): llama2:latest | openchat:7b
-- [https://18.222.132.180:54790](https://18.222.132.180:54790): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.142.120.165:50000](http://18.142.120.165:50000): llama3:latest | openchat:7b
-- [http://16.16.162.157:5984](http://16.16.162.157:5984): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.162.105.116:7071](http://16.162.105.116:7071): openchat:7b
-- [http://18.231.214.27:3306](http://18.231.214.27:3306): openchat:7b
-- [http://15.228.33.173:9306](http://15.228.33.173:9306): openchat:7b
-- [https://54.253.183.151:1884](https://54.253.183.151:1884): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://98.130.11.240:5223](http://98.130.11.240:5223): llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.160.132.166:8500](http://15.160.132.166:8500): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.160.116.45:3306](http://15.160.116.45:3306): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.94.226.81:3306](http://54.94.226.81:3306): openchat:7b
-- [http://34.241.123.181:5172](http://34.241.123.181:5172): openchat:7b
-- [http://13.212.76.134:16993](http://13.212.76.134:16993): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://16.51.62.173:4434](http://16.51.62.173:4434): openchat:7b | qwen2.5:1.5b
-- [https://3.25.198.198:883](https://3.25.198.198:883): llama2:latest | openchat:7b
-- [http://40.192.120.123:4004](http://40.192.120.123:4004): llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://3.25.198.198:48048](https://3.25.198.198:48048): openchat:7b
-- [http://16.51.62.173:5984](http://16.51.62.173:5984): openchat:7b | qwen2.5:1.5b
-- [http://43.210.54.68:3306](http://43.210.54.68:3306): llama3:latest | openchat:7b
-- [http://3.71.26.7:5984](http://3.71.26.7:5984): openchat:7b
-- [http://18.60.247.31:50000](http://18.60.247.31:50000): openchat:7b | qwen2.5:1.5b
-- [http://13.212.76.134:43439](http://13.212.76.134:43439): llama2:latest | openchat:7b
-- [https://18.163.33.4:2922](https://18.163.33.4:2922): openchat:7b | qwen2.5:1.5b
-- [http://15.164.225.200:8500](http://15.164.225.200:8500): llama3:latest | openchat:7b
-- [http://54.94.226.81:9306](http://54.94.226.81:9306): openchat:7b
-- [http://52.47.80.81:5172](http://52.47.80.81:5172): llama3:latest | openchat:7b
-- [http://16.112.189.175:5984](http://16.112.189.175:5984): llama2:latest | llama3:latest | openchat:7b
-- [https://18.101.105.157:1532](https://18.101.105.157:1532): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.231.214.27:9306](http://18.231.214.27:9306): openchat:7b
-- [http://16.112.109.125:3306](http://16.112.109.125:3306): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://52.16.215.4:9306](http://52.16.215.4:9306): openchat:7b
-- [http://43.200.255.63:4505](http://43.200.255.63:4505): llama2:latest | openchat:7b
-- [http://54.198.22.111:8500](http://54.198.22.111:8500): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.238.33.242:5984](http://54.238.33.242:5984): openchat:7b | qwen2.5:1.5b
-- [http://78.12.7.76:9306](http://78.12.7.76:9306): llama2:latest | llama3:latest | openchat:7b
-- [http://78.14.20.147:8500](http://78.14.20.147:8500): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://3.25.198.198:2798](https://3.25.198.198:2798): openchat:7b
-- [http://16.162.105.116:3306](http://16.162.105.116:3306): llama2:latest | llama3:latest | openchat:7b
-- [http://16.162.105.116:5006](http://16.162.105.116:5006): llama2:latest | llama3:latest | openchat:7b
-- [http://35.153.68.100:5172](http://35.153.68.100:5172): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.170.25.193:8500](http://18.170.25.193:8500): llama3:latest | openchat:7b
-- [https://54.79.125.20:43752](https://54.79.125.20:43752): openchat:7b
-- [http://43.208.243.207:8500](http://43.208.243.207:8500): openchat:7b
-- [http://15.216.59.200:5172](http://15.216.59.200:5172): openchat:7b
-- [http://15.160.132.166:5172](http://15.160.132.166:5172): llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.183.113.183:5172](http://35.183.113.183:5172): llama2:latest | openchat:7b
-- [http://56.155.73.215:3306](http://56.155.73.215:3306): openchat:7b
-- [http://15.161.59.54:5443](http://15.161.59.54:5443): openchat:7b
-- [https://13.208.166.217:6690](https://13.208.166.217:6690): openchat:7b | qwen2.5:1.5b
-- [http://54.253.183.151:50000](http://54.253.183.151:50000): openchat:7b
-- [http://54.79.125.20:5984](http://54.79.125.20:5984): llama2:latest | openchat:7b
-- [http://15.228.33.173:3306](http://15.228.33.173:3306): openchat:7b
-- [http://15.160.132.166:50000](http://15.160.132.166:50000): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.170.25.193:50000](http://18.170.25.193:50000): llama3:latest | openchat:7b
-- [http://54.198.22.111:50000](http://54.198.22.111:50000): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://3.25.198.198:10633](https://3.25.198.198:10633): llama2:latest | openchat:7b
-- [https://18.170.3.27:129](https://18.170.3.27:129): openchat:7b
-- [http://54.233.23.106:9091](http://54.233.23.106:9091): openchat:7b | qwen2.5:1.5b
-- [http://54.233.23.106:9306](http://54.233.23.106:9306): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.142.120.165:8500](http://18.142.120.165:8500): llama3:latest | openchat:7b
-- [http://43.218.124.29:5984](http://43.218.124.29:5984): llama3:latest | openchat:7b
+- [http://18.168.221.121:3306](http://18.168.221.121:3306): openchat:7b
+- [https://18.170.25.193:9457](https://18.170.25.193:9457): openchat:7b | qwen2.5:1.5b
+- [http://16.51.148.102:5984](http://16.51.148.102:5984): llama2:latest | openchat:7b
+- [http://18.231.214.27:5678](http://18.231.214.27:5678): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.17.62.103:50000](http://51.17.62.103:50000): llama2:latest | llama3:latest | openchat:7b
 - [http://18.61.3.91:7434](http://18.61.3.91:7434): openchat:7b
-- [http://34.219.149.143:8554](http://34.219.149.143:8554): openchat:7b
-- [http://43.198.22.151:8500](http://43.198.22.151:8500): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.101.105.157:50000](http://18.101.105.157:50000): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [https://54.248.31.78:4373](https://54.248.31.78:4373): llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.60.163.108:20880](http://13.60.163.108:20880): openchat:7b
-- [https://3.128.29.230:532](https://3.128.29.230:532): openchat:7b | qwen2.5:1.5b
-- [http://15.161.59.54:8843](http://15.161.59.54:8843): openchat:7b
-- [http://51.96.22.215:3306](http://51.96.22.215:3306): openchat:7b | qwen2.5:1.5b
-- [http://15.164.225.200:50000](http://15.164.225.200:50000): llama3:latest | openchat:7b
-- [https://15.160.172.51:3831](https://15.160.172.51:3831): llama2:latest | openchat:7b
-- [https://15.237.108.20:5747](https://15.237.108.20:5747): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://18.60.247.31:10000](https://18.60.247.31:10000): openchat:7b | qwen2.5:1.5b
-- [http://43.209.173.229:5667](http://43.209.173.229:5667): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://43.198.99.209:2380](https://43.198.99.209:2380): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.208.243.207:50000](http://43.208.243.207:50000): openchat:7b
-- [http://43.208.243.207:10554](http://43.208.243.207:10554): llama3:latest | openchat:7b
-- [https://3.71.26.7:9323](https://3.71.26.7:9323): llama3:latest | openchat:7b
-- [http://16.62.229.137:9306](http://16.62.229.137:9306): llama2:latest | llama3:latest | openchat:7b
-- [http://15.228.167.227:8500](http://15.228.167.227:8500): llama2:latest | llama3:latest | openchat:7b
-- [http://78.12.7.76:3306](http://78.12.7.76:3306): llama2:latest | llama3:latest | openchat:7b
-- [http://78.12.230.173:50000](http://78.12.230.173:50000): llama2:latest | openchat:7b
-- [http://13.60.163.108:9898](http://13.60.163.108:9898): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.44.172.23:10005](http://51.44.172.23:10005): llama2:latest | openchat:7b
-- [http://13.51.196.44:5172](http://13.51.196.44:5172): llama3:latest | openchat:7b
-- [http://43.210.117.149:9997](http://43.210.117.149:9997): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.235.42.151:808](http://13.235.42.151:808): llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://3.128.29.230:2882](https://3.128.29.230:2882): openchat:7b | qwen2.5:1.5b
-- [https://13.208.166.217:2440](https://13.208.166.217:2440): openchat:7b | qwen2.5:1.5b
-- [http://18.60.247.31:8500](http://18.60.247.31:8500): openchat:7b | qwen2.5:1.5b
-- [http://15.164.225.200:3306](http://15.164.225.200:3306): openchat:7b
-- [http://54.253.183.151:5984](http://54.253.183.151:5984): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.79.125.20:9306](http://54.79.125.20:9306): llama3:latest | openchat:7b
-- [http://13.245.171.157:9306](http://13.245.171.157:9306): llama2:latest | openchat:7b
-- [http://54.79.125.20:3306](http://54.79.125.20:3306): llama3:latest | openchat:7b
-- [http://43.206.240.252:5172](http://43.206.240.252:5172): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://18.60.247.31:1800](https://18.60.247.31:1800): openchat:7b | qwen2.5:1.5b
-- [http://43.198.22.151:50000](http://43.198.22.151:50000): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://13.235.42.151:5986](http://13.235.42.151:5986): openchat:7b
-- [http://78.14.20.147:50000](http://78.14.20.147:50000): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.160.116.45:5172](http://15.160.116.45:5172): openchat:7b
-- [http://54.184.56.225:5172](http://54.184.56.225:5172): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://99.79.58.74:5984](http://99.79.58.74:5984): llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://54.253.183.151:5172](http://54.253.183.151:5172): openchat:7b
-- [http://56.155.73.215:9306](http://56.155.73.215:9306): openchat:7b
-- [http://52.16.215.4:3306](http://52.16.215.4:3306): openchat:7b
-- [http://43.210.54.68:5984](http://43.210.54.68:5984): llama3:latest | openchat:7b
-- [http://54.253.84.193:4443](http://54.253.84.193:4443): llama2:latest | openchat:7b
-- [http://16.162.105.116:9306](http://16.162.105.116:9306): llama2:latest | llama3:latest | openchat:7b
+- [http://13.246.45.164:5984](http://13.246.45.164:5984): openchat:7b
+- [http://18.163.74.215:5357](http://18.163.74.215:5357): openchat:7b
+- [http://16.62.123.236:50000](http://16.62.123.236:50000): openchat:7b
+- [http://78.14.20.147:8500](http://78.14.20.147:8500): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://51.17.62.103:1424](https://51.17.62.103:1424): openchat:7b
+- [http://43.198.94.82:9306](http://43.198.94.82:9306): llama2:latest | openchat:7b | qwen2.5:1.5b
 - [http://34.244.155.145:2087](http://34.244.155.145:2087): llama2:latest | llama3:latest | openchat:7b
-- [http://51.49.153.183:9443](http://51.49.153.183:9443): openchat:7b
-- [http://15.164.225.200:9306](http://15.164.225.200:9306): openchat:7b
-- [https://43.205.124.6:7061](https://43.205.124.6:7061): llama3:latest | openchat:7b | qwen2.5:1.5b
-- [https://13.208.166.217:1940](https://13.208.166.217:1940): openchat:7b | qwen2.5:1.5b
-- [http://52.16.215.4:5984](http://52.16.215.4:5984): llama3:latest | openchat:7b
-- [http://52.56.167.111:5986](http://52.56.167.111:5986): llama2:latest | llama3:latest | openchat:7b
-- [http://54.215.64.137:5984](http://54.215.64.137:5984): llama2:latest | openchat:7b
-- [https://44.212.61.234:6714](https://44.212.61.234:6714): llama3:latest | openchat:7b
-- [http://13.235.42.151:5172](http://13.235.42.151:5172): llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.210.54.68:9306](http://43.210.54.68:9306): llama3:latest | openchat:7b
-- [http://56.155.4.200:50000](http://56.155.4.200:50000): llama2:latest | openchat:7b
-- [https://54.218.248.251:609](https://54.218.248.251:609): llama3:latest | openchat:7b
-- [http://15.160.116.45:9306](http://15.160.116.45:9306): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.223.237.12:8500](http://15.223.237.12:8500): openchat:7b
+- [http://3.99.212.54:5984](http://3.99.212.54:5984): openchat:7b
+- [http://15.161.131.175:3306](http://15.161.131.175:3306): llama3:latest | openchat:7b
+- [https://18.101.105.157:1532](https://18.101.105.157:1532): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
 - [http://16.112.109.125:9306](http://16.112.109.125:9306): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://3.128.29.230:2882](https://3.128.29.230:2882): openchat:7b | qwen2.5:1.5b
+- [http://18.220.171.126:9306](http://18.220.171.126:9306): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [https://3.110.54.246:2229](https://3.110.54.246:2229): openchat:7b
+- [http://43.205.113.210:8500](http://43.205.113.210:8500): llama3:latest | openchat:7b
+- [http://43.203.140.58:3527](http://43.203.140.58:3527): openchat:7b
+- [http://43.200.255.63:4505](http://43.200.255.63:4505): llama2:latest | openchat:7b
+- [http://43.206.240.252:10534](http://43.206.240.252:10534): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.62.123.236:9306](http://16.62.123.236:9306): llama3:latest | openchat:7b
+- [http://13.38.217.179:5172](http://13.38.217.179:5172): openchat:7b
+- [http://52.16.215.4:9306](http://52.16.215.4:9306): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.212.76.134:43439](http://13.212.76.134:43439): llama2:latest | openchat:7b
+- [http://35.183.113.183:5172](http://35.183.113.183:5172): llama2:latest | openchat:7b
+- [http://13.38.217.179:9997](http://13.38.217.179:9997): llama3:latest | openchat:7b
+- [http://51.92.173.133:7000](http://51.92.173.133:7000): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.113.210:50000](http://43.205.113.210:50000): llama3:latest | openchat:7b
+- [http://34.204.36.88:4050](http://34.204.36.88:4050): openchat:7b | qwen2.5:1.5b
+- [http://16.51.62.173:5984](http://16.51.62.173:5984): llama2:latest | llama3:latest | openchat:7b
+- [http://13.60.181.61:9306](http://13.60.181.61:9306): llama2:latest | openchat:7b
+- [http://52.59.51.29:8443](http://52.59.51.29:8443): openchat:7b | qwen2.5:1.5b
+- [http://13.51.196.44:20880](http://13.51.196.44:20880): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.152.116.221:5901](http://15.152.116.221:5901): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.209.173.229:5172](http://43.209.173.229:5172): llama3:latest | openchat:7b
+- [http://15.160.22.3:9306](http://15.160.22.3:9306): openchat:7b | qwen2.5:1.5b
+- [http://16.26.99.200:9306](http://16.26.99.200:9306): llama2:latest | llama3:latest | openchat:7b
+- [http://52.47.80.81:5172](http://52.47.80.81:5172): llama3:latest | openchat:7b
+- [http://78.12.7.76:3306](http://78.12.7.76:3306): llama2:latest | llama3:latest | openchat:7b
+- [http://18.60.247.31:50000](http://18.60.247.31:50000): openchat:7b | qwen2.5:1.5b
+- [http://15.228.167.227:8500](http://15.228.167.227:8500): llama2:latest | llama3:latest | openchat:7b
+- [http://34.204.36.88:50000](http://34.204.36.88:50000): openchat:7b | qwen2.5:1.5b
+- [http://43.198.99.209:8500](http://43.198.99.209:8500): openchat:7b
+- [http://43.198.99.209:50000](http://43.198.99.209:50000): openchat:7b
+- [https://18.170.3.27:129](https://18.170.3.27:129): openchat:7b
+- [http://52.78.193.98:2715](http://52.78.193.98:2715): openchat:7b | qwen2.5:1.5b
+- [http://43.199.29.225:9306](http://43.199.29.225:9306): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.246.6.135:50000](http://13.246.6.135:50000): openchat:7b | qwen2.5:1.5b
+- [http://15.216.59.200:5172](http://15.216.59.200:5172): openchat:7b
+- [http://65.2.5.16:31337](http://65.2.5.16:31337): llama3:latest | openchat:7b
+- [http://43.198.94.82:3306](http://43.198.94.82:3306): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.59.51.29:9095](http://52.59.51.29:9095): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.198.22.151:5172](http://43.198.22.151:5172): llama2:latest | llama3:latest | openchat:7b
+- [http://16.28.87.123:10443](http://16.28.87.123:10443): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.160.132.166:8500](http://15.160.132.166:8500): openchat:7b | qwen2.5:1.5b
+- [https://16.51.148.102:4175](https://16.51.148.102:4175): openchat:7b
+- [http://18.101.105.157:50000](http://18.101.105.157:50000): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://99.79.58.74:50000](http://99.79.58.74:50000): openchat:7b | qwen2.5:1.5b
+- [http://51.118.97.134:8069](http://51.118.97.134:8069): openchat:7b
+- [http://40.192.120.123:9306](http://40.192.120.123:9306): llama2:latest | llama3:latest | openchat:7b
+- [https://18.60.247.31:10000](https://18.60.247.31:10000): openchat:7b | qwen2.5:1.5b
+- [https://18.231.214.27:2728](https://18.231.214.27:2728): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://18.220.171.126:48899](https://18.220.171.126:48899): llama2:latest | llama3:latest | openchat:7b
+- [http://65.2.5.16:5984](http://65.2.5.16:5984): llama2:latest | openchat:7b
+- [https://51.17.62.103:2924](https://51.17.62.103:2924): openchat:7b
+- [http://15.229.231.89:5984](http://15.229.231.89:5984): openchat:7b
+- [http://16.62.229.137:9306](http://16.62.229.137:9306): llama2:latest | llama3:latest | openchat:7b
+- [http://43.206.240.252:5634](http://43.206.240.252:5634): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.206.240.252:5984](http://43.206.240.252:5984): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://63.181.83.210:5984](http://63.181.83.210:5984): openchat:7b | qwen2.5:1.5b
+- [http://16.16.162.157:5984](http://16.16.162.157:5984): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://40.192.120.123:3306](http://40.192.120.123:3306): llama2:latest | llama3:latest | openchat:7b
 - [http://18.61.3.91:5984](http://18.61.3.91:5984): openchat:7b
-- [http://54.95.102.143:3306](http://54.95.102.143:3306): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.124.6:4434](http://43.205.124.6:4434): llama2:latest | openchat:7b
+- [http://43.209.251.7:3306](http://43.209.251.7:3306): openchat:7b
+- [http://108.136.140.236:10443](http://108.136.140.236:10443): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.203.209.76:8882](http://13.203.209.76:8882): openchat:7b
+- [http://18.60.247.31:8500](http://18.60.247.31:8500): openchat:7b | qwen2.5:1.5b
+- [http://43.210.54.68:5984](http://43.210.54.68:5984): llama3:latest | openchat:7b
+- [http://43.205.242.234:50000](http://43.205.242.234:50000): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://56.155.4.200:50000](http://56.155.4.200:50000): llama2:latest | openchat:7b
+- [http://78.13.215.130:5172](http://78.13.215.130:5172): llama2:latest | llama3:latest | openchat:7b
+- [http://54.198.22.111:8500](http://54.198.22.111:8500): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.199.29.225:3306](http://43.199.29.225:3306): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.26.143.154:9306](http://16.26.143.154:9306): openchat:7b | qwen2.5:1.5b
+- [http://18.220.171.126:3306](http://18.220.171.126:3306): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.16.215.4:3306](http://52.16.215.4:3306): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.206.240.252:43434](http://43.206.240.252:43434): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://52.56.167.111:2375](https://52.56.167.111:2375): llama3:latest | openchat:7b
+- [http://78.14.41.82:5172](http://78.14.41.82:5172): llama3:latest | openchat:7b
+- [http://16.62.123.236:8500](http://16.62.123.236:8500): openchat:7b
+- [http://34.204.36.88:8500](http://34.204.36.88:8500): openchat:7b | qwen2.5:1.5b
+- [http://15.223.237.12:50000](http://15.223.237.12:50000): openchat:7b
+- [http://13.246.45.164:7101](http://13.246.45.164:7101): openchat:7b
+- [http://16.51.148.102:5172](http://16.51.148.102:5172): openchat:7b | qwen2.5:1.5b
+- [http://54.94.226.81:8500](http://54.94.226.81:8500): openchat:7b
+- [http://15.160.132.166:50000](http://15.160.132.166:50000): openchat:7b | qwen2.5:1.5b
+- [http://108.131.109.106:9306](http://108.131.109.106:9306): openchat:7b
+- [http://15.161.59.54:5443](http://15.161.59.54:5443): llama3:latest | openchat:7b
+- [http://16.112.109.125:3306](http://16.112.109.125:3306): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.160.22.3:3306](http://15.160.22.3:3306): openchat:7b | qwen2.5:1.5b
+- [http://16.62.123.236:3306](http://16.62.123.236:3306): llama3:latest | openchat:7b
+- [http://13.246.6.135:8500](http://13.246.6.135:8500): openchat:7b | qwen2.5:1.5b
+- [http://13.212.76.134:16993](http://13.212.76.134:16993): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.142.120.165:10005](http://18.142.120.165:10005): openchat:7b
+- [https://18.60.247.31:1800](https://18.60.247.31:1800): openchat:7b | qwen2.5:1.5b
+- [http://78.14.20.147:50000](http://78.14.20.147:50000): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://52.16.215.4:5984](http://52.16.215.4:5984): llama2:latest | llama3:latest | openchat:7b
+- [http://54.238.33.242:5984](http://54.238.33.242:5984): openchat:7b | qwen2.5:1.5b
+- [https://54.248.31.78:4373](https://54.248.31.78:4373): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.17.62.103:8500](http://51.17.62.103:8500): llama2:latest | llama3:latest | openchat:7b
+- [http://54.46.70.240:5172](http://54.46.70.240:5172): openchat:7b
+- [http://13.51.196.44:5172](http://13.51.196.44:5172): openchat:7b
+- [http://34.241.123.181:5172](http://34.241.123.181:5172): openchat:7b
+- [http://78.13.215.130:2381](http://78.13.215.130:2381): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://34.219.149.143:50000](http://34.219.149.143:50000): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.183.127.162:9306](http://35.183.127.162:9306): llama3:latest | openchat:7b
+- [http://3.71.26.7:8500](http://3.71.26.7:8500): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://99.79.58.74:8500](http://99.79.58.74:8500): openchat:7b | qwen2.5:1.5b
+- [http://54.160.130.48:5984](http://54.160.130.48:5984): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.231.214.27:5984](http://18.231.214.27:5984): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.161.59.54:8843](http://15.161.59.54:8843): llama3:latest | openchat:7b
+- [http://43.210.54.68:3306](http://43.210.54.68:3306): llama3:latest | openchat:7b
+- [http://52.59.218.12:5598](http://52.59.218.12:5598): openchat:7b
+- [http://13.50.4.26:5984](http://13.50.4.26:5984): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.210.54.68:9306](http://43.210.54.68:9306): llama3:latest | openchat:7b
+- [http://43.210.117.149:9997](http://43.210.117.149:9997): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.48.48.12:4505](http://51.48.48.12:4505): openchat:7b
+- [https://3.128.29.230:532](https://3.128.29.230:532): openchat:7b | qwen2.5:1.5b
+- [http://43.206.240.252:4434](http://43.206.240.252:4434): llama3:latest | openchat:7b | qwen2.5:1.5b
+- [https://54.218.248.251:609](https://54.218.248.251:609): llama3:latest | openchat:7b
+- [http://3.71.26.7:50000](http://3.71.26.7:50000): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.60.181.61:3306](http://13.60.181.61:3306): llama2:latest | openchat:7b
+- [http://54.198.22.111:50000](http://54.198.22.111:50000): llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.44.172.23:5984](http://51.44.172.23:5984): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://16.51.62.173:4434](http://16.51.62.173:4434): llama2:latest | llama3:latest | openchat:7b
+- [http://35.153.68.100:5172](http://35.153.68.100:5172): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.205.242.234:8500](http://43.205.242.234:8500): llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://78.12.7.76:9306](http://78.12.7.76:9306): llama2:latest | llama3:latest | openchat:7b
+- [http://85.190.242.27:11434](http://85.190.242.27:11434): llama3.2:3b-instruct-q4_K_M | qwen3.5:2b | tinyllama:1.1b-chat-v1-q4_K_M
 - [http://ocrollama.my.id:8080](http://ocrollama.my.id:8080): glm-ocr:latest
-- [https://ocrollama.my.id:8443](https://ocrollama.my.id:8443): glm-ocr:latest
-- [http://ocrollama.my.id](http://ocrollama.my.id): glm-ocr:latest
 - [https://ocrollama.my.id](https://ocrollama.my.id): glm-ocr:latest
+- [http://ocrollama.my.id](http://ocrollama.my.id): glm-ocr:latest
+- [https://ocrollama.my.id:8443](https://ocrollama.my.id:8443): glm-ocr:latest
 - [http://43.163.208.132:11434](http://43.163.208.132:11434): llama3.2:3b | smollm2:135m
-- [http://54.180.117.151:10250](http://54.180.117.151:10250): llama2:latest
-- [https://78.13.59.94:8008](https://78.13.59.94:8008): llama2:latest
-- [https://16.171.235.42:3430](https://16.171.235.42:3430): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://51.16.47.116:8500](http://51.16.47.116:8500): llama2:latest | qwen2.5:1.5b
-- [http://13.48.13.125:2082](http://13.48.13.125:2082): llama2:latest | llama3:latest
-- [http://63.33.46.125:34599](http://63.33.46.125:34599): llama2:latest
-- [http://16.62.229.137:6443](http://16.62.229.137:6443): llama2:latest | llama3:latest
-- [http://15.156.91.232:4036](http://15.156.91.232:4036): llama2:latest | qwen2.5:1.5b
-- [http://34.234.100.23:17988](http://34.234.100.23:17988): llama2:latest
-- [http://13.48.13.125:5172](http://13.48.13.125:5172): llama2:latest | llama3:latest
-- [http://3.16.135.104:3306](http://3.16.135.104:3306): llama2:latest
-- [http://54.180.117.151:8500](http://54.180.117.151:8500): llama2:latest
-- [http://13.214.135.136:2729](http://13.214.135.136:2729): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.101.230.134:9229](http://18.101.230.134:9229): llama2:latest
-- [http://13.51.196.44:8834](http://13.51.196.44:8834): llama2:latest
-- [http://52.59.218.12:3306](http://52.59.218.12:3306): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://65.1.95.163:6362](https://65.1.95.163:6362): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://15.152.92.67:1359](https://15.152.92.67:1359): llama2:latest | qwen2.5:1.5b
-- [http://95.40.79.184:9668](http://95.40.79.184:9668): llama2:latest
-- [http://16.171.235.42:3306](http://16.171.235.42:3306): llama2:latest
-- [http://18.142.120.165:9306](http://18.142.120.165:9306): llama2:latest
-- [http://18.162.200.96:5172](http://18.162.200.96:5172): llama2:latest
-- [http://43.208.134.144:5984](http://43.208.134.144:5984): llama2:latest
-- [http://40.177.8.154:9306](http://40.177.8.154:9306): llama2:latest
-- [http://13.60.163.108:9306](http://13.60.163.108:9306): llama2:latest | qwen2.5:1.5b
-- [http://47.128.155.71:50000](http://47.128.155.71:50000): llama2:latest
-- [https://16.171.57.95:7544](https://16.171.57.95:7544): llama2:latest | qwen2.5:1.5b
-- [http://51.49.153.183:8500](http://51.49.153.183:8500): llama2:latest
-- [https://15.164.225.200:10797](https://15.164.225.200:10797): llama2:latest
-- [http://13.51.196.44:5984](http://13.51.196.44:5984): llama2:latest
-- [http://3.71.26.7:9306](http://3.71.26.7:9306): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://47.128.233.42:10965](https://47.128.233.42:10965): llama2:latest | llama3:latest
-- [http://15.160.47.245:8095](http://15.160.47.245:8095): llama2:latest
-- [http://54.180.117.151:50000](http://54.180.117.151:50000): llama2:latest
-- [http://40.177.89.65:9306](http://40.177.89.65:9306): llama2:latest
-- [http://51.84.232.22:5984](http://51.84.232.22:5984): llama2:latest
-- [http://54.218.248.251:9306](http://54.218.248.251:9306): llama2:latest
-- [http://52.67.249.120:2206](http://52.67.249.120:2206): llama2:latest | qwen2.5:1.5b
-- [https://18.101.105.157:9953](https://18.101.105.157:9953): llama2:latest | llama3:latest
-- [http://16.171.235.42:5172](http://16.171.235.42:5172): llama2:latest
-- [http://15.228.33.173:50000](http://15.228.33.173:50000): llama2:latest | llama3:latest
-- [https://16.171.57.95:2944](https://16.171.57.95:2944): llama2:latest | qwen2.5:1.5b
-- [http://47.128.155.71:8500](http://47.128.155.71:8500): llama2:latest
-- [http://18.184.4.189:9306](http://18.184.4.189:9306): llama2:latest
-- [http://15.228.33.173:8500](http://15.228.33.173:8500): llama2:latest | llama3:latest
-- [https://47.128.233.42:3865](https://47.128.233.42:3865): llama2:latest | llama3:latest
-- [http://15.152.92.67:5938](http://15.152.92.67:5938): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [https://15.152.92.67:2159](https://15.152.92.67:2159): llama2:latest | qwen2.5:1.5b
-- [http://51.17.5.220:9306](http://51.17.5.220:9306): llama2:latest
-- [http://78.14.45.16:8500](http://78.14.45.16:8500): llama2:latest
-- [http://35.183.46.69:3755](http://35.183.46.69:3755): llama2:latest | llama3:latest
-- [http://108.131.109.106:9306](http://108.131.109.106:9306): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://43.205.125.76:50000](http://43.205.125.76:50000): llama2:latest
-- [https://18.101.105.157:9903](https://18.101.105.157:9903): llama2:latest | llama3:latest
-- [http://43.205.242.234:8500](http://43.205.242.234:8500): llama2:latest
-- [http://108.136.140.236:50000](http://108.136.140.236:50000): llama2:latest | llama3:latest
-- [http://16.62.214.173:50000](http://16.62.214.173:50000): llama2:latest | qwen2.5:1.5b
-- [http://44.212.61.234:4440](http://44.212.61.234:4440): llama2:latest | qwen2.5:1.5b
-- [http://78.13.244.74:5984](http://78.13.244.74:5984): llama2:latest
-- [http://35.183.46.69:105](http://35.183.46.69:105): llama2:latest | llama3:latest
-- [http://43.208.237.116:50000](http://43.208.237.116:50000): llama2:latest
-- [http://51.34.28.236:50000](http://51.34.28.236:50000): llama2:latest | qwen2.5:1.5b
-- [http://51.16.47.116:50000](http://51.16.47.116:50000): llama2:latest | qwen2.5:1.5b
-- [http://35.183.113.183:9306](http://35.183.113.183:9306): llama2:latest | qwen2.5:1.5b
-- [http://15.156.91.232:5172](http://15.156.91.232:5172): llama2:latest | llama3:latest
-- [http://40.176.136.1:9306](http://40.176.136.1:9306): llama2:latest | qwen2.5:1.5b
-- [http://3.71.26.7:3306](http://3.71.26.7:3306): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://54.233.23.106:5172](http://54.233.23.106:5172): llama2:latest | qwen2.5:1.5b
-- [https://3.16.135.104:2306](https://3.16.135.104:2306): llama2:latest
-- [http://3.16.135.104:9306](http://3.16.135.104:9306): llama2:latest
-- [https://15.152.92.67:509](https://15.152.92.67:509): llama2:latest | qwen2.5:1.5b
-- [https://47.128.233.42:4215](https://47.128.233.42:4215): llama2:latest | llama3:latest
-- [http://51.34.28.236:8500](http://51.34.28.236:8500): llama2:latest | qwen2.5:1.5b
-- [http://43.205.242.234:50000](http://43.205.242.234:50000): llama2:latest
-- [https://13.42.46.155:10900](https://13.42.46.155:10900): llama2:latest | llama3:latest
-- [http://3.110.54.246:5984](http://3.110.54.246:5984): llama2:latest
-- [https://18.170.111.73:11088](https://18.170.111.73:11088): llama2:latest
-- [http://78.14.20.147:5984](http://78.14.20.147:5984): llama2:latest | qwen2.5:1.5b
-- [http://16.62.123.236:9898](http://16.62.123.236:9898): llama2:latest
-- [http://15.237.108.20:50000](http://15.237.108.20:50000): llama2:latest
-- [https://3.16.135.104:706](https://3.16.135.104:706): llama2:latest
-- [https://3.87.26.85:7797](https://3.87.26.85:7797): llama2:latest | qwen2.5:1.5b
-- [http://34.246.183.20:9306](http://34.246.183.20:9306): llama2:latest
-- [http://40.177.8.154:3306](http://40.177.8.154:3306): llama2:latest
-- [https://47.128.233.42:10915](https://47.128.233.42:10915): llama2:latest | llama3:latest
-- [http://54.218.248.251:3306](http://54.218.248.251:3306): llama2:latest
-- [http://13.246.45.164:7101](http://13.246.45.164:7101): llama2:latest
-- [http://35.183.127.162:9306](http://35.183.127.162:9306): llama2:latest | qwen2.5:1.5b
-- [https://16.171.57.95:30044](https://16.171.57.95:30044): llama2:latest | qwen2.5:1.5b
-- [http://18.184.4.189:3306](http://18.184.4.189:3306): llama2:latest
-- [http://52.59.218.12:9306](http://52.59.218.12:9306): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://34.246.183.20:3306](http://34.246.183.20:3306): llama2:latest
-- [https://3.110.68.130:4912](https://3.110.68.130:4912): llama2:latest | qwen2.5:1.5b
-- [https://18.170.111.73:27138](https://18.170.111.73:27138): llama2:latest
-- [http://43.208.243.207:5984](http://43.208.243.207:5984): llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://78.14.41.82:5172](http://78.14.41.82:5172): llama2:latest
-- [https://15.152.92.67:2709](https://15.152.92.67:2709): llama2:latest | qwen2.5:1.5b
-- [http://13.212.26.15:5984](http://13.212.26.15:5984): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://43.198.99.209:7071](http://43.198.99.209:7071): llama2:latest
+- [http://78.12.252.87:8500](http://78.12.252.87:8500): llama2:latest
+- [http://51.84.101.19:5172](http://51.84.101.19:5172): llama2:latest
+- [http://13.51.196.44:8500](http://13.51.196.44:8500): llama2:latest
+- [http://54.67.110.244:9306](http://54.67.110.244:9306): llama2:latest | qwen2.5:1.5b
 - [http://16.62.229.137:113](http://16.62.229.137:113): llama2:latest
-- [http://15.160.172.51:10443](http://15.160.172.51:10443): llama2:latest
-- [http://51.34.28.236:50050](http://51.34.28.236:50050): llama2:latest | qwen2.5:1.5b
-- [http://108.136.140.236:8500](http://108.136.140.236:8500): llama2:latest | llama3:latest
-- [https://54.215.41.74:10629](https://54.215.41.74:10629): llama2:latest
-- [http://88.151.195.35:11434](http://88.151.195.35:11434): llama2:7b
-- [http://193.58.120.34:11434](http://193.58.120.34:11434): llama2:7b
-- [http://216.238.107.138:11434](http://216.238.107.138:11434): llama2:7b
-- [http://70.34.217.184:11434](http://70.34.217.184:11434): llama2:7b
+- [http://52.59.51.29:5984](http://52.59.51.29:5984): llama2:latest
+- [http://13.245.171.157:5001](http://13.245.171.157:5001): llama2:latest
+- [http://54.206.129.120:50000](http://54.206.129.120:50000): llama2:latest | qwen2.5:1.5b
+- [http://18.162.200.96:9306](http://18.162.200.96:9306): llama2:latest
+- [http://13.214.135.136:2729](http://13.214.135.136:2729): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://54.79.125.20:5984](http://54.79.125.20:5984): llama2:latest | qwen2.5:1.5b
+- [https://18.101.105.157:9903](https://18.101.105.157:9903): llama2:latest | llama3:latest
+- [http://3.16.135.104:9306](http://3.16.135.104:9306): llama2:latest
+- [http://54.206.129.120:8500](http://54.206.129.120:8500): llama2:latest | qwen2.5:1.5b
+- [https://13.235.42.151:56667](https://13.235.42.151:56667): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://13.42.46.155:10900](https://13.42.46.155:10900): llama2:latest | llama3:latest
+- [http://13.48.13.125:3306](http://13.48.13.125:3306): llama2:latest | qwen2.5:1.5b
+- [http://16.62.214.173:50000](http://16.62.214.173:50000): llama2:latest | qwen2.5:1.5b
+- [http://13.212.26.15:5172](http://13.212.26.15:5172): llama2:latest
+- [https://99.79.58.74:6635](https://99.79.58.74:6635): llama2:latest
+- [http://78.12.252.87:50000](http://78.12.252.87:50000): llama2:latest
+- [http://3.254.210.44:5984](http://3.254.210.44:5984): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://15.152.92.67:2159](https://15.152.92.67:2159): llama2:latest | qwen2.5:1.5b
+- [http://15.237.108.20:9306](http://15.237.108.20:9306): llama2:latest
+- [http://34.246.223.187:5984](http://34.246.223.187:5984): llama2:latest | llama3:latest
+- [http://13.51.196.44:10250](http://13.51.196.44:10250): llama2:latest
+- [http://35.183.46.69:105](http://35.183.46.69:105): llama2:latest | llama3:latest
+- [http://15.160.47.245:8095](http://15.160.47.245:8095): llama2:latest
+- [https://15.152.92.67:1359](https://15.152.92.67:1359): llama2:latest | qwen2.5:1.5b
+- [http://78.14.45.16:8500](http://78.14.45.16:8500): llama2:latest
+- [http://15.156.91.232:4036](http://15.156.91.232:4036): llama2:latest | qwen2.5:1.5b
+- [http://16.51.62.173:3306](http://16.51.62.173:3306): llama2:latest | qwen2.5:1.5b
+- [https://52.56.167.111:579](https://52.56.167.111:579): llama2:latest
+- [https://47.128.233.42:10915](https://47.128.233.42:10915): llama2:latest | llama3:latest
+- [http://16.171.235.42:3306](http://16.171.235.42:3306): llama2:latest
+- [http://16.62.229.137:6443](http://16.62.229.137:6443): llama2:latest | llama3:latest
+- [http://54.218.248.251:3306](http://54.218.248.251:3306): llama2:latest
+- [http://40.177.8.154:3306](http://40.177.8.154:3306): llama2:latest
+- [http://16.62.123.236:5984](http://16.62.123.236:5984): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [https://15.152.92.67:509](https://15.152.92.67:509): llama2:latest | qwen2.5:1.5b
+- [http://51.34.28.236:5221](http://51.34.28.236:5221): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://13.235.42.151:9398](http://13.235.42.151:9398): llama2:latest | qwen2.5:1.5b
+- [http://18.163.33.4:3306](http://18.163.33.4:3306): llama2:latest | qwen2.5:1.5b
+- [http://15.160.132.166:5172](http://15.160.132.166:5172): llama2:latest
+- [http://40.192.120.123:8500](http://40.192.120.123:8500): llama2:latest
+- [https://18.170.111.73:27138](https://18.170.111.73:27138): llama2:latest
+- [http://51.96.154.195:8500](http://51.96.154.195:8500): llama2:latest
+- [http://13.244.203.188:3790](http://13.244.203.188:3790): llama2:latest | qwen2.5:1.5b
+- [http://54.218.248.251:9306](http://54.218.248.251:9306): llama2:latest
+- [http://34.234.100.23:17988](http://34.234.100.23:17988): llama2:latest
+- [http://3.137.167.45:5172](http://3.137.167.45:5172): llama2:latest
+- [http://18.61.235.7:8095](http://18.61.235.7:8095): llama2:latest
+- [https://44.212.61.234:6714](https://44.212.61.234:6714): llama2:latest | qwen2.5:1.5b
+- [http://56.112.63.59:50000](http://56.112.63.59:50000): llama2:latest | qwen2.5:1.5b
+- [http://15.156.91.232:5172](http://15.156.91.232:5172): llama2:latest | llama3:latest
+- [https://47.128.233.42:10965](https://47.128.233.42:10965): llama2:latest | llama3:latest
+- [https://18.170.111.73:11088](https://18.170.111.73:11088): llama2:latest
+- [http://13.48.13.125:9306](http://13.48.13.125:9306): llama2:latest | qwen2.5:1.5b
+- [http://34.219.149.143:3306](http://34.219.149.143:3306): llama2:latest | qwen2.5:1.5b
+- [http://34.219.149.143:9306](http://34.219.149.143:9306): llama2:latest | qwen2.5:1.5b
+- [http://13.244.203.188:8140](http://13.244.203.188:8140): llama2:latest | qwen2.5:1.5b
+- [https://47.128.233.42:4215](https://47.128.233.42:4215): llama2:latest | llama3:latest
+- [http://15.160.22.3:33890](http://15.160.22.3:33890): llama2:latest
+- [https://16.51.142.176:5043](https://16.51.142.176:5043): llama2:latest
+- [https://18.101.105.157:9953](https://18.101.105.157:9953): llama2:latest | llama3:latest
+- [http://16.51.62.173:9306](http://16.51.62.173:9306): llama2:latest | qwen2.5:1.5b
+- [http://40.192.120.123:50000](http://40.192.120.123:50000): llama2:latest
+- [http://54.67.97.49:8500](http://54.67.97.49:8500): llama2:latest
+- [http://13.51.196.44:50000](http://13.51.196.44:50000): llama2:latest
+- [http://18.162.200.96:3306](http://18.162.200.96:3306): llama2:latest
+- [http://13.208.238.59:8500](http://13.208.238.59:8500): llama2:latest | qwen2.5:1.5b
+- [http://3.137.167.45:3306](http://3.137.167.45:3306): llama2:latest | qwen2.5:1.5b
+- [https://15.152.92.67:2709](https://15.152.92.67:2709): llama2:latest | qwen2.5:1.5b
+- [http://15.237.108.20:3306](http://15.237.108.20:3306): llama2:latest
+- [http://13.235.42.151:8181](http://13.235.42.151:8181): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://78.14.20.147:5984](http://78.14.20.147:5984): llama2:latest | qwen2.5:1.5b
+- [https://3.110.68.130:4912](https://3.110.68.130:4912): llama2:latest | qwen2.5:1.5b
+- [http://15.152.92.67:5938](http://15.152.92.67:5938): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.163.33.4:9306](http://18.163.33.4:9306): llama2:latest | qwen2.5:1.5b
+- [http://78.13.244.74:5984](http://78.13.244.74:5984): llama2:latest
+- [https://13.235.42.151:4067](https://13.235.42.151:4067): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://108.136.140.236:5984](http://108.136.140.236:5984): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://34.204.36.88:5984](http://34.204.36.88:5984): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://3.137.167.45:9306](http://3.137.167.45:9306): llama2:latest | qwen2.5:1.5b
+- [http://43.205.125.76:3780](http://43.205.125.76:3780): llama2:latest
+- [http://40.176.136.1:9306](http://40.176.136.1:9306): llama2:latest | qwen2.5:1.5b
+- [http://51.84.232.22:5984](http://51.84.232.22:5984): llama2:latest
+- [http://63.33.46.125:34599](http://63.33.46.125:34599): llama2:latest
+- [https://16.171.235.42:3430](https://16.171.235.42:3430): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://16.171.235.42:5172](http://16.171.235.42:5172): llama2:latest
+- [http://51.84.101.19:5984](http://51.84.101.19:5984): llama2:latest
+- [http://13.208.238.59:50000](http://13.208.238.59:50000): llama2:latest | qwen2.5:1.5b
+- [http://54.94.226.81:5984](http://54.94.226.81:5984): llama2:latest | qwen2.5:1.5b
+- [http://16.162.105.116:7071](http://16.162.105.116:7071): llama2:latest | llama3:latest
+- [http://99.79.58.74:9229](http://99.79.58.74:9229): llama2:latest | llama3:latest
+- [http://18.101.230.134:9229](http://18.101.230.134:9229): llama2:latest
+- [http://78.13.215.130:9306](http://78.13.215.130:9306): llama2:latest | llama3:latest
+- [http://52.56.167.111:5172](http://52.56.167.111:5172): llama2:latest
+- [http://3.19.213.118:5984](http://3.19.213.118:5984): llama2:latest
+- [http://51.96.154.195:50000](http://51.96.154.195:50000): llama2:latest
+- [http://35.183.113.183:9306](http://35.183.113.183:9306): llama2:latest | qwen2.5:1.5b
+- [http://43.203.140.58:8081](http://43.203.140.58:8081): llama2:latest | qwen2.5:1.5b
+- [http://40.177.8.154:9306](http://40.177.8.154:9306): llama2:latest
+- [http://35.183.46.69:3755](http://35.183.46.69:3755): llama2:latest | llama3:latest
+- [https://47.128.233.42:3865](https://47.128.233.42:3865): llama2:latest | llama3:latest
 - [http://185.154.110.14:11434](http://185.154.110.14:11434): llama2:7b
+- [http://70.34.217.184:11434](http://70.34.217.184:11434): llama2:7b
+- [http://216.238.107.138:11434](http://216.238.107.138:11434): llama2:7b
+- [http://88.151.195.35:11434](http://88.151.195.35:11434): llama2:7b
 - [http://70.34.249.168:11434](http://70.34.249.168:11434): llama2:7b
 - [http://216.238.82.209:11434](http://216.238.82.209:11434): llama2:7b
-- [http://54.79.125.20:50000](http://54.79.125.20:50000): llama3:latest
-- [http://52.47.115.41:5172](http://52.47.115.41:5172): llama3:latest | qwen2.5:1.5b
-- [http://13.38.217.179:9292](http://13.38.217.179:9292): llama3:latest
-- [http://3.99.158.157:8500](http://3.99.158.157:8500): llama3:latest
-- [http://13.41.196.179:5172](http://13.41.196.179:5172): llama3:latest | qwen2.5:1.5b
-- [http://54.206.129.120:9306](http://54.206.129.120:9306): llama3:latest
-- [http://13.50.4.26:5172](http://13.50.4.26:5172): llama3:latest | qwen2.5:1.5b
-- [http://3.17.176.195:9306](http://3.17.176.195:9306): llama3:latest
-- [https://13.208.166.217:1097](https://13.208.166.217:1097): llama3:latest | qwen2.5:1.5b
-- [http://54.253.167.61:50000](http://54.253.167.61:50000): llama3:latest
-- [http://18.101.230.134:9306](http://18.101.230.134:9306): llama3:latest
-- [http://13.204.155.188:8500](http://13.204.155.188:8500): llama3:latest
-- [http://13.212.26.15:50000](http://13.212.26.15:50000): llama3:latest
-- [http://52.16.215.4:5986](http://52.16.215.4:5986): llama3:latest
-- [http://54.67.7.167:10459](http://54.67.7.167:10459): llama3:latest
-- [http://13.41.196.179:8500](http://13.41.196.179:8500): llama3:latest
-- [http://63.181.83.210:5667](http://63.181.83.210:5667): llama3:latest
-- [http://16.78.84.238:5172](http://16.78.84.238:5172): llama3:latest
-- [http://35.180.75.159:8500](http://35.180.75.159:8500): llama3:latest
+- [https://43.200.179.23:3529](https://43.200.179.23:3529): llama3:latest
+- [https://16.170.146.3:27912](https://16.170.146.3:27912): llama3:latest | qwen2.5:1.5b
+- [http://108.131.109.106:8139](http://108.131.109.106:8139): llama3:latest
 - [http://35.78.85.165:8500](http://35.78.85.165:8500): llama3:latest
-- [https://13.208.166.217:22347](https://13.208.166.217:22347): llama3:latest | qwen2.5:1.5b
-- [https://16.170.146.3:27912](https://16.170.146.3:27912): llama3:latest
-- [http://51.34.28.236:5172](http://51.34.28.236:5172): llama3:latest
-- [http://56.112.63.59:50001](http://56.112.63.59:50001): llama3:latest
-- [http://34.246.223.187:5172](http://34.246.223.187:5172): llama3:latest
-- [http://15.229.147.65:4890](http://15.229.147.65:4890): llama3:latest
-- [http://54.253.167.61:8500](http://54.253.167.61:8500): llama3:latest
-- [http://15.161.131.175:50000](http://15.161.131.175:50000): llama3:latest | qwen2.5:1.5b
-- [http://3.99.212.54:5984](http://3.99.212.54:5984): llama3:latest | qwen2.5:1.5b
-- [http://43.198.209.12:5984](http://43.198.209.12:5984): llama3:latest
-- [http://13.245.171.157:8500](http://13.245.171.157:8500): llama3:latest
-- [http://13.51.196.44:20880](http://13.51.196.44:20880): llama3:latest
-- [http://18.170.25.193:3306](http://18.170.25.193:3306): llama3:latest
-- [http://15.161.131.175:8500](http://15.161.131.175:8500): llama3:latest | qwen2.5:1.5b
-- [http://18.170.25.193:9306](http://18.170.25.193:9306): llama3:latest
-- [http://54.79.125.20:8500](http://54.79.125.20:8500): llama3:latest
-- [http://15.216.59.200:5984](http://15.216.59.200:5984): llama3:latest | qwen2.5:1.5b
-- [http://43.198.99.209:5172](http://43.198.99.209:5172): llama3:latest
-- [http://35.183.46.69:5172](http://35.183.46.69:5172): llama3:latest
-- [https://13.208.166.217:4347](https://13.208.166.217:4347): llama3:latest | qwen2.5:1.5b
-- [http://35.180.75.159:50000](http://35.180.75.159:50000): llama3:latest
-- [http://18.60.247.31:9306](http://18.60.247.31:9306): llama3:latest
-- [http://108.136.140.236:10443](http://108.136.140.236:10443): llama3:latest | qwen2.5:1.5b
-- [https://15.232.33.152:8080](https://15.232.33.152:8080): llama3:latest
-- [http://18.60.247.31:3306](http://18.60.247.31:3306): llama3:latest
-- [http://13.235.42.151:7500](http://13.235.42.151:7500): llama3:latest
-- [http://3.110.68.130:5172](http://3.110.68.130:5172): llama3:latest
-- [http://13.208.166.217:8083](http://13.208.166.217:8083): llama3:latest
-- [http://13.40.223.158:5984](http://13.40.223.158:5984): llama3:latest | qwen2.5:1.5b
 - [http://18.101.230.134:3306](http://18.101.230.134:3306): llama3:latest
-- [http://13.235.42.151:50000](http://13.235.42.151:50000): llama3:latest
-- [http://13.41.196.179:50000](http://13.41.196.179:50000): llama3:latest
-- [http://43.198.99.209:9306](http://43.198.99.209:9306): llama3:latest
-- [http://13.48.13.125:3306](http://13.48.13.125:3306): llama3:latest
-- [https://16.16.162.157:9752](https://16.16.162.157:9752): llama3:latest
-- [http://54.252.192.125:3262](http://54.252.192.125:3262): llama3:latest | qwen2.5:1.5b
-- [https://47.128.64.22:6964](https://47.128.64.22:6964): llama3:latest
-- [http://35.78.85.165:50000](http://35.78.85.165:50000): llama3:latest
-- [http://54.252.192.125:22273](http://54.252.192.125:22273): llama3:latest
-- [http://15.228.33.173:8010](http://15.228.33.173:8010): llama3:latest
-- [http://15.160.172.51:5172](http://15.160.172.51:5172): llama3:latest | qwen2.5:1.5b
-- [http://52.59.51.29:50000](http://52.59.51.29:50000): llama3:latest | qwen2.5:1.5b
+- [http://16.112.189.175:2083](http://16.112.189.175:2083): llama3:latest
+- [http://18.228.31.199:3306](http://18.228.31.199:3306): llama3:latest
+- [http://51.84.101.19:8500](http://51.84.101.19:8500): llama3:latest
 - [http://13.125.116.13:5172](http://13.125.116.13:5172): llama3:latest | qwen2.5:1.5b
-- [http://52.59.51.29:8500](http://52.59.51.29:8500): llama3:latest | qwen2.5:1.5b
-- [http://15.161.131.175:3306](http://15.161.131.175:3306): llama3:latest
-- [http://16.112.197.127:5172](http://16.112.197.127:5172): llama3:latest
-- [http://13.203.65.197:5172](http://13.203.65.197:5172): llama3:latest
-- [http://54.206.129.120:3306](http://54.206.129.120:3306): llama3:latest
-- [http://43.209.173.229:3528](http://43.209.173.229:3528): llama3:latest
-- [http://34.219.149.143:5172](http://34.219.149.143:5172): llama3:latest | qwen2.5:1.5b
-- [http://54.206.129.120:5172](http://54.206.129.120:5172): llama3:latest
+- [http://3.110.68.130:5172](http://3.110.68.130:5172): llama3:latest
+- [http://3.1.200.24:8500](http://3.1.200.24:8500): llama3:latest | qwen2.5:1.5b
+- [http://54.160.130.48:50000](http://54.160.130.48:50000): llama3:latest | qwen2.5:1.5b
+- [http://3.99.212.54:50000](http://3.99.212.54:50000): llama3:latest
+- [http://43.205.125.76:50000](http://43.205.125.76:50000): llama3:latest | qwen2.5:1.5b
+- [http://18.60.247.31:3306](http://18.60.247.31:3306): llama3:latest
 - [http://34.220.22.3:9998](http://34.220.22.3:9998): llama3:latest
-- [https://54.180.117.151:5167](https://54.180.117.151:5167): llama3:latest
-- [http://40.176.175.23:2083](http://40.176.175.23:2083): llama3:latest
-- [http://13.235.42.151:8500](http://13.235.42.151:8500): llama3:latest
-- [http://43.198.99.209:3306](http://43.198.99.209:3306): llama3:latest
+- [http://54.252.192.125:22273](http://54.252.192.125:22273): llama3:latest
+- [http://3.99.158.157:5172](http://3.99.158.157:5172): llama3:latest | qwen2.5:1.5b
+- [https://18.61.235.7:1514](https://18.61.235.7:1514): llama3:latest
+- [http://3.121.130.230:8500](http://3.121.130.230:8500): llama3:latest
+- [http://52.56.167.111:5984](http://52.56.167.111:5984): llama3:latest
+- [http://54.252.192.125:3262](http://54.252.192.125:3262): llama3:latest | qwen2.5:1.5b
+- [http://35.183.46.69:5172](http://35.183.46.69:5172): llama3:latest
+- [http://18.188.53.175:5984](http://18.188.53.175:5984): llama3:latest
+- [http://43.205.125.76:55443](http://43.205.125.76:55443): llama3:latest
+- [http://52.47.115.41:5172](http://52.47.115.41:5172): llama3:latest | qwen2.5:1.5b
+- [http://13.48.13.125:8009](http://13.48.13.125:8009): llama3:latest
+- [http://51.84.101.19:50000](http://51.84.101.19:50000): llama3:latest
+- [http://56.155.73.215:5172](http://56.155.73.215:5172): llama3:latest | qwen2.5:1.5b
+- [http://16.112.197.127:5172](http://16.112.197.127:5172): llama3:latest
+- [http://3.17.176.195:9306](http://3.17.176.195:9306): llama3:latest
+- [http://18.101.230.134:9306](http://18.101.230.134:9306): llama3:latest
+- [http://52.56.167.111:8500](http://52.56.167.111:8500): llama3:latest
+- [http://51.92.173.133:5172](http://51.92.173.133:5172): llama3:latest
+- [https://43.218.124.29:10790](https://43.218.124.29:10790): llama3:latest
+- [http://43.198.209.12:5984](http://43.198.209.12:5984): llama3:latest
+- [http://16.162.105.116:9306](http://16.162.105.116:9306): llama3:latest
+- [https://18.61.235.7:10814](https://18.61.235.7:10814): llama3:latest
+- [http://18.60.247.31:9306](http://18.60.247.31:9306): llama3:latest
+- [http://16.162.105.116:3306](http://16.162.105.116:3306): llama3:latest
+- [http://34.204.36.88:9306](http://34.204.36.88:9306): llama3:latest
+- [http://16.162.105.116:5006](http://16.162.105.116:5006): llama3:latest
+- [https://16.16.162.157:9752](https://16.16.162.157:9752): llama3:latest
+- [http://18.228.31.199:9306](http://18.228.31.199:9306): llama3:latest
+- [http://13.38.217.179:3306](http://13.38.217.179:3306): llama3:latest
+- [http://15.216.59.200:5984](http://15.216.59.200:5984): llama3:latest | qwen2.5:1.5b
+- [http://3.71.26.7:5984](http://3.71.26.7:5984): llama3:latest
+- [http://13.204.155.188:8500](http://13.204.155.188:8500): llama3:latest
+- [http://13.40.223.158:5984](http://13.40.223.158:5984): llama3:latest | qwen2.5:1.5b
+- [http://13.38.217.179:9306](http://13.38.217.179:9306): llama3:latest
+- [http://3.19.213.118:6099](http://3.19.213.118:6099): llama3:latest
+- [http://95.40.79.184:5172](http://95.40.79.184:5172): llama3:latest
+- [http://15.164.225.200:5984](http://15.164.225.200:5984): llama3:latest
+- [http://13.50.4.26:5172](http://13.50.4.26:5172): llama3:latest | qwen2.5:1.5b
+- [http://16.112.189.175:5984](http://16.112.189.175:5984): llama3:latest
+- [http://3.121.130.230:50000](http://3.121.130.230:50000): llama3:latest
+- [http://35.78.85.165:50000](http://35.78.85.165:50000): llama3:latest
+- [http://13.203.65.197:5172](http://13.203.65.197:5172): llama3:latest
+- [http://54.67.7.167:10459](http://54.67.7.167:10459): llama3:latest
+- [http://52.56.167.111:50000](http://52.56.167.111:50000): llama3:latest
+- [http://13.41.196.179:5172](http://13.41.196.179:5172): llama3:latest | qwen2.5:1.5b
 - [https://15.206.114.227](https://15.206.114.227): qwen:4b
 - [https://159.223.197.251](https://159.223.197.251): llama3.2:3b-instruct-q4_K_M
 - [http://119.91.95.217:11434](http://119.91.95.217:11434): llama3.2:3b | qwen2.5:0.5b
 - [http://94.72.107.250:11434](http://94.72.107.250:11434): qwen2.5:3b
+- [http://numera.dampfighter.co.uk:8443](http://numera.dampfighter.co.uk:8443): llama3.2:3b | qwen2.5-coder:3b
+- [http://pyvorin.com:8443](http://pyvorin.com:8443): llama3.2:3b | qwen2.5-coder:3b
+- [http://217.154.38.221:8443](http://217.154.38.221:8443): llama3.2:3b | qwen2.5-coder:3b
 - [http://52.186.169.236:11434](http://52.186.169.236:11434): llama3.2:3b
 - [http://212.56.35.26:11434](http://212.56.35.26:11434): llama3.2:3b
 - [http://8.215.2.26:11434](http://8.215.2.26:11434): llama3.2:3b
 - [http://23.19.228.49:8080](http://23.19.228.49:8080): nomic-embed-text:latest | smollm2:latest | smollm2:1.7b-instruct-q4_K_M
 - [http://58.34.149.140:5145](http://58.34.149.140:5145): qwen3-embedding:0.6b
+- [http://135.181.128.168:11434](http://135.181.128.168:11434): llama3.2:3b
+- [https://104.248.207.104](https://104.248.207.104): llama3.2:3b
 - [http://124.71.201.150:8088](http://124.71.201.150:8088): llama3.2:3b
 - [http://5.189.174.32:9090](http://5.189.174.32:9090): embeddinggemma:latest | llama3.2:3b
-- [http://149.104.110.122:11434](http://149.104.110.122:11434): llama3.2:3b
-- [http://135.181.128.168:11434](http://135.181.128.168:11434): llama3.2:3b
+- [http://149.104.110.122:11434](http://149.104.110.122:11434): llama3.2:3b | nomic-embed-text:latest
 - [http://223.247.135.245:5103](http://223.247.135.245:5103): qwen2.5:3b
-- [https://45.91.169.35](https://45.91.169.35): my-assistant:latest
 - [http://109.199.117.53](http://109.199.117.53): qwen2.5:3b
+- [https://45.91.169.35](https://45.91.169.35): my-assistant:latest
 - [http://92.4.77.39:11434](http://92.4.77.39:11434): oracle-expert:latest
 - [http://47.122.4.47:9016](http://47.122.4.47:9016): bge-m3:latest
 - [http://116.232.18.198:18001](http://116.232.18.198:18001): deepseek-r1:1.5b
 - [http://202.85.215.18:60002](http://202.85.215.18:60002): bge-m3:latest | deepseek-r1:1.5b
+- [http://123.253.140.246:11434](http://123.253.140.246:11434): qwen3-embedding:0.6b
 - [http://160.202.241.223:11434](http://160.202.241.223:11434): modelscope.cn/Mungert/Qwen3.5-0.8B-GGUF:latest | qwen2.5-coder:0.5b
 - [http://103.195.188.31](http://103.195.188.31): gemma3:1b
 - [http://117.72.14.166:18008](http://117.72.14.166:18008): bge-m3:latest
 - [http://121.229.203.215:5003](http://121.229.203.215:5003): bge-m3:latest
-- [http://43.199.29.225:9306](http://43.199.29.225:9306): qwen2.5:1.5b
-- [http://51.84.101.19:50000](http://51.84.101.19:50000): qwen2.5:1.5b
-- [https://3.137.167.45:2235](https://3.137.167.45:2235): qwen2.5:1.5b
-- [http://13.48.13.125:8009](http://13.48.13.125:8009): qwen2.5:1.5b
-- [http://43.218.44.38:83](http://43.218.44.38:83): qwen2.5:1.5b
-- [http://15.223.237.12:8101](http://15.223.237.12:8101): qwen2.5:1.5b
-- [http://16.112.4.117:3306](http://16.112.4.117:3306): qwen2.5:1.5b
-- [http://13.246.39.12:3306](http://13.246.39.12:3306): qwen2.5:1.5b
-- [http://35.182.12.78:5984](http://35.182.12.78:5984): qwen2.5:1.5b
-- [https://34.234.100.23:11074](https://34.234.100.23:11074): qwen2.5:1.5b
-- [http://15.237.108.20:3306](http://15.237.108.20:3306): qwen2.5:1.5b
-- [http://16.62.123.236:50000](http://16.62.123.236:50000): qwen2.5:1.5b
-- [https://3.71.26.7:11310](https://3.71.26.7:11310): qwen2.5:1.5b
-- [https://15.160.178.0:1298](https://15.160.178.0:1298): qwen2.5:1.5b
-- [https://52.59.218.12:2816](https://52.59.218.12:2816): qwen2.5:1.5b
-- [http://54.248.31.78:2083](http://54.248.31.78:2083): qwen2.5:1.5b
-- [http://51.44.97.6:3306](http://51.44.97.6:3306): qwen2.5:1.5b
-- [http://15.237.108.20:9306](http://15.237.108.20:9306): qwen2.5:1.5b
-- [http://18.162.200.96:5984](http://18.162.200.96:5984): qwen2.5:1.5b
-- [http://15.135.215.62:4043](http://15.135.215.62:4043): qwen2.5:1.5b
-- [http://18.170.111.73:9306](http://18.170.111.73:9306): qwen2.5:1.5b
-- [http://16.112.4.117:9306](http://16.112.4.117:9306): qwen2.5:1.5b
-- [http://16.62.123.236:8500](http://16.62.123.236:8500): qwen2.5:1.5b
-- [http://18.61.235.7:8095](http://18.61.235.7:8095): qwen2.5:1.5b
-- [http://18.228.228.159:5984](http://18.228.228.159:5984): qwen2.5:1.5b
-- [http://18.170.111.73:3306](http://18.170.111.73:3306): qwen2.5:1.5b
-- [http://54.233.23.106:4434](http://54.233.23.106:4434): qwen2.5:1.5b
-- [http://43.209.251.7:3306](http://43.209.251.7:3306): qwen2.5:1.5b
-- [http://18.61.3.91:50000](http://18.61.3.91:50000): qwen2.5:1.5b
-- [http://43.205.125.76:5984](http://43.205.125.76:5984): qwen2.5:1.5b
-- [http://54.79.125.20:3080](http://54.79.125.20:3080): qwen2.5:1.5b
-- [http://15.161.59.54:8667](http://15.161.59.54:8667): qwen2.5:1.5b
+- [http://13.208.238.59:4444](http://13.208.238.59:4444): qwen2.5:1.5b
+- [http://15.237.108.20:9001](http://15.237.108.20:9001): qwen2.5:1.5b
+- [http://34.246.223.187:14936](http://34.246.223.187:14936): qwen2.5:1.5b
 - [http://54.218.248.251:5984](http://54.218.248.251:5984): qwen2.5:1.5b
+- [http://18.61.3.91:50000](http://18.61.3.91:50000): qwen2.5:1.5b
+- [http://15.237.108.20:5001](http://15.237.108.20:5001): qwen2.5:1.5b
+- [https://15.237.108.20:201](https://15.237.108.20:201): qwen2.5:1.5b
+- [http://16.112.197.127:7071](http://16.112.197.127:7071): qwen2.5:1.5b
+- [http://13.53.139.178:5984](http://13.53.139.178:5984): qwen2.5:1.5b
+- [http://54.253.218.186:5172](http://54.253.218.186:5172): qwen2.5:1.5b
+- [http://18.170.111.73:3306](http://18.170.111.73:3306): qwen2.5:1.5b
 - [http://18.61.3.91:8500](http://18.61.3.91:8500): qwen2.5:1.5b
-- [http://35.180.75.159:4444](http://35.180.75.159:4444): qwen2.5:1.5b
-- [https://52.59.218.12:3466](https://52.59.218.12:3466): qwen2.5:1.5b
-- [http://98.130.143.239:9306](http://98.130.143.239:9306): qwen2.5:1.5b
-- [http://54.233.23.106:5984](http://54.233.23.106:5984): qwen2.5:1.5b
-- [http://43.199.29.225:3306](http://43.199.29.225:3306): qwen2.5:1.5b
-- [http://108.136.140.236:4444](http://108.136.140.236:4444): qwen2.5:1.5b
-- [http://51.44.97.6:9306](http://51.44.97.6:9306): qwen2.5:1.5b
-- [http://16.162.105.116:50000](http://16.162.105.116:50000): qwen2.5:1.5b
-- [http://18.201.82.20:5984](http://18.201.82.20:5984): qwen2.5:1.5b
-- [http://51.84.101.19:8500](http://51.84.101.19:8500): qwen2.5:1.5b
-- [http://16.162.105.116:8500](http://16.162.105.116:8500): qwen2.5:1.5b
+- [https://15.160.178.0:1298](https://15.160.178.0:1298): qwen2.5:1.5b
+- [https://34.234.100.23:11074](https://34.234.100.23:11074): qwen2.5:1.5b
+- [https://15.164.225.200:1430](https://15.164.225.200:1430): qwen2.5:1.5b
+- [http://18.228.228.159:5984](http://18.228.228.159:5984): qwen2.5:1.5b
+- [http://40.192.120.123:446](http://40.192.120.123:446): qwen2.5:1.5b
+- [http://54.248.31.78:2083](http://54.248.31.78:2083): qwen2.5:1.5b
 - [http://98.130.143.239:3306](http://98.130.143.239:3306): qwen2.5:1.5b
+- [http://16.18.37.186:16993](http://16.18.37.186:16993): qwen2.5:1.5b
+- [http://98.130.143.239:9306](http://98.130.143.239:9306): qwen2.5:1.5b
+- [http://63.179.134.206:3306](http://63.179.134.206:3306): qwen2.5:1.5b
+- [http://16.112.4.117:9306](http://16.112.4.117:9306): qwen2.5:1.5b
+- [https://3.71.26.7:9323](https://3.71.26.7:9323): qwen2.5:1.5b
+- [http://16.78.226.123:5172](http://16.78.226.123:5172): qwen2.5:1.5b
+- [http://13.246.39.12:3306](http://13.246.39.12:3306): qwen2.5:1.5b
+- [http://40.176.175.23:2083](http://40.176.175.23:2083): qwen2.5:1.5b
+- [http://43.198.22.151:9306](http://43.198.22.151:9306): qwen2.5:1.5b
+- [http://34.246.223.187:26486](http://34.246.223.187:26486): qwen2.5:1.5b
+- [http://15.228.33.173:8073](http://15.228.33.173:8073): qwen2.5:1.5b
+- [http://18.170.111.73:9306](http://18.170.111.73:9306): qwen2.5:1.5b
+- [http://13.208.238.59:444](http://13.208.238.59:444): qwen2.5:1.5b
+- [http://35.182.12.78:5440](http://35.182.12.78:5440): qwen2.5:1.5b
+- [http://15.161.59.54:5984](http://15.161.59.54:5984): qwen2.5:1.5b
+- [http://16.112.4.117:3306](http://16.112.4.117:3306): qwen2.5:1.5b
+- [http://43.198.94.82:4013](http://43.198.94.82:4013): qwen2.5:1.5b
+- [https://13.208.238.59:6655](https://13.208.238.59:6655): qwen2.5:1.5b
+- [http://40.177.89.65:5984](http://40.177.89.65:5984): qwen2.5:1.5b
+- [https://43.218.124.29:3974](https://43.218.124.29:3974): qwen2.5:1.5b
+- [http://47.128.155.71:5984](http://47.128.155.71:5984): qwen2.5:1.5b
+- [http://148.251.54.151:8080](http://148.251.54.151:8080): nomic-embed-text-v2-moe:latest
+- [http://65.109.136.52](http://65.109.136.52): qwen2:0.5b
 - [http://199.182.232.30:11434](http://199.182.232.30:11434): smollm2:135m
 - [http://181.214.95.190:11434](http://181.214.95.190:11434): nomic-embed-text:latest
-- [http://209.137.198.106:11434](http://209.137.198.106:11434): jina/jina-embeddings-v2-small-en:latest
-- [http://39.98.113.200:8080](http://39.98.113.200:8080): hello
+- [http://39.98.113.200:8080](http://39.98.113.200:8080): sample
 
 
