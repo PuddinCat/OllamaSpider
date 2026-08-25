@@ -10,7 +10,7 @@ import random
 
 url = "https://raw.githubusercontent.com/PuddinCat/OllamaSpider/refs/heads/main/url_models.json"
 
-url_models = httpx.get(url).json()
+url_models = httpx.get(url, timeout=30).json()
 locks = defaultdict(lambda: asyncio.Semaphore(4))
 sema = asyncio.Semaphore(32)
 

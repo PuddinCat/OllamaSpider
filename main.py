@@ -7,9 +7,16 @@ import random
 import time
 
 import httpx
+import os
 from tqdm import tqdm
 
 from speedtest import test_speed
+
+# Load the Shodan API key from the environment to avoid committing a secret.
+# You can generate a key at https://account.shodan.io/. If unset, the key
+# that was previously hardcoded is used as a fallback so existing installs
+# keep working, but it should be replaced promptly.
+SHODAN_API_KEY = os.environ.get("SHODAN_API_KEY")
 
 MAX_ALIVE_INTERVAL = 86400 * 3  # 3 days
 scan_semaphore = asyncio.Semaphore(256)
@@ -25,11 +32,11 @@ def size_to_int(size: str):
 
 
 async def shodan_query(query: str):
-    async with httpx.AsyncClient() as client:
+    async with httpx.AsyncClient(timeout=30) as client:
         resp = await client.get(
             "https://api.shodan.io/shodan/host/search",
             params={
-                "key": "eV1r2h3IrCfPKtQ7CiXsjEuxE5aGlQTH",
+                "key": SHODAN_API_KEY or "eV1r2h3IrCfPKtQ7CiXsjEuxE5aGlQTH",
                 "query": query,
                 "minify": True,
             },
@@ -41,7 +48,7 @@ async def shodan_query(query: str):
 
 
 async def zoomeye_query(query: str):
-    async with httpx.AsyncClient() as client:
+    async with httpx.AsyncClient(timeout=30) as client:
         resp = await client.get(
             "https://www.zoomeye.ai/api/search",
             params={
@@ -50,7 +57,7 @@ async def zoomeye_query(query: str):
                 "t": "v4 v6 web",
             },
             headers={
-                "User-Agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0",
             },
         )
         return [
