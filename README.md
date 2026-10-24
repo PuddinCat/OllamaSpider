@@ -5,12 +5,12 @@
 # 最快的几个
 
 - [http://116.211.238.59:18035](http://116.211.238.59:18035): 
-  - 31.4580 token/s qwen2.5-coder:32b
-- [http://113.108.63.10:8081](http://113.108.63.10:8081): 
-- [http://165.245.213.213:11434](http://165.245.213.213:11434): 
-- [http://112.8.226.163:8808](http://112.8.226.163:8808): 
+  - 34.3001 token/s qwen2.5-coder:32b
 - [http://203.176.113.216:11434](http://203.176.113.216:11434): 
+- [http://165.245.213.213:11434](http://165.245.213.213:11434): 
 - [http://125.22.90.94:11434](http://125.22.90.94:11434): 
+- [http://112.8.226.163:8808](http://112.8.226.163:8808): 
+- [http://113.108.63.10:8081](http://113.108.63.10:8081): 
 
 
 # 所有URL
@@ -23,167 +23,165 @@
 - [http://113.108.63.10:8081](http://113.108.63.10:8081): llama3.2:1b | nomic-embed-text:latest | qwen3.5:9b-q4_K_M | smollm2:135m
 - [http://125.212.241.147:11434](http://125.212.241.147:11434): bge-m3:latest | gemma4:26b
 - [http://118.189.227.190:11434](http://118.189.227.190:11434): huihui_ai/qwen3.6-abliterated:27b
-- [http://115.246.193.70:11434](http://115.246.193.70:11434): huihui_ai/Qwen3.8-abliterated:latest | qwen3.8:27b
+- [http://115.246.193.70:11434](http://115.246.193.70:11434): huihui_ai/Qwen3.8-abliterated:latest | qwen2.5:7b
 - [http://27.154.56.162:11434](http://27.154.56.162:11434): qwen3.8:27b
 - [http://78.46.88.135:8080](http://78.46.88.135:8080): qwen3.6:27b
-- [http://63.141.249.91:11434](http://63.141.249.91:11434): qwen2.5:14b
+- [http://125.227.30.252:11434](http://125.227.30.252:11434): gemma4:e4b
 - [http://52.0.23.35:11434](http://52.0.23.35:11434): llama3.2:3b | qwen3:14b
 - [http://201.222.40.88:11434](http://201.222.40.88:11434): codellama:latest
-- [http://16.176.232.186:5984](http://16.176.232.186:5984): codellama:13b
-- [http://35.183.127.162:9306](http://35.183.127.162:9306): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://18.191.250.90:900](http://18.191.250.90:900): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
 - [http://16.28.101.55:9306](http://16.28.101.55:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://35.78.212.217:7071](http://35.78.212.217:7071): codellama:13b | qwen2.5:1.5b
-- [http://3.134.245.77:5984](http://3.134.245.77:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
-- [http://34.229.190.39:5984](http://34.229.190.39:5984): codellama:13b | deepseek-r1:latest | llama2:latest
 - [http://16.18.22.211:5984](http://16.18.22.211:5984): codellama:13b | openchat:7b
-- [http://16.174.124.173:5984](http://16.174.124.173:5984): codellama:13b | llama2:latest | llama3:latest | openchat:7b
-- [http://35.78.212.217:5172](http://35.78.212.217:5172): codellama:13b | llama2:latest
-- [http://51.94.221.175:5984](http://51.94.221.175:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
 - [http://13.208.246.143:9306](http://13.208.246.143:9306): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.191.250.90:50000](http://18.191.250.90:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.231.126.121:47990](http://18.231.126.121:47990): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://98.94.14.234:7101](http://98.94.14.234:7101): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
 - [http://16.28.29.244:9595](http://16.28.29.244:9595): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.232.45.244:5172](http://15.232.45.244:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://35.78.212.217:5172](http://35.78.212.217:5172): codellama:13b | llama2:latest
+- [http://34.229.190.39:5984](http://34.229.190.39:5984): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://34.229.190.39:8834](http://34.229.190.39:8834): codellama:13b | deepseek-r1:latest | llama2:latest
+- [http://16.176.232.186:5984](http://16.176.232.186:5984): codellama:13b
+- [http://18.231.126.121:47990](http://18.231.126.121:47990): codellama:13b | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.191.250.90:8500](http://18.191.250.90:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
 - [http://78.12.136.220:9998](http://78.12.136.220:9998): codellama:13b | deepseek-r1:latest | llama3:latest | qwen2.5:1.5b
 - [http://108.137.124.195:9306](http://108.137.124.195:9306): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.232.45.244:5172](http://15.232.45.244:5172): codellama:13b | llama2:latest | llama3:latest | openchat:7b
 - [http://43.200.174.95:16601](http://43.200.174.95:16601): codellama:13b | deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://51.85.44.149:8500](http://51.85.44.149:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://56.112.93.245:5984](http://56.112.93.245:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
-- [http://34.229.190.39:8834](http://34.229.190.39:8834): codellama:13b | deepseek-r1:latest | llama2:latest
-- [http://18.61.230.250:8500](http://18.61.230.250:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://35.78.212.217:7071](http://35.78.212.217:7071): codellama:13b | qwen2.5:1.5b
 - [http://54.255.249.161:5984](http://54.255.249.161:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.207.141.180:5984](http://43.207.141.180:5984): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
-- [http://18.191.250.90:8500](http://18.191.250.90:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://47.129.130.0:4444](http://47.129.130.0:4444): codellama:13b | llama2:latest | qwen2.5:1.5b
+- [http://16.174.124.173:5984](http://16.174.124.173:5984): codellama:13b | llama2:latest | llama3:latest | openchat:7b
+- [http://56.112.93.245:5984](http://56.112.93.245:5984): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b
 - [http://43.202.114.177:8500](http://43.202.114.177:8500): codellama:13b | deepseek-r1:latest | openchat:7b
+- [http://51.85.44.149:8500](http://51.85.44.149:8500): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.191.250.90:900](http://18.191.250.90:900): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://3.134.245.77:5984](http://3.134.245.77:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b
+- [http://18.191.250.90:50000](http://18.191.250.90:50000): codellama:13b | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://51.94.221.175:5984](http://51.94.221.175:5984): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.207.141.180:5984](http://43.207.141.180:5984): codellama:13b | deepseek-r1:latest | llama2:latest | qwen2.5:1.5b
+- [http://47.129.130.0:4444](http://47.129.130.0:4444): codellama:13b | llama2:latest | qwen2.5:1.5b
 - [http://78.14.19.3:8500](http://78.14.19.3:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.61.230.250:8500](http://18.61.230.250:8500): codellama:13b | deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://98.94.14.234:7101](http://98.94.14.234:7101): codellama:13b | deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
 - [http://54.70.209.48:11434](http://54.70.209.48:11434): llama3.1:8b-instruct-q4_K_M | llama2:latest
 - [http://180.102.134.42:8085](http://180.102.134.42:8085): llama3:8b | qwen2:7b
 - [http://209.145.63.44:11434](http://209.145.63.44:11434): mistral:latest
-- [https://8.212.179.12:2808](https://8.212.179.12:2808): mistral:latest
-- [https://74.207.234.196:10129](https://74.207.234.196:10129): mistral:latest
-- [http://8.211.49.86:11434](http://8.211.49.86:11434): mistral:latest
-- [https://198.58.112.247:3470](https://198.58.112.247:3470): mistral:latest
-- [https://122.9.131.161:18668](https://122.9.131.161:18668): mistral:latest
-- [https://47.250.157.145:1592](https://47.250.157.145:1592): mistral:latest
-- [https://172.104.164.237:2000](https://172.104.164.237:2000): mistral:latest
-- [https://172.104.101.21:8443](https://172.104.101.21:8443): mistral:latest
-- [https://47.250.11.111:7982](https://47.250.11.111:7982): mistral:latest
-- [https://139.162.112.20:4740](https://139.162.112.20:4740): mistral:latest
-- [https://8.220.204.215:10386](https://8.220.204.215:10386): mistral:latest
-- [https://8.220.217.49:4275](https://8.220.217.49:4275): mistral:latest
-- [https://47.116.186.139:24577](https://47.116.186.139:24577): mistral:latest
-- [http://173.255.203.153:11434](http://173.255.203.153:11434): mistral:latest
-- [https://172.104.178.137:707](https://172.104.178.137:707): mistral:latest
-- [https://172.104.167.209:27914](https://172.104.167.209:27914): mistral:latest
-- [https://74.207.234.196:2890](https://74.207.234.196:2890): mistral:latest
-- [https://139.162.3.158:3381](https://139.162.3.158:3381): mistral:latest
-- [https://47.109.110.100:4219](https://47.109.110.100:4219): mistral:latest
-- [https://8.213.215.187:7354](https://8.213.215.187:7354): mistral:latest
-- [https://8.221.141.88:1220](https://8.221.141.88:1220): mistral:latest
-- [https://172.104.135.189:2709](https://172.104.135.189:2709): mistral:latest
-- [https://172.104.167.209:29](https://172.104.167.209:29): mistral:latest
-- [https://139.162.17.182:34512](https://139.162.17.182:34512): mistral:latest
-- [http://45.79.252.91:11434](http://45.79.252.91:11434): mistral:latest
-- [https://139.162.112.150:765](https://139.162.112.150:765): mistral:latest
-- [https://8.216.65.236:10165](https://8.216.65.236:10165): mistral:latest
-- [https://139.162.53.161:431](https://139.162.53.161:431): mistral:latest
-- [https://139.162.17.124:1509](https://139.162.17.124:1509): mistral:latest
 - [https://172.104.178.137:1717](https://172.104.178.137:1717): mistral:latest
-- [https://47.237.106.163:11130](https://47.237.106.163:11130): mistral:latest
-- [https://139.162.112.20:30723](https://139.162.112.20:30723): mistral:latest
-- [https://47.89.187.81:37601](https://47.89.187.81:37601): mistral:latest
-- [https://172.104.178.85:11208](https://172.104.178.85:11208): mistral:latest
-- [https://47.251.84.182:1875](https://47.251.84.182:1875): mistral:latest
-- [https://172.234.85.135:10459](https://172.234.85.135:10459): mistral:latest
-- [https://47.74.46.81:2255](https://47.74.46.81:2255): mistral:latest
-- [https://8.220.204.215:10291](https://8.220.204.215:10291): mistral:latest
-- [https://47.237.107.41:6060](https://47.237.107.41:6060): mistral:latest
+- [https://172.104.178.137:707](https://172.104.178.137:707): mistral:latest
+- [https://8.216.65.236:10165](https://8.216.65.236:10165): mistral:latest
+- [https://47.250.11.111:7982](https://47.250.11.111:7982): mistral:latest
 - [https://47.254.234.254:30260](https://47.254.234.254:30260): mistral:latest
-- [https://178.79.183.232:8926](https://178.79.183.232:8926): mistral:latest
+- [http://45.79.252.91:11434](http://45.79.252.91:11434): mistral:latest
+- [https://172.104.167.185:6784](https://172.104.167.185:6784): mistral:latest
+- [https://47.251.84.182:1875](https://47.251.84.182:1875): mistral:latest
+- [https://47.254.239.51:10275](https://47.254.239.51:10275): mistral:latest
+- [https://47.116.188.197:8025](https://47.116.188.197:8025): mistral:latest
+- [https://96.126.114.39:2248](https://96.126.114.39:2248): mistral:latest
+- [https://8.215.59.238:6382](https://8.215.59.238:6382): mistral:latest
+- [https://74.207.234.196:10129](https://74.207.234.196:10129): mistral:latest
+- [https://139.162.60.37:5050](https://139.162.60.37:5050): mistral:latest
+- [https://8.213.215.187:7354](https://8.213.215.187:7354): mistral:latest
+- [https://47.254.239.51:3917](https://47.254.239.51:3917): mistral:latest
 - [http://8.213.218.56:1570](http://8.213.218.56:1570): mistral:latest
-- [https://120.25.190.16:2955](https://120.25.190.16:2955): mistral:latest
+- [https://139.162.112.20:4740](https://139.162.112.20:4740): mistral:latest
+- [https://139.162.17.124:1509](https://139.162.17.124:1509): mistral:latest
+- [https://47.237.105.133:3674](https://47.237.105.133:3674): mistral:latest
+- [https://172.234.85.135:10459](https://172.234.85.135:10459): mistral:latest
+- [https://139.162.17.182:34512](https://139.162.17.182:34512): mistral:latest
+- [https://172.104.167.209:29](https://172.104.167.209:29): mistral:latest
+- [https://47.237.106.163:11130](https://47.237.106.163:11130): mistral:latest
+- [https://172.105.203.215:32761](https://172.105.203.215:32761): mistral:latest
 - [https://47.250.156.29:5814](https://47.250.156.29:5814): mistral:latest
 - [https://23.239.11.212:11108](https://23.239.11.212:11108): mistral:latest
-- [https://47.237.105.133:3674](https://47.237.105.133:3674): mistral:latest
-- [https://182.160.16.163:618](https://182.160.16.163:618): mistral:latest
-- [https://139.162.82.160:4033](https://139.162.82.160:4033): mistral:latest
-- [https://172.105.203.215:32761](https://172.105.203.215:32761): mistral:latest
-- [https://8.213.218.56:4788](https://8.213.218.56:4788): mistral:latest
-- [https://47.254.239.51:10275](https://47.254.239.51:10275): mistral:latest
-- [https://172.104.167.209:38203](https://172.104.167.209:38203): mistral:latest
-- [https://8.216.65.191:3750](https://8.216.65.191:3750): mistral:latest
-- [https://139.162.3.158:7343](https://139.162.3.158:7343): mistral:latest
-- [http://23.239.29.237:11434](http://23.239.29.237:11434): mistral:latest
-- [https://8.213.215.187:9866](https://8.213.215.187:9866): mistral:latest
-- [https://122.9.131.161:61617](https://122.9.131.161:61617): mistral:latest
-- [https://172.104.178.137:18018](https://172.104.178.137:18018): mistral:latest
-- [https://172.105.121.43:10387](https://172.105.121.43:10387): mistral:latest
-- [https://139.162.60.37:5050](https://139.162.60.37:5050): mistral:latest
-- [https://47.116.188.197:8025](https://47.116.188.197:8025): mistral:latest
-- [https://8.215.59.238:6382](https://8.215.59.238:6382): mistral:latest
-- [https://47.254.239.51:3917](https://47.254.239.51:3917): mistral:latest
-- [https://172.104.167.185:6784](https://172.104.167.185:6784): mistral:latest
-- [https://47.100.73.178:7846](https://47.100.73.178:7846): mistral:latest
-- [https://139.162.3.158:43441](https://139.162.3.158:43441): mistral:latest
+- [https://8.212.179.12:2808](https://8.212.179.12:2808): mistral:latest
+- [https://47.116.186.139:24577](https://47.116.186.139:24577): mistral:latest
+- [https://8.220.204.215:10386](https://8.220.204.215:10386): mistral:latest
+- [https://8.220.217.49:4275](https://8.220.217.49:4275): mistral:latest
+- [https://8.221.141.88:1220](https://8.221.141.88:1220): mistral:latest
 - [https://47.88.12.18:2698](https://47.88.12.18:2698): mistral:latest
+- [https://122.9.131.161:18668](https://122.9.131.161:18668): mistral:latest
+- [https://159.138.252.45:10927](https://159.138.252.45:10927): mistral:latest
+- [http://23.239.29.237:11434](http://23.239.29.237:11434): mistral:latest
+- [https://122.9.131.161:61617](https://122.9.131.161:61617): mistral:latest
+- [https://172.105.121.43:10387](https://172.105.121.43:10387): mistral:latest
+- [https://139.162.3.158:7343](https://139.162.3.158:7343): mistral:latest
+- [https://139.162.112.150:765](https://139.162.112.150:765): mistral:latest
+- [https://120.25.190.16:2955](https://120.25.190.16:2955): mistral:latest
+- [https://47.74.46.81:2255](https://47.74.46.81:2255): mistral:latest
+- [https://8.216.65.191:3750](https://8.216.65.191:3750): mistral:latest
+- [https://198.58.112.247:3470](https://198.58.112.247:3470): mistral:latest
 - [https://172.104.41.237:122](https://172.104.41.237:122): mistral:latest
-- [https://96.126.114.39:2248](https://96.126.114.39:2248): mistral:latest
+- [https://172.104.178.85:11208](https://172.104.178.85:11208): mistral:latest
+- [https://172.104.178.137:18018](https://172.104.178.137:18018): mistral:latest
+- [https://47.250.157.145:1592](https://47.250.157.145:1592): mistral:latest
+- [http://173.255.203.153:11434](http://173.255.203.153:11434): mistral:latest
+- [https://172.104.167.209:38203](https://172.104.167.209:38203): mistral:latest
+- [http://8.211.49.86:11434](http://8.211.49.86:11434): mistral:latest
+- [https://172.104.167.209:27914](https://172.104.167.209:27914): mistral:latest
+- [https://47.109.110.100:4219](https://47.109.110.100:4219): mistral:latest
+- [http://47.254.239.51:1226](http://47.254.239.51:1226): mistral:latest
+- [https://47.237.107.41:6060](https://47.237.107.41:6060): mistral:latest
+- [https://8.213.215.187:9866](https://8.213.215.187:9866): mistral:latest
+- [https://139.162.53.161:431](https://139.162.53.161:431): mistral:latest
+- [https://172.104.101.21:8443](https://172.104.101.21:8443): mistral:latest
+- [https://74.207.234.196:2890](https://74.207.234.196:2890): mistral:latest
+- [https://172.104.164.237:2000](https://172.104.164.237:2000): mistral:latest
+- [https://178.79.183.232:8926](https://178.79.183.232:8926): mistral:latest
+- [https://139.162.3.158:3381](https://139.162.3.158:3381): mistral:latest
+- [https://139.162.112.20:30723](https://139.162.112.20:30723): mistral:latest
+- [https://8.213.218.56:4788](https://8.213.218.56:4788): mistral:latest
+- [https://172.104.135.189:2709](https://172.104.135.189:2709): mistral:latest
+- [https://139.162.82.160:4033](https://139.162.82.160:4033): mistral:latest
+- [https://139.162.3.158:43441](https://139.162.3.158:43441): mistral:latest
+- [https://8.220.204.215:10291](https://8.220.204.215:10291): mistral:latest
 - [http://124.70.109.172:11434](http://124.70.109.172:11434): nomic-embed-text:latest | qwen2.5:7b | qwen2.5:3b
-- [http://35.183.127.162:5984](http://35.183.127.162:5984): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.217.107.97:4444](http://15.217.107.97:4444): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
-- [http://43.207.141.180:5172](http://43.207.141.180:5172): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
-- [http://18.231.126.121:8500](http://18.231.126.121:8500): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://13.239.253.213:1181](http://13.239.253.213:1181): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.157.159.247:9191](http://18.157.159.247:9191): deepseek-r1:latest | openchat:7b
-- [http://18.231.126.121:50000](http://18.231.126.121:50000): deepseek-r1:latest | llama2:latest | llama3:latest
-- [http://43.198.78.37:9306](http://43.198.78.37:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
 - [http://16.18.22.211:5172](http://16.18.22.211:5172): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://15.152.38.117:8140](http://15.152.38.117:8140): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
-- [http://35.183.127.162:5172](http://35.183.127.162:5172): deepseek-r1:latest | openchat:7b
 - [http://18.142.95.213:5984](http://18.142.95.213:5984): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://15.152.38.117:8140](http://15.152.38.117:8140): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
 - [http://18.142.95.213:34](http://18.142.95.213:34): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://18.142.95.213:50000](http://18.142.95.213:50000): deepseek-r1:latest | openchat:7b
-- [http://13.38.27.183:5172](http://13.38.27.183:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
-- [http://78.12.136.220:9306](http://78.12.136.220:9306): deepseek-r1:latest
+- [http://15.217.107.97:4444](http://15.217.107.97:4444): deepseek-r1:latest | openchat:7b | qwen2.5:1.5b
+- [http://13.239.253.213:1181](http://13.239.253.213:1181): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.231.214.206:5172](http://18.231.214.206:5172): deepseek-r1:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://43.207.141.180:5172](http://43.207.141.180:5172): deepseek-r1:latest | llama2:latest | llama3:latest | qwen2.5:1.5b
 - [http://18.142.95.213:8500](http://18.142.95.213:8500): deepseek-r1:latest | openchat:7b
-- [http://18.170.45.5:5984](http://18.170.45.5:5984): openchat:7b | qwen2.5:1.5b
+- [http://18.231.126.121:50000](http://18.231.126.121:50000): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://78.12.136.220:9306](http://78.12.136.220:9306): deepseek-r1:latest
+- [http://43.198.78.37:9306](http://43.198.78.37:9306): deepseek-r1:latest | llama2:latest | llama3:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.142.95.213:50000](http://18.142.95.213:50000): deepseek-r1:latest | openchat:7b
+- [http://18.231.126.121:8500](http://18.231.126.121:8500): deepseek-r1:latest | llama2:latest | llama3:latest
+- [http://13.38.27.183:5172](http://13.38.27.183:5172): deepseek-r1:latest | llama2:latest | openchat:7b | qwen2.5:1.5b
+- [http://18.157.159.247:9191](http://18.157.159.247:9191): deepseek-r1:latest | openchat:7b
 - [http://15.152.38.117:5172](http://15.152.38.117:5172): openchat:7b
-- [http://16.51.53.116:5984](http://16.51.53.116:5984): openchat:7b
-- [http://13.208.246.143:5984](http://13.208.246.143:5984): llama3:latest | openchat:7b | qwen2.5:1.5b
 - [http://3.21.247.154:5984](http://3.21.247.154:5984): llama2:latest | openchat:7b
-- [http://16.28.29.244:8500](http://16.28.29.244:8500): llama2:latest | openchat:7b
+- [http://13.208.246.143:5984](http://13.208.246.143:5984): llama3:latest | openchat:7b | qwen2.5:1.5b
 - [http://108.131.152.118:55553](http://108.131.152.118:55553): openchat:7b
+- [http://16.51.53.116:5984](http://16.51.53.116:5984): openchat:7b
+- [http://18.170.45.5:5984](http://18.170.45.5:5984): openchat:7b | qwen2.5:1.5b
+- [http://16.28.29.244:8500](http://16.28.29.244:8500): llama2:latest | openchat:7b
 - [http://129.88.204.160:11434](http://129.88.204.160:11434): gpt-4:latest | hf.co/INSAIT-Institute/BgGPT-Gemma-3-4B-IT-GGUF:Q4_K_M
-- [http://18.175.170.244:5984](http://18.175.170.244:5984): llama2:latest | qwen2.5:1.5b
+- [http://64.120.94.111:11434](http://64.120.94.111:11434): phi3:mini
 - [http://3.231.160.150:5172](http://3.231.160.150:5172): llama2:latest | llama3:latest | qwen2.5:1.5b
+- [http://18.175.170.244:5984](http://18.175.170.244:5984): llama2:latest | qwen2.5:1.5b
 - [http://34.207.102.197:5984](http://34.207.102.197:5984): llama2:latest
-- [http://194.29.186.96:11434](http://194.29.186.96:11434): llama2:7b
-- [http://158.247.199.81:11434](http://158.247.199.81:11434): llama2:7b
-- [http://193.58.120.34:11434](http://193.58.120.34:11434): llama2:7b
-- [http://216.238.107.138:11434](http://216.238.107.138:11434): llama2:7b
-- [http://185.154.110.14:11434](http://185.154.110.14:11434): llama2:7b
-- [http://70.34.217.184:11434](http://70.34.217.184:11434): llama2:7b
-- [http://212.192.23.237:11434](http://212.192.23.237:11434): llama2:7b
-- [http://70.34.249.168:11434](http://70.34.249.168:11434): llama2:7b
 - [http://212.147.235.10:11434](http://212.147.235.10:11434): llama2:7b
+- [http://158.247.199.81:11434](http://158.247.199.81:11434): llama2:7b
+- [http://70.34.249.168:11434](http://70.34.249.168:11434): llama2:7b
 - [http://216.238.82.209:11434](http://216.238.82.209:11434): llama2:7b
-- [http://13.245.161.189:8500](http://13.245.161.189:8500): llama3:latest
-- [http://43.200.174.95:5172](http://43.200.174.95:5172): llama3:latest
-- [http://16.176.232.186:8500](http://16.176.232.186:8500): llama3:latest
+- [http://194.29.186.96:11434](http://194.29.186.96:11434): llama2:7b
+- [http://216.238.107.138:11434](http://216.238.107.138:11434): llama2:7b
+- [http://193.58.120.34:11434](http://193.58.120.34:11434): llama2:7b
+- [http://212.192.23.237:11434](http://212.192.23.237:11434): llama2:7b
+- [http://70.34.217.184:11434](http://70.34.217.184:11434): llama2:7b
+- [http://185.154.110.14:11434](http://185.154.110.14:11434): llama2:7b
 - [http://13.245.161.189:50000](http://13.245.161.189:50000): llama3:latest
+- [http://16.176.232.186:8500](http://16.176.232.186:8500): llama3:latest
+- [http://43.200.174.95:5172](http://43.200.174.95:5172): llama3:latest
+- [http://13.245.161.189:8500](http://13.245.161.189:8500): llama3:latest
 - [http://185.64.112.161:11434](http://185.64.112.161:11434): gemma4:e4b
 - [https://202.157.81.47](https://202.157.81.47): bge-m3:latest | gemma4:e4b-it-qat | gemma4:e2b-it-qat | llama3.2:latest | paddleocr-vl:latest
 - [http://74.225.150.213:11434](http://74.225.150.213:11434): llama3.2:3b
-- [http://64.120.94.111:11434](http://64.120.94.111:11434): gemma2:2b | tinyllama:latest
 - [http://80.241.218.154:11434](http://80.241.218.154:11434): qwen2.5:3b-instruct | sysverify-17911:latest
 - [http://158.247.205.160:11434](http://158.247.205.160:11434): llama3.2:latest
+- [http://123.253.140.246:11434](http://123.253.140.246:11434): qwen3-embedding:0.6b
 - [http://121.229.203.215:5003](http://121.229.203.215:5003): bge-m3:latest
 - [http://216.197.89.79:11434](http://216.197.89.79:11434): gpt-4o:latest | smollm2:135m
 - [http://164.132.106.36:11434](http://164.132.106.36:11434): smollm2:135m
 - [http://152.228.130.26:11434](http://152.228.130.26:11434): smollm2:135m
-- [http://39.98.113.200:8080](http://39.98.113.200:8080): test
+- [http://39.98.113.200:8080](http://39.98.113.200:8080): sample
 
 
